@@ -1,0 +1,77 @@
+package com.parse.activity;
+
+import android.R;
+import android.app.Activity;
+import android.content.Context;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.widget.LinearLayout;
+import android.widget.ListView;
+import android.widget.TextView;
+
+import com.parse.ParseQuery;
+import com.parse.ParseQueryAdapter;
+import com.parse.object.Paper;
+
+public class PaperListActivity extends Activity {
+
+    private static final int LOGIN_ACTIVITY_CODE = 100;
+    private static final int EDIT_ACTIVITY_CODE = 200;
+
+    // Adapter for the Paper query
+    private ParseQueryAdapter<Paper> paperListAdapter;
+
+    private LayoutInflater inflater;
+
+    private ListView paperListView;
+
+    private LinearLayout noPapersView;
+
+    private TextView loggedinInfoView;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_paper_list);
+
+        paperListView = (ListView) findViewByID(R.id.paper_list_view);
+        noPapersView = (LinearLayout) findViewById(R.id.no_papers_view);
+        paperListView.setEmptyView(noPapersView);
+        loggedinInfoView = (TextView) findViewById(R.id.loggedin_info);
+
+        // Set up the Parse query to use in the adapter
+        ParseQueryAdapter.QueryFactory<Paper> factory = new ParseQueryAdapter.QueryFactory<Paper>() {
+            @Override
+            public ParseQuery<Paper> create() {
+                ParseQuery<Paper> query = Paper.getQuery();
+                query.orderByDescending("createdAt");
+                query.fromLocalDatastore();
+                return query;
+            }
+        };
+
+        inflater = (LayoutInflater) this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+        paperListAdapter = new PaperListAdapter(this, factory);
+
+    }
+
+    private class PaperListAdapter extends ParseQueryAdapter<Paper> {
+        public PaperListAdapter(Context context, ParseQueryAdapter.QueryFactory<Paper> queryFactory) {
+            super(context, queryFactory);
+        }
+
+        @Override
+        public View getItemView (Paper paper, View view, ViewGroup parenty) {
+            ViewHoder holder;
+            if (view == null) {
+                view = inflater.inflate(R.layout.list_item_paper, false);
+                holder = new view
+            }
+        }
+
+        private static class ViewHolder {
+            TextView paperTitle;
+        }
+    }
+
+}

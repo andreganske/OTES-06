@@ -1,0 +1,2 @@
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.cdt.codan.ui.cxx;
+eclipse.preferences.version=1

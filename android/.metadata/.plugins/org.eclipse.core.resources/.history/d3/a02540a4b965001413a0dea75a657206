@@ -1,0 +1,13 @@
+package com.parse.activity;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class PaperListActivity extends Activity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+
+    }
+
+}

@@ -1,0 +1,17 @@
+package com.parse.activity;
+
+import com.parse.ParseQueryAdapter;
+
+import android.app.Activity;
+
+public class PaperListActivity extends Activity {
+    
+    private static final int LOGIN_ACTIVITY_CODE = 100;
+    private static final int EDIT_ACTIVITY_CODE = 200;
+    
+    // Adapter for the Paper query
+    private ParseQueryAdapter<Paper> paperListAdapter;
+    
+    
+
+}

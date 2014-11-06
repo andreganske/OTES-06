@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+D:\pessoal\OTES-06\android\workspace\.metadata\.plugins\org.eclipse.jdt.core
+272247900.index
+256694479.index
+1014949856.index
+1903475348.index
+642700312.index
+2487746276.index
+1021595482.index
+256044210.index

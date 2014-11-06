@@ -1,0 +1,7 @@
+package com.parse.adapter;
+
+import com.parse.ParseQueryAdapter;
+
+public class PaperListAdapter extends ParseQueryAdapter<T> {
+
+}

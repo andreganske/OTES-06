@@ -18,7 +18,7 @@ public class PaperInvest extends Application {
         ParseObject.registerSubclass(Paper.class);
         Parse.enableLocalDatastore(getApplicationContext());
 
-        Parse.initialize(this, "4VEGMPH0IHn92IEStOxf33G7l9hNIADVdwDbhZu6", "YvCiHaAkeTQ7vbEGYhGwg0Ff5Rlz0TdrLEP07jhK");
+        Parse.initialize(this, "co1z3OCpRS8Ue4JBeNRmWsvj2V48sfSym0kxbCmh", "Er3unH2uztuPFr8Pzfk2oxAYcKwE4Kc9hOcpk9NF");
 
         ParseUser.enableAutomaticUser();
         ParseACL defaultACL = new ParseACL();

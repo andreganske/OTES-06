@@ -1,7 +1,6 @@
 INDEX VERSION 1.126+C:\desenv\OTES-06\android\.metadata\.plugins\org.eclipse.jdt.core
 316816375.index
 1037559635.index
-1241986195.index
 1925227101.index
 955691501.index
 760565184.index

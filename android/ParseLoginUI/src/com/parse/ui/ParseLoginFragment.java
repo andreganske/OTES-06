@@ -33,6 +33,9 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.facebook.Request;
+import com.facebook.Response;
+import com.facebook.model.GraphUser;
 import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseFacebookUtils;
@@ -255,35 +258,35 @@ public class ParseLoginFragment extends ParseLoginFragmentBase {
                     e.toString());
               }
             } else if (user.isNew()) {
-//              Request.newMeRequest(ParseFacebookUtils.getSession(),
-//                  new Request.GraphUserCallback() {
-//                    @Override
-//                    public void onCompleted(GraphUser fbUser,
-//                                            Response response) {
-//                      /*
-//                        If we were able to successfully retrieve the Facebook
-//                        user's name, let's set it on the fullName field.
-//                      */
-//                      ParseUser parseUser = ParseUser.getCurrentUser();
-//                      if (fbUser != null && parseUser != null
-//                          && fbUser.getName().length() > 0) {
-//                        parseUser.put(USER_OBJECT_NAME_FIELD, fbUser.getName());
-//                        parseUser.saveInBackground(new SaveCallback() {
-//                          @Override
-//                          public void done(ParseException e) {
-//                            if (e != null) {
-//                              debugLog(getString(
-//                                  R.string.com_parse_ui_login_warning_facebook_login_user_update_failed) +
-//                                  e.toString());
-//                            }
-//                            loginSuccess();
-//                          }
-//                        });
-//                      }
-//                      loginSuccess();
-//                    }
-//                  }
-//              ).executeAsync();
+              Request.newMeRequest(ParseFacebookUtils.getSession(),
+                  new Request.GraphUserCallback() {
+                    @Override
+                    public void onCompleted(GraphUser fbUser,
+                                            Response response) {
+                      /*
+                        If we were able to successfully retrieve the Facebook
+                        user's name, let's set it on the fullName field.
+                      */
+                      ParseUser parseUser = ParseUser.getCurrentUser();
+                      if (fbUser != null && parseUser != null
+                          && fbUser.getName().length() > 0) {
+                        parseUser.put(USER_OBJECT_NAME_FIELD, fbUser.getName());
+                        parseUser.saveInBackground(new SaveCallback() {
+                          @Override
+                          public void done(ParseException e) {
+                            if (e != null) {
+                              debugLog(getString(
+                                  R.string.com_parse_ui_login_warning_facebook_login_user_update_failed) +
+                                  e.toString());
+                            }
+                            loginSuccess();
+                          }
+                        });
+                      }
+                      loginSuccess();
+                    }
+                  }
+              ).executeAsync();
             } else {
               loginSuccess();
             }

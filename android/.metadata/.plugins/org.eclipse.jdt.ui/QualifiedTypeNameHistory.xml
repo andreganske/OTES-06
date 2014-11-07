@@ -25,4 +25,6 @@
 <fullyQualifiedTypeName name="com.parse.ParseObject"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.parse.SaveCallback"/>
+<fullyQualifiedTypeName name="com.andreganske.paperinvest.object.Paper"/>
+<fullyQualifiedTypeName name="com.andreganske.paperinvest.R"/>
 </qualifiedTypeNameHistroy>

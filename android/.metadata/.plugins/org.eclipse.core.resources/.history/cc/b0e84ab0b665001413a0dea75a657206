@@ -1,7 +1,0 @@
-package com.parse.object;
-
-import com.parse.ParseObject;
-
-public class Paper extends ParseObject {
-
-}

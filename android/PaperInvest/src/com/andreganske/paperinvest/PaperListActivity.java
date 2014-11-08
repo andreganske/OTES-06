@@ -23,6 +23,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
+import com.parse.ParseAnalytics;
 import com.parse.ParseAnonymousUtils;
 import com.parse.ParseException;
 import com.parse.ParseObject;
@@ -50,6 +51,9 @@ public class PaperListActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        ParseAnalytics.trackAppOpened(getIntent());
+
         setContentView(R.layout.activity_paper_list);
 
         paperListView = (ListView) findViewById(R.id.paper_list_view);

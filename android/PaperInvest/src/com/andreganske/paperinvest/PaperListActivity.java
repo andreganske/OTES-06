@@ -37,7 +37,6 @@ public class PaperListActivity extends Activity {
     private static final int LOGIN_ACTIVITY_CODE = 100;
     private static final int EDIT_ACTIVITY_CODE = 200;
 
-    // Adapter for the Paper query
     private ParseQueryAdapter<Paper> paperListAdapter;
 
     private LayoutInflater inflater;
@@ -58,7 +57,6 @@ public class PaperListActivity extends Activity {
         paperListView.setEmptyView(noPapersView);
         loggedinInfoView = (TextView) findViewById(R.id.loggedin_info);
 
-        // Set up the Parse query to use in the adapter
         ParseQueryAdapter.QueryFactory<Paper> factory = new ParseQueryAdapter.QueryFactory<Paper>() {
             @Override
             public ParseQuery<Paper> create() {

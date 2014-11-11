@@ -4,25 +4,17 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.List;
 
 import org.xmlpull.v1.XmlPullParserException;
 
-import android.content.SharedPreferences;
 import android.os.AsyncTask;
-import android.preference.PreferenceManager;
 import android.util.Log;
 
 import com.andreganske.paperinvest.information.BovespaXMLParser;
-import com.andreganske.paperinvest.information.PaperInformationParser;
 import com.andreganske.paperinvest.information.vo.PaperVO;
 
-public class DonwloadXMLTask extends AsyncTask<String, Void, String> {
-
-    PaperInformationParser parser;
+public class DownloadXmlTask extends AsyncTask<String, Void, String> {
 
     @Override
     protected String doInBackground(String... params) {
@@ -35,26 +27,32 @@ public class DonwloadXMLTask extends AsyncTask<String, Void, String> {
             Log.i("DonwloadXMLTask", "DonwloadXMLTask: Error parsing papers: " + e.getMessage());
             return null;
         }
-
     }
 
     private String loadXmlFromNetwork(String urlString) throws XmlPullParserException, IOException {
-        InputStream stream = null;
-
         BovespaXMLParser bovespaXMLParser = new BovespaXMLParser();
         List<PaperVO> paperVOs = null;
-        Calendar rigthNow = Calendar.getInstance();
-        DateFormat formatter = new SimpleDateFormat("MMM dd h:mmaa");
+        InputStream stream = null;
 
-        SharedPreferences sharedPrefs = PreferenceManager.getDefaultSharedPreferences(this);
-        boolean pref = sharedPrefs.getBoolean("summaryPref", false);
-
+        // cria a lista de coisas que vai ser exibida na tela
         StringBuilder htmlString = new StringBuilder();
-        htmlString.append("<h3>" + getResources().getString(R.string.page_title) + "</h3>");
-        htmlString.append("<em>" + getResources().getString(R.string.updated) + " "
-                + formatter.format(rightNow.getTime()) + "</em>");
 
-        return null;
+        try {
+            stream = downloadUrl(urlString);
+            paperVOs = bovespaXMLParser.parse(stream);
+        } finally {
+            if (stream != null) {
+                stream.close();
+            }
+        }
+
+        for (PaperVO paper : paperVOs) {
+            // do want you want :)
+            // recomend to insert on paper object list
+            System.out.println(paper.toString());
+        }
+
+        return htmlString.toString();
     }
 
     private InputStream downloadUrl(String urlString) throws IOException {

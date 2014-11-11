@@ -2,6 +2,8 @@ package com.andreganske.paperinvest;
 
 import android.app.Activity;
 
+import com.andreganske.paperinvest.network.DownloadXmlTask;
+
 public class NetworkActivity extends Activity {
 
     public static final String WIFI = "Wi-Fi";
@@ -16,11 +18,10 @@ public class NetworkActivity extends Activity {
     public static String sPref = null;
 
     public void loadPapers() {
-
         if (sPref.equals(ANY) && (wifiConnected || mobileConnected)) {
-            new donwloadXMLTask().execute(URL);
+            new DownloadXmlTask().execute(URL_paper);
         } else if (sPref.equals(WIFI) && wifiConnected) {
-            new donwloadXMLTask().execute(URL);
+            new DownloadXmlTask().execute(URL_paper);
         }
     }
 

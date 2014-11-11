@@ -16,7 +16,7 @@ public class BovespaXMLParser {
 
     private static final String ns = null;
 
-    public List<Object> parse(InputStream in) throws XmlPullParserException, IOException {
+    public List<PaperVO> parse(InputStream in) throws XmlPullParserException, IOException {
         try {
 
             XmlPullParser parser = Xml.newPullParser();
@@ -31,8 +31,8 @@ public class BovespaXMLParser {
         }
     }
 
-    private List<Object> readFeed(XmlPullParser parser) throws XmlPullParserException, IOException {
-        List<Object> entries = new ArrayList<Object>();
+    private List<PaperVO> readFeed(XmlPullParser parser) throws XmlPullParserException, IOException {
+        List<PaperVO> entries = new ArrayList<PaperVO>();
 
         parser.require(XmlPullParser.START_TAG, ns, "ComportamentoPapeis");
 

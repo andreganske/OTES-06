@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PaperInvest</string>
+        
+    <string name="search">Get it!</string>
+    <string name="wait">Wait!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="ticket_name">Ticket</string>
+    <string name="ticket_price">Value</string>
+    
+    <string name="question_ticket_name">Enter ticket name</string>
+
+</resources>

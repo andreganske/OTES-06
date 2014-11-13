@@ -111,9 +111,9 @@ public class PaperListActivity extends Activity {
     @Override
     public boolean onPrepareOptionsMenu(Menu menu) {
         super.onPrepareOptionsMenu(menu);
-        //        boolean realUser = !ParseAnonymousUtils.isLinked(ParseUser.getCurrentUser());
-        //        menu.findItem(R.id.action_login).setVisible(!realUser);
-        //        menu.findItem(R.id.action_logout).setVisible(realUser);
+        boolean realUser = !ParseAnonymousUtils.isLinked(ParseUser.getCurrentUser());
+        menu.findItem(R.id.action_login).setVisible(!realUser);
+        menu.findItem(R.id.action_logout).setVisible(realUser);
         return true;
     }
 

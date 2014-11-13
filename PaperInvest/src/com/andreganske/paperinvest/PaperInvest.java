@@ -19,6 +19,8 @@ public class PaperInvest extends Application {
 
         Parse.initialize(this, "co1z3OCpRS8Ue4JBeNRmWsvj2V48sfSym0kxbCmh", "Er3unH2uztuPFr8Pzfk2oxAYcKwE4Kc9hOcpk9NF");
 
+        Parse.setLogLevel(Parse.LOG_LEVEL_DEBUG);
+
         ParseUser.enableAutomaticUser();
         // ParseACL defaultACL = new ParseACL();
         // ParseACL.setDefaultACL(defaultACL, true);

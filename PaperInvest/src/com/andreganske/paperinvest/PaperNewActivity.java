@@ -6,11 +6,14 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.andreganske.paperinvest.bovespa.BovespaPapers;
 import com.andreganske.paperinvest.bovespa.BovespaService;
 import com.parse.GetCallback;
 import com.parse.ParseException;
@@ -24,7 +27,7 @@ public class PaperNewActivity extends Activity {
 
     private Button deleteButton;
     private Button searchButton;
-    private EditText paperText;
+    private AutoCompleteTextView paperText;
     private Button saveButton;
 
     private String codigo;
@@ -42,10 +45,15 @@ public class PaperNewActivity extends Activity {
             paperId = getIntent().getExtras().getString("ID");
         }
 
-        paperText = (EditText) findViewById(R.id.paper_text);
+        paperText = (AutoCompleteTextView) findViewById(R.id.paper_text);
         saveButton = (Button) findViewById(R.id.saveButton);
         deleteButton = (Button) findViewById(R.id.deleteButton);
         searchButton = (Button) findViewById(R.id.searchButton);
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line,
+                BovespaPapers.INDICES);
+        paperText = (AutoCompleteTextView) findViewById(R.id.paper_text);
+        paperText.setAdapter(adapter);
 
         if (paperId == null) {
             paper = new Paper();

@@ -38,13 +38,14 @@ public class PaperNewActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_paper_new);
 
-        paperText = (EditText) findViewById(R.id.paper_text);
-        saveButton = (Button) findViewById(R.id.saveButton);
-        deleteButton = (Button) findViewById(R.id.deleteButton);
-
         if (getIntent().hasExtra("ID")) {
             paperId = getIntent().getExtras().getString("ID");
         }
+
+        paperText = (EditText) findViewById(R.id.paper_text);
+        saveButton = (Button) findViewById(R.id.saveButton);
+        deleteButton = (Button) findViewById(R.id.deleteButton);
+        searchButton = (Button) findViewById(R.id.searchButton);
 
         if (paperId == null) {
             paper = new Paper();

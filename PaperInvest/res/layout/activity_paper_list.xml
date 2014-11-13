@@ -9,10 +9,19 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="${relativePackage}.${activityClass}" >
     
+    <TextView
+        android:id="@+id/loggedin_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/not_logged_in"
+        android:textSize="18sp" />
+
     <ListView
         android:id="@+id/paper_list_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
+        android:layout_height="match_parent"
+        android:layout_below="@id/loggedin_info" >
     </ListView>
     
     <LinearLayout

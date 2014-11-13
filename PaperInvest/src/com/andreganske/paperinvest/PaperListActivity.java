@@ -30,6 +30,7 @@ import com.parse.ParseQuery;
 import com.parse.ParseQueryAdapter;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.parse.ui.ParseLoginBuilder;
 
 public class PaperListActivity extends Activity {
 
@@ -49,11 +50,12 @@ public class PaperListActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.activity_paper_list);
+
         paperListView = (ListView) findViewById(R.id.paper_list_view);
         noPapersView = (LinearLayout) findViewById(R.id.no_papers_view);
         paperListView.setEmptyView(noPapersView);
+        loggedinInfoView = (TextView) findViewById(R.id.loggedin_info);
 
         ParseQueryAdapter.QueryFactory<Paper> factory = new ParseQueryAdapter.QueryFactory<Paper>() {
 
@@ -68,6 +70,8 @@ public class PaperListActivity extends Activity {
 
         inflater = (LayoutInflater) this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         paperListAdapter = new PaperListAdapter(this, factory);
+
+        paperListView.setAdapter(paperListAdapter);
 
         paperListView.setOnItemClickListener(new OnItemClickListener() {
             @Override
@@ -105,6 +109,18 @@ public class PaperListActivity extends Activity {
             syncPapersToParse();
         }
 
+        if (item.getItemId() == R.id.action_logout) {
+            ParseUser.logOut();
+            ParseAnonymousUtils.logIn(null);
+            updateLoggedInInfo();
+            paperListAdapter.clear();
+            ParseObject.unpinAllInBackground(PaperInvest.PAPER_GROUP_NAME);
+        }
+
+        if (item.getItemId() == R.id.action_login) {
+            ParseLoginBuilder builder = new ParseLoginBuilder(this);
+            startActivityForResult(builder.build(), LOGIN_ACTIVITY_CODE);
+        }
         return super.onOptionsItemSelected(item);
     }
 
@@ -152,35 +168,41 @@ public class PaperListActivity extends Activity {
         ConnectivityManager cm = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo ni = cm.getActiveNetworkInfo();
         if ((ni != null) && (ni.isConnected())) {
-            ParseQuery<Paper> query = Paper.getQuery();
-            query.fromPin(PaperInvest.PAPER_GROUP_NAME);
-            query.whereEqualTo("isDraft", true);
-            query.findInBackground(new FindCallback<Paper>() {
+            if (!ParseAnonymousUtils.isLinked(ParseUser.getCurrentUser())) {
+                ParseQuery<Paper> query = Paper.getQuery();
+                query.fromPin(PaperInvest.PAPER_GROUP_NAME);
+                query.whereEqualTo("isDraft", true);
+                query.findInBackground(new FindCallback<Paper>() {
 
-                @Override
-                public void done(List<Paper> objects, ParseException e) {
-                    if (e == null) {
-                        for (final Paper paper : objects) {
-                            paper.setDraft(false);
-                            paper.saveInBackground(new SaveCallback() {
+                    @Override
+                    public void done(List<Paper> objects, ParseException e) {
+                        if (e == null) {
+                            for (final Paper paper : objects) {
+                                paper.setDraft(false);
+                                paper.saveInBackground(new SaveCallback() {
 
-                                @Override
-                                public void done(ParseException e) {
-                                    if (e == null) {
-                                        if (!isFinishing()) {
-                                            paperListAdapter.notifyDataSetChanged();
+                                    @Override
+                                    public void done(ParseException e) {
+                                        if (e == null) {
+                                            if (!isFinishing()) {
+                                                paperListAdapter.notifyDataSetChanged();
+                                            }
+                                        } else {
+                                            paper.setDraft(true);
                                         }
-                                    } else {
-                                        paper.setDraft(true);
                                     }
-                                }
-                            });
+                                });
+                            }
+                        } else {
+                            Log.i("PaperListActivity",
+                                    "syncPapersToParse: Error finding pinned papers: " + e.getMessage());
                         }
-                    } else {
-                        Log.i("PaperListActivity", "syncPapersToParse: Error finding pinned papers: " + e.getMessage());
                     }
-                }
-            });
+                });
+            } else {
+                ParseLoginBuilder builder = new ParseLoginBuilder(this);
+                startActivityForResult(builder.build(), LOGIN_ACTIVITY_CODE);
+            }
         } else {
             Toast.makeText(getApplicationContext(),
                     "Your device appears to be offline. Some papers may not have synced to Parse.", Toast.LENGTH_LONG)

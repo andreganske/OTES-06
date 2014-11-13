@@ -250,26 +250,34 @@ public class PaperListActivity extends Activity {
             if (view == null) {
                 view = inflater.inflate(R.layout.list_item_paper, parent, false);
                 holder = new ViewHolder();
-                holder.paperTitle = (TextView) view.findViewById(R.id.paper_name);
+                holder.codigo = (TextView) view.findViewById(R.id.paper_codigo);
+                holder.ultimo = (TextView) view.findViewById(R.id.paper_ultimo);
+                holder.oscilacao = (TextView) view.findViewById(R.id.paper_oscilacao);
                 view.setTag(holder);
             } else {
                 holder = (ViewHolder) view.getTag();
             }
 
-            TextView paperTitle = holder.paperTitle;
+            TextView code = holder.codigo;
+            TextView ultimo = holder.ultimo;
+            TextView oscilacao = holder.oscilacao;
 
-            paperTitle.setText(paper.getCode());
+            code.setText(paper.getCode());
+            ultimo.setText(paper.getUltimo());
+            oscilacao.setText(paper.getOscilacao());
 
             if (paper.isDraft()) {
-                paperTitle.setTypeface(null, Typeface.ITALIC);
+                code.setTypeface(null, Typeface.ITALIC);
             } else {
-                paperTitle.setTypeface(null, Typeface.NORMAL);
+                code.setTypeface(null, Typeface.NORMAL);
             }
             return view;
         }
     }
 
     private static class ViewHolder {
-        TextView paperTitle;
+        TextView codigo;
+        TextView ultimo;
+        TextView oscilacao;
     }
 }

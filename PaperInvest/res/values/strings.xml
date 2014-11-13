@@ -16,6 +16,7 @@
     <string name="error_end">.</string>
     <string name="error_name">enter a username</string>
     <string name="error_password">enter a password</string>
+    <string name="error_paper_code">Please, enter a stock code!</string>
     
     <string name="password_mismatch">enter the same password twice</string>
     <string name="paper_prompt">Enter paper details:</string>
@@ -42,5 +43,9 @@
     <string name="ticket_price">Value</string>
     
     <string name="question_ticket_name">Enter ticket name</string>
+    
+    <string name="paper_code_text">Ticket</string>
+    <string name="paper_last_text">Last</string>
+    <string name="paper_oscilation_text">Oscilation</string>
 
 </resources>

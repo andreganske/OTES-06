@@ -11,8 +11,8 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/textView1"
-        android:inputType="text"
-        android:ems="10" />
+        android:ems="10"
+        android:inputType="text" />
 
     <TextView
         android:id="@+id/textView1"
@@ -21,14 +21,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:text="@string/question_ticket_name" />
-
-    <TextView
-        android:id="@+id/paper_result"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:text="@string/wait" />
 
     <Button
         android:id="@+id/saveButton"
@@ -57,5 +49,68 @@
         android:layout_marginTop="15dp"
         android:onClick="onBtnSearchClick"
         android:text="@string/search" />
+
+    <TextView
+        android:id="@+id/paperCodeName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/searchButton"
+        android:layout_marginTop="30dp"
+        android:text="@string/paper_code_text"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/paperCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/paperCodeName"
+        android:layout_alignBottom="@+id/paperCodeName"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/paperlast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/paperlastName"
+        android:layout_alignBottom="@+id/paperlastName"
+        android:layout_alignLeft="@+id/paperCode"/>
+
+    <TextView
+        android:id="@+id/paperlastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/paperCodeName"
+        android:layout_marginTop="20dp"
+        android:text="@string/paper_last_text" />
+    
+    <TextView
+        android:id="@+id/paperOscilation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/paperOscilationName"
+        android:layout_alignBottom="@+id/paperOscilationName"
+        android:layout_alignLeft="@+id/paperCode"/>
+
+    <TextView
+        android:id="@+id/paperOscilationName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/paperlastName"
+        android:layout_marginTop="20dp"
+        android:text="@string/paper_oscilation_text" />
+
+    <TextView
+        android:id="@+id/paperErrorCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/saveButton"
+        android:layout_centerHorizontal="true"
+        android:text="@string/error_paper_code"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>

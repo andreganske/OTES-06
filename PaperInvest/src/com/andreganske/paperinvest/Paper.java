@@ -18,6 +18,22 @@ public class Paper extends ParseObject {
         put("code", code);
     }
 
+    public String getUltimo() {
+        return getString("ultimo");
+    }
+
+    public void setUltimo(String ultimo) {
+        put("ultimo", ultimo);
+    }
+
+    public String getOscilacao() {
+        return getString("oscilacao");
+    }
+
+    public void setOscilacao(String oscilacao) {
+        put("oscilacao", oscilacao);
+    }
+
     public ParseUser getAuthor() {
         return getParseUser("author");
     }

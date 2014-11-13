@@ -1,9 +1,9 @@
 package com.andreganske.paperinvest;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
@@ -29,7 +29,7 @@ public class PaperNewActivity extends Activity {
 
     private String codigo;
 
-    private Paper paper;
+    protected Paper paper;
 
     private String paperId = null;
 
@@ -73,10 +73,6 @@ public class PaperNewActivity extends Activity {
 
             @Override
             public void onClick(View v) {
-
-                TextView tv = (TextView) findViewById(R.id.paper_result);
-                tv.setText("Done!!!");
-
                 paper.setCode(paperText.getText().toString());
                 paper.setDraft(true);
                 paper.setAuthor(ParseUser.getCurrentUser());
@@ -85,6 +81,7 @@ public class PaperNewActivity extends Activity {
                     @Override
                     public void done(ParseException e) {
                         if (isFinishing()) {
+                            openMainView();
                             return;
                         }
                         if (e == null) {
@@ -113,13 +110,12 @@ public class PaperNewActivity extends Activity {
 
             @Override
             public void onClick(View v) {
-                EditText sym = (EditText) findViewById(R.id.paper_text);
-                TextView tv = (TextView) findViewById(R.id.paper_result);
+                EditText code = (EditText) findViewById(R.id.paper_text);
 
-                if (sym.getText().toString().equalsIgnoreCase("")) {
-                    tv.setText("Plase, enter a stock code!");
+                if (code.getText().toString().equalsIgnoreCase("")) {
+                    findViewById(R.id.paperErrorCode).setVisibility(View.VISIBLE);
                 } else {
-                    codigo = sym.getText().toString();
+                    codigo = code.getText().toString();
                     bovespa = new BovespaService(codigo);
                     new ContactWebservice().execute(bovespa);
                 }
@@ -127,24 +123,33 @@ public class PaperNewActivity extends Activity {
         });
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // getMenuInflater().inflate(R.menu.paper_invest_menu, menu);
-        return true;
+    private void openMainView() {
+        startActivityForResult(new Intent(this, PaperListActivity.class), 0);
     }
 
     private class ContactWebservice extends AsyncTask<BovespaService, Void, String> {
 
         @Override
         protected String doInBackground(BovespaService... params) {
-            params[0].callService();
-            return "Price of " + params[0].getPaperVo().getNome() + ": " + params[0].getPaperVo().getUltimo();
+            try {
+                params[0].callService();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+
+            paper.setUltimo(params[0].getPaperVo().getUltimo());
+            paper.setOscilacao(params[0].getPaperVo().getOscilacao());
+
+            return "ok";
         }
 
         @Override
         protected void onPostExecute(String result) {
-            TextView txt = (TextView) findViewById(R.id.paper_result);
-            txt.setText(result);
+            if (result.compareTo("ok") == 0) {
+                ((TextView) findViewById(R.id.paperCode)).setText(paper.getCode());
+                ((TextView) findViewById(R.id.paperlast)).setText(paper.getUltimo());
+                ((TextView) findViewById(R.id.paperOscilation)).setText(paper.getOscilacao());
+            }
         }
 
         @Override

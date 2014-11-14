@@ -263,28 +263,23 @@ public class PaperListActivity extends Activity {
                 holder = (ViewHolder) view.getTag();
             }
 
-            TextView code = holder.codigo;
-            TextView name = holder.name;
-            TextView ultimo = holder.ultimo;
-            TextView oscilacao = holder.oscilacao;
-
-            code.setText(paper.getCode());
-            name.setText(BovespaPapers.getNameByCode(paper.getCode()).getName());
-            ultimo.setText("R$" + paper.getUltimo());
-            oscilacao.setText(paper.getOscilacao() + "%");
+            holder.codigo.setText(paper.getCode());
+            holder.name.setText(BovespaPapers.getNameByCode(paper.getCode()).getName());
+            holder.ultimo.setText("R$" + paper.getUltimo());
+            holder.oscilacao.setText(paper.getOscilacao() + "%");
 
             if (paper.getOscilacao().contains("-")) {
-                oscilacao.setTextColor(Color.RED);
+                holder.oscilacao.setTextColor(Color.RED);
             } else if (paper.getOscilacao().compareToIgnoreCase("0,00") == 0) {
-                oscilacao.setTextColor(Color.LTGRAY);
+                holder.oscilacao.setTextColor(Color.LTGRAY);
             } else {
-                oscilacao.setTextColor(Color.GREEN);
+                holder.oscilacao.setTextColor(Color.GREEN);
             }
 
             if (paper.isDraft()) {
-                code.setTypeface(null, Typeface.ITALIC);
+                holder.codigo.setTypeface(null, Typeface.ITALIC);
             } else {
-                code.setTypeface(null, Typeface.NORMAL);
+                holder.codigo.setTypeface(null, Typeface.NORMAL);
             }
             return view;
         }

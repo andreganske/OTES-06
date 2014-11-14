@@ -64,7 +64,7 @@ public class PaperListActivity extends Activity {
             @Override
             public ParseQuery<Paper> create() {
                 ParseQuery<Paper> query = Paper.getQuery();
-                query.orderByDescending("createdAt");
+                query.orderByAscending("code");
                 query.fromLocalDatastore();
                 return query;
             }
@@ -270,8 +270,8 @@ public class PaperListActivity extends Activity {
 
             code.setText(paper.getCode());
             name.setText(BovespaPapers.getNameByCode(paper.getCode()).getName());
-            ultimo.setText(paper.getUltimo());
-            oscilacao.setText(paper.getOscilacao());
+            ultimo.setText("R$" + paper.getUltimo());
+            oscilacao.setText(paper.getOscilacao() + "%");
 
             if (paper.getOscilacao().contains("-")) {
                 oscilacao.setTextColor(Color.RED);

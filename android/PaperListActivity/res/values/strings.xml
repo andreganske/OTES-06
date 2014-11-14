@@ -2,50 +2,51 @@
 <resources>
 
     <string name="app_name">PaperInvest</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Configurações</string>
     
-    <string name="log_in">Login</string>
-    <string name="signup">Sign Up</string>
+    <string name="log_in">Entrar</string>
+    <string name="signup">Novo usuário</string>
     
-    <string name="username_prompt">Username</string>
-    <string name="password_prompt">Password</string>
-    <string name="confirm_password_prompt">Please confirm your password:</string>
+    <string name="username_prompt">Usuário</string>
+    <string name="password_prompt">Senha</string>
+    <string name="confirm_password_prompt">Confirme sua senha:</string>
     
-    <string name="error_prefix">"Please "</string>
-    <string name="error_join">", and "</string>
+    <string name="error_prefix">"Por favor "</string>
+    <string name="error_join">", e "</string>
     <string name="error_end">.</string>
-    <string name="error_name">enter a username</string>
-    <string name="error_password">enter a password</string>
-    <string name="error_paper_code">Please, enter a stock code!</string>
+    <string name="error_name">digite um usuário</string>
+    <string name="error_password">digite uma senha</string>
+    <string name="error_paper_code">Digite o código de um papel para buscar!</string>
     
-    <string name="password_mismatch">enter the same password twice</string>
-    <string name="paper_prompt">Enter paper details:</string>
+    <string name="password_mismatch">digite a mesma senha duas vezes</string>
     
-    <string name="save">Save</string>
-    <string name="cancel">Cancel</string>
-    <string name="delete">Delete</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Remover</string>
     
-    <string name="action_new">New Paper</string>
-    <string name="action_sync">Sync</string>
-    <string name="action_logout">Log Out</string>
-    <string name="action_login">Log In</string>
+    <string name="action_new">Nova papel</string>
+    <string name="action_sync">Sincronizar</string>
+    <string name="action_logout">Sair</string>
+    <string name="action_login">Entrar</string>
     
-    <string name="login_title">Please log in or sign up to sync your papers to your account.</string>
-    <string name="no_items">No items, click + to started adding papers.</string>
-    <string name="not_logged_in">Not logged in</string>
-    <string name="logged_in">Welcome, %1$s</string>
+    <string name="login_title">Por favor, faça login ou se registre para sincronizar seus dados.</string>
+    <string name="no_items">Está tão vazio aqui, selecione + para buscar papeis!</string>
+    <string name="not_logged_in">Você não está logado</string>
+    <string name="logged_in">Bem vindo %1$s !</string>
         
-    <string name="search">Get it!</string>
-    <string name="wait">Wait!</string>
-    <string name="menu_settings">Settings</string>
+    <string name="search">Buscar</string>
+       
+    <string name="ticket_name">Papel</string>
+    <string name="ticket_price">Valor</string>
     
-    <string name="ticket_name">Ticket</string>
-    <string name="ticket_price">Value</string>
+    <string name="question_ticket_name">Digite o código de um papel</string>
     
-    <string name="question_ticket_name">Enter ticket name</string>
+    <string name="paper_code_text">Papel</string>
+    <string name="paper_last_text">Último</string>
+    <string name="paper_oscilation_text">Oscilação</string>
     
-    <string name="paper_code_text">Ticket</string>
-    <string name="paper_last_text">Last</string>
-    <string name="paper_oscilation_text">Oscilation</string>
+    <string name="selection_no_items">Não foi possível encontrar nenhum item. Tente novamente mais tarde.</string>
+    
+    
 
 </resources>

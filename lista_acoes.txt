@@ -1,0 +1,1557 @@
+	<span><a href="/acao/index.html?codigo=ABTT34.SA">ABBOTT          </a></span>
+	<span><a href="/acao/index.html?codigo=ABCB2.SA">ABC BRASIL DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=ABCB1.SA">ABC BRASIL DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=ABCB9.SA">ABC BRASIL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=ABCB3.SA">ABC BRASIL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=ABCB4.SA">ABC BRASIL PN   </a></span>
+	<span><a href="/acao/index.html?codigo=ABCB10.SA">ABC BRASIL PN   </a></span>
+	<span><a href="/acao/index.html?codigo=ABNB3.SA">ABNOTE ON</a></span>
+	<span><a href="/acao/index.html?codigo=ABRE3.SA">ABRIL EDU ON    </a></span>
+	<span><a href="/acao/index.html?codigo=ABRE4.SA">ABRIL EDU PN    </a></span>
+	<span><a href="/acao/index.html?codigo=ABRE11.SA">ABRIL EDU UNT   </a></span>
+	<span><a href="/acao/index.html?codigo=ABYA1.SA">ABYARA DIR</a></span>
+	<span><a href="/acao/index.html?codigo=ABYA9.SA">ABYARA ON</a></span>
+	<span><a href="/acao/index.html?codigo=ABYA3.SA">ABYARA ON</a></span>
+	<span><a href="/acao/index.html?codigo=EALT3.SA">ACO ALTONA ON   </a></span>
+	<span><a href="/acao/index.html?codigo=EALT4.SA">ACO ALTONA PN   </a></span>
+	<span><a href="/acao/index.html?codigo=AVIL3.SA">ACOS VILL ON</a></span>
+	<span><a href="/acao/index.html?codigo=ACGU3.SA">ACUCAR GUAR ON</a></span>
+	<span><a href="/acao/index.html?codigo=AELP3.SA">AES ELPA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=AESL3.SA">AES SUL ON</a></span>
+	<span><a href="/acao/index.html?codigo=AESL4.SA">AES SUL PN</a></span>
+	<span><a href="/acao/index.html?codigo=GETI3.SA">AES TIETE ON    </a></span>
+	<span><a href="/acao/index.html?codigo=GETI4.SA">AES TIETE PN    </a></span>
+	<span><a href="/acao/index.html?codigo=AETA3.SA">AETATIS SEC ON</a></span>
+	<span><a href="/acao/index.html?codigo=AFLU3.SA">AFLUENTE ON     </a></span>
+	<span><a href="/acao/index.html?codigo=AFLU5.SA">AFLUENTE PNA    </a></span>
+	<span><a href="/acao/index.html?codigo=AFLU6.SA">AFLUENTE PNB    </a></span>
+	<span><a href="/acao/index.html?codigo=AFLT3.SA">AFLUENTE T ON   </a></span>
+	<span><a href="/acao/index.html?codigo=ANDG4B.SO">AGCONCESSOES</a></span>
+	<span><a href="/acao/index.html?codigo=CANT4B.SO">AGPART</a></span>
+	<span><a href="/acao/index.html?codigo=CANT3B.SO">AGPART</a></span>
+	<span><a href="/acao/index.html?codigo=AGIN3.SA">AGRA INCORP ON</a></span>
+	<span><a href="/acao/index.html?codigo=AGEI3.SA">AGRE EMP ON</a></span>
+	<span><a href="/acao/index.html?codigo=AGEN33.SA">AGRENCO BDR     </a></span>
+	<span><a href="/acao/index.html?codigo=AGEN11.SA">AGRENCO BDR     </a></span>
+	<span><a href="/acao/index.html?codigo=AALC34.SA">ALCOA           </a></span>
+	<span><a href="/acao/index.html?codigo=BRGE3.SA">ALFA CONSORC ON </a></span>
+	<span><a href="/acao/index.html?codigo=BRGE5.SA">ALFA CONSORC PNA</a></span>
+	<span><a href="/acao/index.html?codigo=BRGE6.SA">ALFA CONSORC PNB</a></span>
+	<span><a href="/acao/index.html?codigo=BRGE7.SA">ALFA CONSORC PNC</a></span>
+	<span><a href="/acao/index.html?codigo=BRGE8.SA">ALFA CONSORC PND</a></span>
+	<span><a href="/acao/index.html?codigo=BRGE11.SA">ALFA CONSORC PNE</a></span>
+	<span><a href="/acao/index.html?codigo=BRGE12.SA">ALFA CONSORC PNF</a></span>
+	<span><a href="/acao/index.html?codigo=CRIV3.SA">ALFA FINANC ON  </a></span>
+	<span><a href="/acao/index.html?codigo=CRIV4.SA">ALFA FINANC PN  </a></span>
+	<span><a href="/acao/index.html?codigo=RPAD3.SA">ALFA HOLDING ON </a></span>
+	<span><a href="/acao/index.html?codigo=RPAD5.SA">ALFA HOLDING PNA</a></span>
+	<span><a href="/acao/index.html?codigo=RPAD6.SA">ALFA HOLDING PNB</a></span>
+	<span><a href="/acao/index.html?codigo=BRIV3.SA">ALFA INVEST ON  </a></span>
+	<span><a href="/acao/index.html?codigo=BRIV4.SA">ALFA INVEST PN  </a></span>
+	<span><a href="/acao/index.html?codigo=ALSC3.SA">ALIANSCE ON     </a></span>
+	<span><a href="/acao/index.html?codigo=APTI3.SA">ALIPERTI ON     </a></span>
+	<span><a href="/acao/index.html?codigo=APTI4.SA">ALIPERTI PN     </a></span>
+	<span><a href="/acao/index.html?codigo=ALIU3B.SO">ALIUM PART</a></span>
+	<span><a href="/acao/index.html?codigo=ALLL12.SA">ALL AMER LAT DIR</a></span>
+	<span><a href="/acao/index.html?codigo=ALLL3.SA">ALL AMER LAT ON </a></span>
+	<span><a href="/acao/index.html?codigo=ALLL4.SA">ALL AMER LAT PN</a></span>
+	<span><a href="/acao/index.html?codigo=ALLL11.SA">ALL AMER LAT UNT</a></span>
+	<span><a href="/acao/index.html?codigo=AORE3.SA">ALL ORE ON      </a></span>
+	<span><a href="/acao/index.html?codigo=ALPA3.SA">ALPARGATAS ON   </a></span>
+	<span><a href="/acao/index.html?codigo=ALPA4.SA">ALPARGATAS PN   </a></span>
+	<span><a href="/acao/index.html?codigo=ALTR3.SA">ALTERE SEC ON</a></span>
+	<span><a href="/acao/index.html?codigo=ALTS3M.SA">ALTUS SA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=ALTS3.SA">ALTUS SA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=ALUP3.SA">ALUPAR ON       </a></span>
+	<span><a href="/acao/index.html?codigo=ALUP4.SA">ALUPAR PN       </a></span>
+	<span><a href="/acao/index.html?codigo=ALUP11.SA">ALUPAR UNT      </a></span>
+	<span><a href="/acao/index.html?codigo=AMZO34.SA">AMAZON          </a></span>
+	<span><a href="/acao/index.html?codigo=TMAC8B.SO">AMAZONIA CEL</a></span>
+	<span><a href="/acao/index.html?codigo=TMAC7B.SO">AMAZONIA CEL</a></span>
+	<span><a href="/acao/index.html?codigo=TMAC6B.SO">AMAZONIA CEL</a></span>
+	<span><a href="/acao/index.html?codigo=TMAC5B.SO">AMAZONIA CEL</a></span>
+	<span><a href="/acao/index.html?codigo=TMAC3B.SO">AMAZONIA CEL</a></span>
+	<span><a href="/acao/index.html?codigo=TMAC11B.SO">AMAZONIA CEL</a></span>
+	<span><a href="/acao/index.html?codigo=BAZA3.SA">AMAZONIA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=ABEV9.SA">AMBEV           </a></span>
+	<span><a href="/acao/index.html?codigo=ABEV1.SA">AMBEV DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=AMBV2.SA">AMBEV DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=AMBV1.SA">AMBEV DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=ABEV3.SA">AMBEV ON        </a></span>
+	<span><a href="/acao/index.html?codigo=AMBV9.SA">AMBEV ON        </a></span>
+	<span><a href="/acao/index.html?codigo=AMBV3.SA">AMBEV ON        </a></span>
+	<span><a href="/acao/index.html?codigo=AMBV4.SA">AMBEV PN        </a></span>
+	<span><a href="/acao/index.html?codigo=AMBV10.SA">AMBEV PN        </a></span>
+	<span><a href="/acao/index.html?codigo=AXPB34.SA">AMERICAN EXP    </a></span>
+	<span><a href="/acao/index.html?codigo=AMCE1.SA">AMERICEL DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=AMCE11.SA">AMERICEL DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=AMCE3.SA">AMERICEL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=AMCE9.SA">AMERICEL ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=AMCE12.SA">AMERICEL PN REC </a></span>
+	<span><a href="/acao/index.html?codigo=AMCE6.SA">AMERICEL PNB    </a></span>
+	<span><a href="/acao/index.html?codigo=AMGN34.SA">AMGEN           </a></span>
+	<span><a href="/acao/index.html?codigo=AMIL3.SA">AMIL ON         </a></span>
+	<span><a href="/acao/index.html?codigo=CBEE3.SA">AMPLA ENERG ON  </a></span>
+	<span><a href="/acao/index.html?codigo=AMPI3.SA">AMPLA INVEST ON </a></span>
+	<span><a href="/acao/index.html?codigo=AEDU9.SA">ANHANGUERA ON</a></span>
+	<span><a href="/acao/index.html?codigo=AEDU3.SA">ANHANGUERA ON   </a></span>
+	<span><a href="/acao/index.html?codigo=AEDU4.SA">ANHANGUERA PN</a></span>
+	<span><a href="/acao/index.html?codigo=AEDU12.SA">ANHANGUERA REC</a></span>
+	<span><a href="/acao/index.html?codigo=AEDU11.SA">ANHANGUERA UNT</a></span>
+	<span><a href="/acao/index.html?codigo=ANIM3.SA">ANIMA ON        </a></span>
+	<span><a href="/acao/index.html?codigo=AAPL34.SA">APPLE           </a></span>
+	<span><a href="/acao/index.html?codigo=ARCZ3.SA">ARACRUZ ON</a></span>
+	<span><a href="/acao/index.html?codigo=ARCZ5.SA">ARACRUZ PNA</a></span>
+	<span><a href="/acao/index.html?codigo=ARCZ6.SA">ARACRUZ PNB</a></span>
+	<span><a href="/acao/index.html?codigo=VDNP3B.SO">ARAUCARIA</a></span>
+	<span><a href="/acao/index.html?codigo=ARMT34.SA">ARCELOR         </a></span>
+	<span><a href="/acao/index.html?codigo=ARZZ3.SA">AREZZO CO ON    </a></span>
+	<span><a href="/acao/index.html?codigo=ATBS3.SA">ARTEB ON</a></span>
+	<span><a href="/acao/index.html?codigo=ARTR3.SA">ARTERIS ON      </a></span>
+	<span><a href="/acao/index.html?codigo=ARLA3.SA">ARTHUR LANGE ON</a></span>
+	<span><a href="/acao/index.html?codigo=ARLA4.SA">ARTHUR LANGE PN</a></span>
+	<span><a href="/acao/index.html?codigo=ATTB34.SA">ATT INC         </a></span>
+	<span><a href="/acao/index.html?codigo=AUTM3.SA">AUTOMETAL ON    </a></span>
+	<span><a href="/acao/index.html?codigo=AVON34.SA">AVON            </a></span>
+	<span><a href="/acao/index.html?codigo=AZEV3.SA">AZEVEDO ON      </a></span>
+	<span><a href="/acao/index.html?codigo=AZEV4.SA">AZEVEDO PN      </a></span>
+	<span><a href="/acao/index.html?codigo=BTOW3.SA">B2W GLOBAL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BTOW1.SA">B2W VAREJO DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=BTOW9.SA">B2W VAREJO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BAHI3.SA">BAHEMA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BAHI4.SA">BAHEMA PNA</a></span>
+	<span><a href="/acao/index.html?codigo=CBAG9.SA">BAN ARMAZENS ON</a></span>
+	<span><a href="/acao/index.html?codigo=CBAG3.SA">BAN ARMAZENS ON </a></span>
+	<span><a href="/acao/index.html?codigo=BPAN4.SA">BANCO PAN       </a></span>
+	<span><a href="/acao/index.html?codigo=BPAN10.SA">BANCO PAN       </a></span>
+	<span><a href="/acao/index.html?codigo=BPAN9.SA">BANCO PAN       </a></span>
+	<span><a href="/acao/index.html?codigo=BPAN3.SA">BANCO PAN       </a></span>
+	<span><a href="/acao/index.html?codigo=BPAN12.SA">BANCO PAN       </a></span>
+	<span><a href="/acao/index.html?codigo=BGIP3.SA">BANESE ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BGIP4.SA">BANESE PN       </a></span>
+	<span><a href="/acao/index.html?codigo=BEES1.SA">BANESTES DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=BEES3.SA">BANESTES ON     </a></span>
+	<span><a href="/acao/index.html?codigo=BEES9.SA">BANESTES ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=BEES4.SA">BANESTES PN     </a></span>
+	<span><a href="/acao/index.html?codigo=BOAC34.SA">BANK AMERICA    </a></span>
+	<span><a href="/acao/index.html?codigo=BPAR3.SA">BANPARA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=BRSR3.SA">BANRISUL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=BRSR5.SA">BANRISUL PNA    </a></span>
+	<span><a href="/acao/index.html?codigo=BRSR6.SA">BANRISUL PNB    </a></span>
+	<span><a href="/acao/index.html?codigo=BSAN30.SA">BANSANTANDER    </a></span>
+	<span><a href="/acao/index.html?codigo=BDLL3.SA">BARDELLA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=BDLL4.SA">BARDELLA PN     </a></span>
+	<span><a href="/acao/index.html?codigo=BTTL3.SA">BATTISTELLA ON  </a></span>
+	<span><a href="/acao/index.html?codigo=BTTL4.SA">BATTISTELLA PN  </a></span>
+	<span><a href="/acao/index.html?codigo=BALM9.SA">BAUMER ON</a></span>
+	<span><a href="/acao/index.html?codigo=BALM3.SA">BAUMER ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BALM10.SA">BAUMER PN</a></span>
+	<span><a href="/acao/index.html?codigo=BALM4.SA">BAUMER PN       </a></span>
+	<span><a href="/acao/index.html?codigo=BBSE3.SA">BBSEGURIDADE ON </a></span>
+	<span><a href="/acao/index.html?codigo=IDVL3.SA">BCO INDUSVAL ON </a></span>
+	<span><a href="/acao/index.html?codigo=IDVL4.SA">BCO INDUSVAL PN </a></span>
+	<span><a href="/acao/index.html?codigo=PINE9.SA">BCO PINE ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=BDRU11.SA">BDRU BDR        </a></span>
+	<span><a href="/acao/index.html?codigo=PBEL3B.SO">BELAPART</a></span>
+	<span><a href="/acao/index.html?codigo=BEMA3.SA">BEMATECH ON     </a></span>
+	<span><a href="/acao/index.html?codigo=BERK34.SA">BERKSHIRE BDR   </a></span>
+	<span><a href="/acao/index.html?codigo=BSCT14.SA">BESC ON</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT11.SA">BESC ON</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT3.SA">BESC ON</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT12.SA">BESC PNA</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT15.SA">BESC PNA</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT5.SA">BESC PNA</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT6.SA">BESC PNB</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT13.SA">BESC PNB</a></span>
+	<span><a href="/acao/index.html?codigo=BSCT16.SA">BESC PNB</a></span>
+	<span><a href="/acao/index.html?codigo=BETP3B.SO">BETAPART</a></span>
+	<span><a href="/acao/index.html?codigo=BHGR1.SA">BHG DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BHGR9.SA">BHG ON          </a></span>
+	<span><a href="/acao/index.html?codigo=BHGR3.SA">BHG ON          </a></span>
+	<span><a href="/acao/index.html?codigo=BMKS3.SA">BIC MONARK ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BICB3.SA">BICBANCO ON     </a></span>
+	<span><a href="/acao/index.html?codigo=BICB4.SA">BICBANCO PN     </a></span>
+	<span><a href="/acao/index.html?codigo=BIOM2.SA">BIOMM DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BIOM1.SA">BIOMM DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=BIOM3M.SA">BIOMM ON        </a></span>
+	<span><a href="/acao/index.html?codigo=BIOM3.SA">BIOMM ON        </a></span>
+	<span><a href="/acao/index.html?codigo=BIOM9M.SA">BIOMM ON REC    </a></span>
+	<span><a href="/acao/index.html?codigo=BIOM9.SA">BIOMM ON REC    </a></span>
+	<span><a href="/acao/index.html?codigo=BIOM10.SA">BIOMM PN</a></span>
+	<span><a href="/acao/index.html?codigo=BIOM4.SA">BIOMM PN        </a></span>
+	<span><a href="/acao/index.html?codigo=BSEV3.SA">BIOSEV ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BVMF3.SA">BMF BOVESPA ON  </a></span>
+	<span><a href="/acao/index.html?codigo=BOEI34.SA">BOEING          </a></span>
+	<span><a href="/acao/index.html?codigo=BOBR11.SA">BOMBRIL         </a></span>
+	<span><a href="/acao/index.html?codigo=BOBR3.SA">BOMBRIL ON      </a></span>
+	<span><a href="/acao/index.html?codigo=BOBR4.SA">BOMBRIL PN      </a></span>
+	<span><a href="/acao/index.html?codigo=BNPA3B.SO">BONAIRE PART</a></span>
+	<span><a href="/acao/index.html?codigo=BBRK1.SA">BR BROKERS DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BRIN3.SA">BR INSURANCE ON </a></span>
+	<span><a href="/acao/index.html?codigo=BRML3.SA">BR MALLS PAR ON </a></span>
+	<span><a href="/acao/index.html?codigo=BPHA11.SA">BR PHARMA       </a></span>
+	<span><a href="/acao/index.html?codigo=BPHA1.SA">BR PHARMA       </a></span>
+	<span><a href="/acao/index.html?codigo=BPHA9.SA">BR PHARMA       </a></span>
+	<span><a href="/acao/index.html?codigo=BRPR3.SA">BR PROPERT ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BBDC2.SA">BRADESCO DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BBDC1.SA">BRADESCO DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BBDC9.SA">BRADESCO ON</a></span>
+	<span><a href="/acao/index.html?codigo=BBDC3.SA">BRADESCO ON     </a></span>
+	<span><a href="/acao/index.html?codigo=BBDC10.SA">BRADESCO PN</a></span>
+	<span><a href="/acao/index.html?codigo=BBDC4.SA">BRADESCO PN     </a></span>
+	<span><a href="/acao/index.html?codigo=BRAP3.SA">BRADESPAR ON    </a></span>
+	<span><a href="/acao/index.html?codigo=BRAP4.SA">BRADESPAR PN    </a></span>
+	<span><a href="/acao/index.html?codigo=BBAS13.SA">BRASIL BNS      </a></span>
+	<span><a href="/acao/index.html?codigo=BBRK3.SA">BRASIL BROK ON  </a></span>
+	<span><a href="/acao/index.html?codigo=BBAS9.SA">BRASIL ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BBAS12.SA">BRASIL ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BBAS11.SA">BRASIL ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BBAS3.SA">BRASIL ON       </a></span>
+	<span><a href="/acao/index.html?codigo=BBAS15.SA">BRASIL REC</a></span>
+	<span><a href="/acao/index.html?codigo=BRTP3.SA">BRASIL T PAR ON</a></span>
+	<span><a href="/acao/index.html?codigo=BRTP4.SA">BRASIL T PAR PN</a></span>
+	<span><a href="/acao/index.html?codigo=BRTO3.SA">BRASIL TELEC ON </a></span>
+	<span><a href="/acao/index.html?codigo=BRTO4.SA">BRASIL TELEC PN </a></span>
+	<span><a href="/acao/index.html?codigo=BTUR3.SA">BRASIL TRAVEL ON</a></span>
+	<span><a href="/acao/index.html?codigo=AGRO3.SA">BRASILAGRO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BRKM11.SA">BRASKEM DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BRKM1.SA">BRASKEM DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BRKM9.SA">BRASKEM ON</a></span>
+	<span><a href="/acao/index.html?codigo=BRKM3.SA">BRASKEM ON      </a></span>
+	<span><a href="/acao/index.html?codigo=BRKM12.SA">BRASKEM PNA</a></span>
+	<span><a href="/acao/index.html?codigo=BRKM5.SA">BRASKEM PNA     </a></span>
+	<span><a href="/acao/index.html?codigo=BRKM6.SA">BRASKEM PNB     </a></span>
+	<span><a href="/acao/index.html?codigo=BMTO3.SA">BRASMOTOR ON    </a></span>
+	<span><a href="/acao/index.html?codigo=BMTO4.SA">BRASMOTOR PN    </a></span>
+	<span><a href="/acao/index.html?codigo=BPHA3.SA">BRAZIL PHARMA ON</a></span>
+	<span><a href="/acao/index.html?codigo=BFRE3.SA">BRAZILIAN FR ON </a></span>
+	<span><a href="/acao/index.html?codigo=BFRE4.SA">BRAZILIAN FR PN </a></span>
+	<span><a href="/acao/index.html?codigo=BFRE12.SA">BRAZILIAN FR PN </a></span>
+	<span><a href="/acao/index.html?codigo=BFRE11.SA">BRAZILIAN FR PN </a></span>
+	<span><a href="/acao/index.html?codigo=BSLI3.SA">BRB BANCO ON    </a></span>
+	<span><a href="/acao/index.html?codigo=BSLI4.SA">BRB BANCO PN    </a></span>
+	<span><a href="/acao/index.html?codigo=BRFS3.SA">BRF FOODS ON    </a></span>
+	<span><a href="/acao/index.html?codigo=BMYB34.SA">BRISTOLMYERS    </a></span>
+	<span><a href="/acao/index.html?codigo=BISA1.SA">BROOKFIELD DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=BISA9.SA">BROOKFIELD ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BISA3.SA">BROOKFIELD ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BRZI3B.SO">BRZ INVEST ON</a></span>
+	<span><a href="/acao/index.html?codigo=BBTG36.SA">BTG PACTUAL BDR </a></span>
+	<span><a href="/acao/index.html?codigo=BBTG12.SA">BTG PACTUAL BDR </a></span>
+	<span><a href="/acao/index.html?codigo=BBTG33.SA">BTG PACTUAL BDR </a></span>
+	<span><a href="/acao/index.html?codigo=BBTG13.SA">BTG PACTUAL BDR </a></span>
+	<span><a href="/acao/index.html?codigo=BBTG35.SA">BTG PACTUAL BDR </a></span>
+	<span><a href="/acao/index.html?codigo=BBTG11.SA">BTG PACTUAL UNT </a></span>
+	<span><a href="/acao/index.html?codigo=BPAC3.SA">BTGP BANCO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BPAC5.SA">BTGP BANCO PN   </a></span>
+	<span><a href="/acao/index.html?codigo=BUET3.SA">BUETTNER ON     </a></span>
+	<span><a href="/acao/index.html?codigo=BUET4.SA">BUETTNER PN     </a></span>
+	<span><a href="/acao/index.html?codigo=CABB3M.SA">CABAMBIENTAL ON </a></span>
+	<span><a href="/acao/index.html?codigo=CABB3.SA">CABAMBIENTAL ON </a></span>
+	<span><a href="/acao/index.html?codigo=CABI3B.SO">CABINDA PART</a></span>
+	<span><a href="/acao/index.html?codigo=CIQU3.SA">CACIQUE ON      </a></span>
+	<span><a href="/acao/index.html?codigo=CIQU4.SA">CACIQUE PN      </a></span>
+	<span><a href="/acao/index.html?codigo=CACO3B.SO">CACONDE PART</a></span>
+	<span><a href="/acao/index.html?codigo=CAFE3.SA">CAF BRASILIA ON </a></span>
+	<span><a href="/acao/index.html?codigo=CAFE4.SA">CAF BRASILIA PN </a></span>
+	<span><a href="/acao/index.html?codigo=CAIA3B.SO">CAIANDA PART</a></span>
+	<span><a href="/acao/index.html?codigo=ZTJK3B.SO">CAIXA SEGURO</a></span>
+	<span><a href="/acao/index.html?codigo=XBOV11.SA">CAIXAETFXBOV CI </a></span>
+	<span><a href="/acao/index.html?codigo=CALA3B.SO">CALAIS PART</a></span>
+	<span><a href="/acao/index.html?codigo=CALA4B.SO">CALAIS PART</a></span>
+	<span><a href="/acao/index.html?codigo=CAMB1.SA">CAMBUCI DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=CAMB2.SA">CAMBUCI DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=CAMB3.SA">CAMBUCI ON      </a></span>
+	<span><a href="/acao/index.html?codigo=CAMB9.SA">CAMBUCI ON REC  </a></span>
+	<span><a href="/acao/index.html?codigo=CAMB4.SA">CAMBUCI PN      </a></span>
+	<span><a href="/acao/index.html?codigo=CAMB10.SA">CAMBUCI PN  REC </a></span>
+	<span><a href="/acao/index.html?codigo=CPTP3B.SO">CAPITALPART</a></span>
+	<span><a href="/acao/index.html?codigo=CRBM3.SA">CARAIBA MET ON</a></span>
+	<span><a href="/acao/index.html?codigo=CRBM5.SA">CARAIBA MET PNA</a></span>
+	<span><a href="/acao/index.html?codigo=CRBM7.SA">CARAIBA MET PNC</a></span>
+	<span><a href="/acao/index.html?codigo=CRBM8.SA">CARAIBA MET PND</a></span>
+	<span><a href="/acao/index.html?codigo=CRBM11.SA">CARAIBA MET PNE</a></span>
+	<span><a href="/acao/index.html?codigo=ICO211.SA">CARBON EFFICIE/d</a></span>
+	<span><a href="/acao/index.html?codigo=CASN2.SA">CASAN DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=CASN1.SA">CASAN DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=CASN11.SA">CASAN ON</a></span>
+	<span><a href="/acao/index.html?codigo=CASN3.SA">CASAN ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CASN9.SA">CASAN ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CASN12.SA">CASAN PN</a></span>
+	<span><a href="/acao/index.html?codigo=CASN10.SA">CASAN PN        </a></span>
+	<span><a href="/acao/index.html?codigo=CASN4.SA">CASAN PN        </a></span>
+	<span><a href="/acao/index.html?codigo=CATP34.SA">CATERPILLAR     </a></span>
+	<span><a href="/acao/index.html?codigo=CCIM3.SA">CC DES IMOB ON  </a></span>
+	<span><a href="/acao/index.html?codigo=CCRO3.SA">CCR RODOVIAS ON </a></span>
+	<span><a href="/acao/index.html?codigo=CCXC3T.SA">CCX CARVAO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CCXC3S.SA">CCX CARVAO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CCXC3D.SA">CCX CARVAO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CCXC3.SA">CCX CARVAO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CEBR3.SA">CEB ON          </a></span>
+	<span><a href="/acao/index.html?codigo=CEBR5.SA">CEB PNA         </a></span>
+	<span><a href="/acao/index.html?codigo=CEBR6.SA">CEB PNB         </a></span>
+	<span><a href="/acao/index.html?codigo=CEDO3.SA">CEDRO ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CEDO4.SA">CEDRO PN        </a></span>
+	<span><a href="/acao/index.html?codigo=CEED4.SA">CEEE D PN       </a></span>
+	<span><a href="/acao/index.html?codigo=EEEL3.SA">CEEE GT ON      </a></span>
+	<span><a href="/acao/index.html?codigo=EEEL4.SA">CEEE GT PN      </a></span>
+	<span><a href="/acao/index.html?codigo=CEED3B.SO">CEEE-D</a></span>
+	<span><a href="/acao/index.html?codigo=CEED4B.SO">CEEE-D</a></span>
+	<span><a href="/acao/index.html?codigo=CEED3.SA">CEEE-D ON       </a></span>
+	<span><a href="/acao/index.html?codigo=EEEL3B.SO">CEEE-GT</a></span>
+	<span><a href="/acao/index.html?codigo=EEEL4B.SO">CEEE-GT</a></span>
+	<span><a href="/acao/index.html?codigo=CEGR3.SA">CEG ON          </a></span>
+	<span><a href="/acao/index.html?codigo=CLSC3.SA">CELESC ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CLSC4.SA">CELESC PN       </a></span>
+	<span><a href="/acao/index.html?codigo=CLSC5.SA">CELESC PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=CLSC6.SA">CELESC PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=CELM3.SA">CELM ON</a></span>
+	<span><a href="/acao/index.html?codigo=CELP1.SA">CELPA DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=CELP3.SA">CELPA ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CELP9.SA">CELPA ON REC    </a></span>
+	<span><a href="/acao/index.html?codigo=CELP5.SA">CELPA PNA       </a></span>
+	<span><a href="/acao/index.html?codigo=CELP6.SA">CELPA PNB       </a></span>
+	<span><a href="/acao/index.html?codigo=CELP7.SA">CELPA PNC       </a></span>
+	<span><a href="/acao/index.html?codigo=GPAR11.SA">CELPAR          </a></span>
+	<span><a href="/acao/index.html?codigo=CEPE3.SA">CELPE ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CEPE5.SA">CELPE PNA       </a></span>
+	<span><a href="/acao/index.html?codigo=CEPE6.SA">CELPE PNB       </a></span>
+	<span><a href="/acao/index.html?codigo=RANI1.SA">CELUL IRANI DIR </a></span>
+	<span><a href="/acao/index.html?codigo=RANI3.SA">CELUL IRANI ON  </a></span>
+	<span><a href="/acao/index.html?codigo=RANI4.SA">CELUL IRANI PN  </a></span>
+	<span><a href="/acao/index.html?codigo=ENMA3B.SO">CEMAR</a></span>
+	<span><a href="/acao/index.html?codigo=ENMA5B.SO">CEMAR</a></span>
+	<span><a href="/acao/index.html?codigo=ENMA6B.SO">CEMAR</a></span>
+	<span><a href="/acao/index.html?codigo=CMGR2.SA">CEMAT           </a></span>
+	<span><a href="/acao/index.html?codigo=CMGR1.SA">CEMAT           </a></span>
+	<span><a href="/acao/index.html?codigo=CMGR3.SA">CEMAT ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CMGR4.SA">CEMAT PN        </a></span>
+	<span><a href="/acao/index.html?codigo=MAPT3.SA">CEMEPE ON       </a></span>
+	<span><a href="/acao/index.html?codigo=MAPT4.SA">CEMEPE PN       </a></span>
+	<span><a href="/acao/index.html?codigo=CMIG3.SA">CEMIG ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CMIG4.SA">CEMIG PN        </a></span>
+	<span><a href="/acao/index.html?codigo=CTAP3.SA">CENT AMAPA ON</a></span>
+	<span><a href="/acao/index.html?codigo=CTMN3.SA">CENT CORUMBA ON</a></span>
+	<span><a href="/acao/index.html?codigo=CTLG3.SA">CENT LOGIST ON</a></span>
+	<span><a href="/acao/index.html?codigo=CTMI3.SA">CENT MIN-RIO ON </a></span>
+	<span><a href="/acao/index.html?codigo=CESP3.SA">CESP ON         </a></span>
+	<span><a href="/acao/index.html?codigo=CESP5.SA">CESP PNA        </a></span>
+	<span><a href="/acao/index.html?codigo=CESP6.SA">CESP PNB        </a></span>
+	<span><a href="/acao/index.html?codigo=CTIP1.SA">CETIP DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=CTIP9.SA">CETIP ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CTIP3.SA">CETIP ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CGAS1.SA">CGAS DIR        </a></span>
+	<span><a href="/acao/index.html?codigo=CGAS11.SA">CGAS DIR        </a></span>
+	<span><a href="/acao/index.html?codigo=CHVX34.SA">CHEVRON         </a></span>
+	<span><a href="/acao/index.html?codigo=CCHI3.SA">CHIARELLI ON    </a></span>
+	<span><a href="/acao/index.html?codigo=CCHI4.SA">CHIARELLI PN    </a></span>
+	<span><a href="/acao/index.html?codigo=HGTX3.SA">CIA HERING ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CIEL3.SA">CIELO ON        </a></span>
+	<span><a href="/acao/index.html?codigo=GAFP3.SA">CIMOB PART ON   </a></span>
+	<span><a href="/acao/index.html?codigo=GAFP4.SA">CIMOB PART PN   </a></span>
+	<span><a href="/acao/index.html?codigo=CMSA3.SA">CIMS ON         </a></span>
+	<span><a href="/acao/index.html?codigo=CMSA4.SA">CIMS PN         </a></span>
+	<span><a href="/acao/index.html?codigo=CSCO34.SA">CISCO           </a></span>
+	<span><a href="/acao/index.html?codigo=CTGP34.SA">CITIGROUP       </a></span>
+	<span><a href="/acao/index.html?codigo=CLAN2.SA">CLARION DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=CLAN1.SA">CLARION DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=CLAN3.SA">CLARION ON      </a></span>
+	<span><a href="/acao/index.html?codigo=CLAN9.SA">CLARION ON/d</a></span>
+	<span><a href="/acao/index.html?codigo=CLAN4.SA">CLARION PN      </a></span>
+	<span><a href="/acao/index.html?codigo=CLAN10.SA">CLARION PN/d</a></span>
+	<span><a href="/acao/index.html?codigo=COAR3B.SO">COARI PART</a></span>
+	<span><a href="/acao/index.html?codigo=COAR4B.SO">COARI PART</a></span>
+	<span><a href="/acao/index.html?codigo=COAR3.SA">COARI PART ON   </a></span>
+	<span><a href="/acao/index.html?codigo=COAR4.SA">COARI PART PN   </a></span>
+	<span><a href="/acao/index.html?codigo=CBMA3.SA">COBRASMA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=CBMA4.SA">COBRASMA PN     </a></span>
+	<span><a href="/acao/index.html?codigo=COCA34.SA">COCA COLA       </a></span>
+	<span><a href="/acao/index.html?codigo=CEEB3.SA">COELBA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CEEB5.SA">COELBA PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=CEEB6.SA">COELBA PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=COCE3.SA">COELCE ON       </a></span>
+	<span><a href="/acao/index.html?codigo=COCE5.SA">COELCE PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=COCE6.SA">COELCE PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=COLG34.SA">COLGATE         </a></span>
+	<span><a href="/acao/index.html?codigo=CMCS34.SA">COMCAST         </a></span>
+	<span><a href="/acao/index.html?codigo=CGAS3.SA">COMGAS ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CGAS5.SA">COMGAS PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=CPNY3.SA">COMPANY ON</a></span>
+	<span><a href="/acao/index.html?codigo=CRTE5B.SO">CONC RIO TER</a></span>
+	<span><a href="/acao/index.html?codigo=CRTE3B.SO">CONC RIO TER</a></span>
+	<span><a href="/acao/index.html?codigo=CNFB3.SA">CONFAB ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CNFB4.SA">CONFAB PN       </a></span>
+	<span><a href="/acao/index.html?codigo=CALI1.SA">CONST A LIND D/d</a></span>
+	<span><a href="/acao/index.html?codigo=CALI2.SA">CONST A LIND D/d</a></span>
+	<span><a href="/acao/index.html?codigo=CALI3.SA">CONST A LIND ON </a></span>
+	<span><a href="/acao/index.html?codigo=CALI9.SA">CONST A LIND ON </a></span>
+	<span><a href="/acao/index.html?codigo=CALI4.SA">CONST A LIND PN </a></span>
+	<span><a href="/acao/index.html?codigo=CALI10.SA">CONST A LIND PN </a></span>
+	<span><a href="/acao/index.html?codigo=COBE5B.SO">CONST BETER</a></span>
+	<span><a href="/acao/index.html?codigo=COBE6B.SO">CONST BETER</a></span>
+	<span><a href="/acao/index.html?codigo=COBE3B.SO">CONST BETER</a></span>
+	<span><a href="/acao/index.html?codigo=CTAX12.SA">CONTAX DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=CTAX3.SA">CONTAX ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CTAX4.SA">CONTAX PN       </a></span>
+	<span><a href="/acao/index.html?codigo=CTAX11.SA">CONTAX UNT      </a></span>
+	<span><a href="/acao/index.html?codigo=CSMG11.SA">COPASA CI       </a></span>
+	<span><a href="/acao/index.html?codigo=CSMG12.SA">COPASA MG ON    </a></span>
+	<span><a href="/acao/index.html?codigo=CSMG3.SA">COPASA MG ON    </a></span>
+	<span><a href="/acao/index.html?codigo=CSMG14.SA">COPASA ON</a></span>
+	<span><a href="/acao/index.html?codigo=CSMG13.SA">COPASA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CPLE3.SA">COPEL ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CPLE5.SA">COPEL PNA       </a></span>
+	<span><a href="/acao/index.html?codigo=CPLE6.SA">COPEL PNB       </a></span>
+	<span><a href="/acao/index.html?codigo=COPR3.SA">COPERSUCAR ON   </a></span>
+	<span><a href="/acao/index.html?codigo=COPH34.SA">COPHILLIPS      </a></span>
+	<span><a href="/acao/index.html?codigo=CORR3.SA">COR RIBEIRO ON  </a></span>
+	<span><a href="/acao/index.html?codigo=CORR4.SA">COR RIBEIRO PN  </a></span>
+	<span><a href="/acao/index.html?codigo=RLOG3.SA">COSAN           </a></span>
+	<span><a href="/acao/index.html?codigo=CSAN99.SA">COSAN           </a></span>
+	<span><a href="/acao/index.html?codigo=CZLT33.SA">COSAN LTD BDR   </a></span>
+	<span><a href="/acao/index.html?codigo=CZLT11.SA">COSAN LTD BDR   </a></span>
+	<span><a href="/acao/index.html?codigo=CSAN3.SA">COSAN ON        </a></span>
+	<span><a href="/acao/index.html?codigo=CSRN3.SA">COSERN ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CSRN5.SA">COSERN PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=CSRN6.SA">COSERN PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=CTNM3.SA">COTEMINAS ON    </a></span>
+	<span><a href="/acao/index.html?codigo=CTNM4.SA">COTEMINAS PN    </a></span>
+	<span><a href="/acao/index.html?codigo=CPFE3.SA">CPFL ENERGIA ON </a></span>
+	<span><a href="/acao/index.html?codigo=CPRE3.SA">CPFL ENERGIAS ON</a></span>
+	<span><a href="/acao/index.html?codigo=CRDE1.SA">CR2 DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=CRDE3.SA">CR2 ON          </a></span>
+	<span><a href="/acao/index.html?codigo=CREM3.SA">CREMER ON       </a></span>
+	<span><a href="/acao/index.html?codigo=CRSC3B.SO">CRSEC</a></span>
+	<span><a href="/acao/index.html?codigo=CZRS3.SA">CRUZEIRO SUL ON </a></span>
+	<span><a href="/acao/index.html?codigo=CZRS4.SA">CRUZEIRO SUL PN </a></span>
+	<span><a href="/acao/index.html?codigo=CARD3.SA">CSU CARDSYST ON </a></span>
+	<span><a href="/acao/index.html?codigo=CTXP3.SA">CTX PART ON</a></span>
+	<span><a href="/acao/index.html?codigo=CVCB3.SA">CVC BRASIL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CCPR3.SA">CYRE COMP-CCP ON</a></span>
+	<span><a href="/acao/index.html?codigo=CYRE3.SA">CYRELA REALT ON </a></span>
+	<span><a href="/acao/index.html?codigo=DHBI3.SA">D H B ON        </a></span>
+	<span><a href="/acao/index.html?codigo=DHBI4.SA">D H B PN        </a></span>
+	<span><a href="/acao/index.html?codigo=OPDL3B.SO">DALETH PART</a></span>
+	<span><a href="/acao/index.html?codigo=DASA3.SA">DASA ON         </a></span>
+	<span><a href="/acao/index.html?codigo=DAYC11.SA">DAYCOVAL BNS    </a></span>
+	<span><a href="/acao/index.html?codigo=DAYC3.SA">DAYCOVAL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=DAYC9.SA">DAYCOVAL ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=DAYC4.SA">DAYCOVAL PN     </a></span>
+	<span><a href="/acao/index.html?codigo=DAYC10.SA">DAYCOVAL PN REC </a></span>
+	<span><a href="/acao/index.html?codigo=DELL34.SA">DELL            </a></span>
+	<span><a href="/acao/index.html?codigo=DVIX3M.SA">DESENVIX ON     </a></span>
+	<span><a href="/acao/index.html?codigo=DVIX3.SA">DESENVIX ON     </a></span>
+	<span><a href="/acao/index.html?codigo=PNVL3.SA">DIMED ON        </a></span>
+	<span><a href="/acao/index.html?codigo=PNVL4.SA">DIMED PN        </a></span>
+	<span><a href="/acao/index.html?codigo=DNEN3B.SO">DINAMICA ENE</a></span>
+	<span><a href="/acao/index.html?codigo=DIRR3.SA">DIRECIONAL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=IDIV11.SA">DIVIDEND INDEX  </a></span>
+	<span><a href="/acao/index.html?codigo=DXTG3.SA">DIXIE TOGA ON   </a></span>
+	<span><a href="/acao/index.html?codigo=DXTG4.SA">DIXIE TOGA PN   </a></span>
+	<span><a href="/acao/index.html?codigo=IMBI1.SA">DOC IMBITUBA D/d</a></span>
+	<span><a href="/acao/index.html?codigo=IMBI3.SA">DOC IMBITUBA ON </a></span>
+	<span><a href="/acao/index.html?codigo=IMBI4.SA">DOC IMBITUBA PN </a></span>
+	<span><a href="/acao/index.html?codigo=DOCA3.SA">DOCAS ON        </a></span>
+	<span><a href="/acao/index.html?codigo=DOCA4.SA">DOCAS PN        </a></span>
+	<span><a href="/acao/index.html?codigo=DOHL3.SA">DOHLER ON       </a></span>
+	<span><a href="/acao/index.html?codigo=DOHL4.SA">DOHLER PN       </a></span>
+	<span><a href="/acao/index.html?codigo=DOMC11.SA">DOMO CI         </a></span>
+	<span><a href="/acao/index.html?codigo=DOMO3.SA">DOMUS POPULI ON </a></span>
+	<span><a href="/acao/index.html?codigo=DOWB34.SA">DOW CHEMICAL    </a></span>
+	<span><a href="/acao/index.html?codigo=DROG3.SA">DROGASIL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=DTCY1.SA">DTCOM-DIRECT DIR</a></span>
+	<span><a href="/acao/index.html?codigo=DTCY9.SA">DTCOM-DIRECT O/d</a></span>
+	<span><a href="/acao/index.html?codigo=DTCY3.SA">DTCOM-DIRECT ON </a></span>
+	<span><a href="/acao/index.html?codigo=DTCY4.SA">DTCOM-DIRECT PN </a></span>
+	<span><a href="/acao/index.html?codigo=DAGB33.SA">DUFRY AG DRC    </a></span>
+	<span><a href="/acao/index.html?codigo=DAGB11.SA">DUFRY AG DRC    </a></span>
+	<span><a href="/acao/index.html?codigo=DUFB11.SA">DUFRY BDR</a></span>
+	<span><a href="/acao/index.html?codigo=DUPO34.SA">DUPONT          </a></span>
+	<span><a href="/acao/index.html?codigo=DTEX11.SA">DURATEX DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=DTEX3.SA">DURATEX ON      </a></span>
+	<span><a href="/acao/index.html?codigo=DXXI8.SA">DUXXI  IMOB PND </a></span>
+	<span><a href="/acao/index.html?codigo=DXXI7.SA">DUXXI IMOB PNC  </a></span>
+	<span><a href="/acao/index.html?codigo=EBAY34.SA">EBAY            </a></span>
+	<span><a href="/acao/index.html?codigo=EBXB3.SA">EBX BRASIL ON</a></span>
+	<span><a href="/acao/index.html?codigo=ECOD1.SA">ECODIESEL DIR</a></span>
+	<span><a href="/acao/index.html?codigo=ECOD9.SA">ECODIESEL ON</a></span>
+	<span><a href="/acao/index.html?codigo=ECOD3.SA">ECODIESEL ON    </a></span>
+	<span><a href="/acao/index.html?codigo=ECOR3.SA">ECORODOVIAS ON  </a></span>
+	<span><a href="/acao/index.html?codigo=ELEK3.SA">ELEKEIROZ ON    </a></span>
+	<span><a href="/acao/index.html?codigo=ELEK4.SA">ELEKEIROZ PN    </a></span>
+	<span><a href="/acao/index.html?codigo=EKTR3.SA">ELEKTRO ON      </a></span>
+	<span><a href="/acao/index.html?codigo=EKTR4.SA">ELEKTRO PN      </a></span>
+	<span><a href="/acao/index.html?codigo=ELET11.SA">ELETROBRAS DIR</a></span>
+	<span><a href="/acao/index.html?codigo=ELET1.SA">ELETROBRAS DIR</a></span>
+	<span><a href="/acao/index.html?codigo=ELET3.SA">ELETROBRAS ON   </a></span>
+	<span><a href="/acao/index.html?codigo=ELET9.SA">ELETROBRAS ON/d</a></span>
+	<span><a href="/acao/index.html?codigo=ELET5.SA">ELETROBRAS PNA  </a></span>
+	<span><a href="/acao/index.html?codigo=ELET6.SA">ELETROBRAS PNB  </a></span>
+	<span><a href="/acao/index.html?codigo=ELET12.SA">ELETROBRAS PNB/d</a></span>
+	<span><a href="/acao/index.html?codigo=ETRO3B.SO">ELETRON</a></span>
+	<span><a href="/acao/index.html?codigo=LIPR1.SA">ELETROPAR DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=LIPR3.SA">ELETROPAR ON    </a></span>
+	<span><a href="/acao/index.html?codigo=ELPL3.SA">ELETROPAULO ON  </a></span>
+	<span><a href="/acao/index.html?codigo=ELPL4.SA">ELETROPAULO PN  </a></span>
+	<span><a href="/acao/index.html?codigo=ELPL5.SA">ELETROPAULO PNA</a></span>
+	<span><a href="/acao/index.html?codigo=ELPL6.SA">ELETROPAULO PNB</a></span>
+	<span><a href="/acao/index.html?codigo=ELUM3.SA">ELUMA ON</a></span>
+	<span><a href="/acao/index.html?codigo=ELUM4.SA">ELUMA PN</a></span>
+	<span><a href="/acao/index.html?codigo=EMAE3.SA">EMAE ON         </a></span>
+	<span><a href="/acao/index.html?codigo=EMAE4.SA">EMAE PN         </a></span>
+	<span><a href="/acao/index.html?codigo=EMBR3.SA">EMBRAER ON      </a></span>
+	<span><a href="/acao/index.html?codigo=EBTL9.SA">EMBRATEL ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=EBTP1.SA">EMBRATEL PAR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=EBTP2.SA">EMBRATEL PAR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=EBTP3.SA">EMBRATEL PAR ON </a></span>
+	<span><a href="/acao/index.html?codigo=EBTP4.SA">EMBRATEL PAR PN </a></span>
+	<span><a href="/acao/index.html?codigo=ECPR3.SA">ENCORPAR ON     </a></span>
+	<span><a href="/acao/index.html?codigo=ECPR4.SA">ENCORPAR PN     </a></span>
+	<span><a href="/acao/index.html?codigo=ENBR3.SA">ENERGIAS BR ON  </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI2.SA">ENERGISA DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI1.SA">ENERGISA DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI12.SA">ENERGISA DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI3.SA">ENERGISA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI9.SA">ENERGISA ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI4.SA">ENERGISA PN     </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI10.SA">ENERGISA PN REC </a></span>
+	<span><a href="/acao/index.html?codigo=ENGI13.SA">ENERGISA REC UNT</a></span>
+	<span><a href="/acao/index.html?codigo=ENGI11.SA">ENERGISA UNT    </a></span>
+	<span><a href="/acao/index.html?codigo=ENEV9.SA">ENEVA           </a></span>
+	<span><a href="/acao/index.html?codigo=ENEV1.SA">ENEVA           </a></span>
+	<span><a href="/acao/index.html?codigo=ENEV3.SA">ENEVA ON        </a></span>
+	<span><a href="/acao/index.html?codigo=EQTL1.SA">EQUATORIAL DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=EQTL3.SA">EQUATORIAL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BPIA3.SA">EST PIAUI ON</a></span>
+	<span><a href="/acao/index.html?codigo=ESTC3.SA">ESTACIO PART ON </a></span>
+	<span><a href="/acao/index.html?codigo=ESTR3.SA">ESTRELA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=ESTR4.SA">ESTRELA PN      </a></span>
+	<span><a href="/acao/index.html?codigo=ETER1.SA">ETERNIT DIR</a></span>
+	<span><a href="/acao/index.html?codigo=ETER9.SA">ETERNIT ON</a></span>
+	<span><a href="/acao/index.html?codigo=ETER3.SA">ETERNIT ON      </a></span>
+	<span><a href="/acao/index.html?codigo=EUCA3.SA">EUCATEX ON      </a></span>
+	<span><a href="/acao/index.html?codigo=EUCA4.SA">EUCATEX PN      </a></span>
+	<span><a href="/acao/index.html?codigo=EVEN3.SA">EVEN ON         </a></span>
+	<span><a href="/acao/index.html?codigo=BAUH9.SA">EXCELSIOR ON</a></span>
+	<span><a href="/acao/index.html?codigo=BAUH3.SA">EXCELSIOR ON    </a></span>
+	<span><a href="/acao/index.html?codigo=BAUH10.SA">EXCELSIOR PN</a></span>
+	<span><a href="/acao/index.html?codigo=BAUH4.SA">EXCELSIOR PN    </a></span>
+	<span><a href="/acao/index.html?codigo=EXXO34.SA">EXXON MOBIL     </a></span>
+	<span><a href="/acao/index.html?codigo=EZTC3.SA">EZTEC ON        </a></span>
+	<span><a href="/acao/index.html?codigo=FGUI3.SA">F GUIMARAES ON</a></span>
+	<span><a href="/acao/index.html?codigo=FGUI4.SA">F GUIMARAES PN</a></span>
+	<span><a href="/acao/index.html?codigo=FTRX3.SA">FAB C RENAUX ON </a></span>
+	<span><a href="/acao/index.html?codigo=FTRX4.SA">FAB C RENAUX PN </a></span>
+	<span><a href="/acao/index.html?codigo=FBOK34.SA">FACEBOOK        </a></span>
+	<span><a href="/acao/index.html?codigo=FMOF11.SA">FDO INV IMOB MEM</a></span>
+	<span><a href="/acao/index.html?codigo=FDXB34.SA">FEDEX CORP      </a></span>
+	<span><a href="/acao/index.html?codigo=VSPT1.SA">FER C ATLANT DIR</a></span>
+	<span><a href="/acao/index.html?codigo=VSPT3.SA">FER C ATLANT ON </a></span>
+	<span><a href="/acao/index.html?codigo=VSPT4.SA">FER C ATLANT PN </a></span>
+	<span><a href="/acao/index.html?codigo=FHER3.SA">FER HERINGER ON </a></span>
+	<span><a href="/acao/index.html?codigo=FESA3.SA">FERBASA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=FESA4.SA">FERBASA PN      </a></span>
+	<span><a href="/acao/index.html?codigo=GASC4B.SO">FERROBAN</a></span>
+	<span><a href="/acao/index.html?codigo=GASC3B.SO">FERROBAN</a></span>
+	<span><a href="/acao/index.html?codigo=FRRN3B.SO">FERRONORTE</a></span>
+	<span><a href="/acao/index.html?codigo=FRRN6B.SO">FERRONORTE</a></span>
+	<span><a href="/acao/index.html?codigo=FRRN5B.SO">FERRONORTE</a></span>
+	<span><a href="/acao/index.html?codigo=ENSP11.SA">FIA ENERG SP CI</a></span>
+	<span><a href="/acao/index.html?codigo=SINQ11.SA">FIA FATOR IV C/d</a></span>
+	<span><a href="/acao/index.html?codigo=SING11.SA">FIA FATOR SG CI </a></span>
+	<span><a href="/acao/index.html?codigo=FAGO3B.SO">FIAGO PART</a></span>
+	<span><a href="/acao/index.html?codigo=FBMC3.SA">FIBAM ON        </a></span>
+	<span><a href="/acao/index.html?codigo=FBMC4.SA">FIBAM PN        </a></span>
+	<span><a href="/acao/index.html?codigo=FIBR3.SA">FIBRIA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=FPAB11.SA">FII A BRANCA CI </a></span>
+	<span><a href="/acao/index.html?codigo=ABCP11.SA">FII ABC IMOB CI </a></span>
+	<span><a href="/acao/index.html?codigo=ABCP12.SA">FII ABC IMOB DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BPFF11.SA">FII ABSOLUTO CI </a></span>
+	<span><a href="/acao/index.html?codigo=AEFI11.SA">FII AESAPAR CI  </a></span>
+	<span><a href="/acao/index.html?codigo=AGCX11.SA">FII AG CAIXA CI </a></span>
+	<span><a href="/acao/index.html?codigo=AQLL11.SA">FII AQUILLA CI  </a></span>
+	<span><a href="/acao/index.html?codigo=ATCR11.SA">FII ATICO CI    </a></span>
+	<span><a href="/acao/index.html?codigo=BNFS11.SA">FII BANRISUL CI </a></span>
+	<span><a href="/acao/index.html?codigo=BBRC11.SA">FII BB CORP CI  </a></span>
+	<span><a href="/acao/index.html?codigo=BBPO11.SA">FII BB PRGII CI </a></span>
+	<span><a href="/acao/index.html?codigo=RNDP11.SA">FII BB R PAP CI </a></span>
+	<span><a href="/acao/index.html?codigo=BRCR12.SA">FII BC FUND CI  </a></span>
+	<span><a href="/acao/index.html?codigo=BRCR11.SA">FII BC FUND CI  </a></span>
+	<span><a href="/acao/index.html?codigo=BMII11.SA">FII BRASILIO C/d</a></span>
+	<span><a href="/acao/index.html?codigo=CBOP11.SA">FII C BRANCO CI </a></span>
+	<span><a href="/acao/index.html?codigo=BBVJ11.SA">FII C JARDIM C/d</a></span>
+	<span><a href="/acao/index.html?codigo=CTXT11.SA">FII C TEXTIL CI </a></span>
+	<span><a href="/acao/index.html?codigo=FCAS11.SA">FII CASTELO CI  </a></span>
+	<span><a href="/acao/index.html?codigo=CSBC11.SA">FII CSHG BC CI  </a></span>
+	<span><a href="/acao/index.html?codigo=CSBC12.SA">FII CSHG BC DI/d</a></span>
+	<span><a href="/acao/index.html?codigo=HGCR11.SA">FII CSHG CRI CI </a></span>
+	<span><a href="/acao/index.html?codigo=HGJH11.SA">FII CSHG JHS C/d</a></span>
+	<span><a href="/acao/index.html?codigo=HGLG11.SA">FII CSHG LOG C/d</a></span>
+	<span><a href="/acao/index.html?codigo=CXRI11.SA">FII CX RBRAV    </a></span>
+	<span><a href="/acao/index.html?codigo=CXTL11.SA">FII CX TRX CI   </a></span>
+	<span><a href="/acao/index.html?codigo=PQDP11.SA">FII D PEDRO CI  </a></span>
+	<span><a href="/acao/index.html?codigo=EURO11.SA">FII EUROPAR CI  </a></span>
+	<span><a href="/acao/index.html?codigo=FFCI11.SA">FII F CENTER CI </a></span>
+	<span><a href="/acao/index.html?codigo=VRTA11.SA">FII FATOR VE C/d</a></span>
+	<span><a href="/acao/index.html?codigo=VRTA12.SA">FII FATOR VE CI </a></span>
+	<span><a href="/acao/index.html?codigo=FIXX11.SA">FII FATORFIX CI </a></span>
+	<span><a href="/acao/index.html?codigo=GVFF11.SA">FII GAVEA CI    </a></span>
+	<span><a href="/acao/index.html?codigo=GVFF12.SA">FII GAVEA FUNDO </a></span>
+	<span><a href="/acao/index.html?codigo=FIGS11.SA">FII GEN SHOP CI </a></span>
+	<span><a href="/acao/index.html?codigo=NCGR11.SA">FII GUARARAP CI</a></span>
+	<span><a href="/acao/index.html?codigo=GWIC11.SA">FII GWI LOG CI/d</a></span>
+	<span><a href="/acao/index.html?codigo=GWIR11.SA">FII GWI RI CI   </a></span>
+	<span><a href="/acao/index.html?codigo=HGRE11.SA">FII HG REAL CI  </a></span>
+	<span><a href="/acao/index.html?codigo=HGRE13.SA">FII HG REAL CI  </a></span>
+	<span><a href="/acao/index.html?codigo=HGBS11.SA">FII HG SHOP CI  </a></span>
+	<span><a href="/acao/index.html?codigo=SHPH11.SA">FII HIGIENOP CI </a></span>
+	<span><a href="/acao/index.html?codigo=SHPH12.SA">FII HIGIENOP DIR</a></span>
+	<span><a href="/acao/index.html?codigo=FIIB11.SA">FII INDL BR CI  </a></span>
+	<span><a href="/acao/index.html?codigo=FINF11.SA">FII INFRA RE    </a></span>
+	<span><a href="/acao/index.html?codigo=RBBV11.SA">FII JHSF FBV CI </a></span>
+	<span><a href="/acao/index.html?codigo=FJKI11.SA">FII JK IMOB CI</a></span>
+	<span><a href="/acao/index.html?codigo=JPPC11.SA">FII JPP CAPI CI </a></span>
+	<span><a href="/acao/index.html?codigo=JSRE12.SA">FII JS REAL CI  </a></span>
+	<span><a href="/acao/index.html?codigo=JSRE11.SA">FII JS REAL CI  </a></span>
+	<span><a href="/acao/index.html?codigo=BJRC11.SA">FII JS RECIM CI </a></span>
+	<span><a href="/acao/index.html?codigo=BJRC12.SA">FII JS RECIM CI </a></span>
+	<span><a href="/acao/index.html?codigo=JSIM11.SA">FII JS RENDA CI </a></span>
+	<span><a href="/acao/index.html?codigo=KNRI11.SA">FII KINEA CI    </a></span>
+	<span><a href="/acao/index.html?codigo=KNRE11.SA">FII KINEA CI    </a></span>
+	<span><a href="/acao/index.html?codigo=KNCR11.SA">FII KINEA RI CI </a></span>
+	<span><a href="/acao/index.html?codigo=MSHP11.SA">FII LARGO 13 CI </a></span>
+	<span><a href="/acao/index.html?codigo=GRLV11.SA">FII LOUVEIRA CI </a></span>
+	<span><a href="/acao/index.html?codigo=MXRF11.SA">FII MAXI REN CI </a></span>
+	<span><a href="/acao/index.html?codigo=MXRF15.SA">FII MAXI REN CI </a></span>
+	<span><a href="/acao/index.html?codigo=MXRF16.SA">FII MAXI REN CI </a></span>
+	<span><a href="/acao/index.html?codigo=MXRF12.SA">FII MAXI REN DIR</a></span>
+	<span><a href="/acao/index.html?codigo=MXRC11.SA">FII MAXIMARC CI </a></span>
+	<span><a href="/acao/index.html?codigo=MBRF11.SA">FII MERC BR CI  </a></span>
+	<span><a href="/acao/index.html?codigo=MFII11.SA">FII MERITO I CI </a></span>
+	<span><a href="/acao/index.html?codigo=NVHO11.SA">FII NOVOHORI CI </a></span>
+	<span><a href="/acao/index.html?codigo=PRSV11.SA">FII P VARGAS CI </a></span>
+	<span><a href="/acao/index.html?codigo=PABY11.SA">FII PANAMBY CI  </a></span>
+	<span><a href="/acao/index.html?codigo=PORD11.SA">FII POLO CRI CI </a></span>
+	<span><a href="/acao/index.html?codigo=PLRI11.SA">FII POLO I CI   </a></span>
+	<span><a href="/acao/index.html?codigo=VPSI11.SA">FII POLO SHOP   </a></span>
+	<span><a href="/acao/index.html?codigo=RBGS11.SA">FII RB GSB I CI </a></span>
+	<span><a href="/acao/index.html?codigo=RBRD11.SA">FII RB II CI    </a></span>
+	<span><a href="/acao/index.html?codigo=RBPR11.SA">FII RBPRIME1 C/d</a></span>
+	<span><a href="/acao/index.html?codigo=RBPD13.SA">FII RBPRIME2 CI </a></span>
+	<span><a href="/acao/index.html?codigo=RBPD11.SA">FII RBPRIME2 CI </a></span>
+	<span><a href="/acao/index.html?codigo=RBPD12.SA">FII RBPRIME2 CI </a></span>
+	<span><a href="/acao/index.html?codigo=RBAG11.SA">FII RBRESID1 C/d</a></span>
+	<span><a href="/acao/index.html?codigo=RBAG12.SA">FII RBRESID1 C/d</a></span>
+	<span><a href="/acao/index.html?codigo=RBDS11.SA">FII RBRESID2 C/d</a></span>
+	<span><a href="/acao/index.html?codigo=RDES11.SA">FII RD ESCRI CI </a></span>
+	<span><a href="/acao/index.html?codigo=RCCS11.SA">FII REP 1 CI    </a></span>
+	<span><a href="/acao/index.html?codigo=FFCI12.SA">FII RIOB RC CI  </a></span>
+	<span><a href="/acao/index.html?codigo=RBVO11.SA">FII RIOBCRI2 CI </a></span>
+	<span><a href="/acao/index.html?codigo=RBCB11.SA">FII RIOBRCIB CI </a></span>
+	<span><a href="/acao/index.html?codigo=RNGO11.SA">FII RIONEGRO CI </a></span>
+	<span><a href="/acao/index.html?codigo=FLMA11.SA">FII S F LIMA CI </a></span>
+	<span><a href="/acao/index.html?codigo=SAAG12.SA">FII SANT AGE CI </a></span>
+	<span><a href="/acao/index.html?codigo=SAAG11.SA">FII SANT AGE CI </a></span>
+	<span><a href="/acao/index.html?codigo=STFI11.SA">FII SANT CI     </a></span>
+	<span><a href="/acao/index.html?codigo=SFND11.SA">FII SAO FER CI  </a></span>
+	<span><a href="/acao/index.html?codigo=SCPF11.SA">FII SCP CI      </a></span>
+	<span><a href="/acao/index.html?codigo=SDIL11.SA">FII SDI LOG CI  </a></span>
+	<span><a href="/acao/index.html?codigo=FSIG11.SA">FII SIGMA CI</a></span>
+	<span><a href="/acao/index.html?codigo=SPTW11.SA">FII SP DOWNT CI </a></span>
+	<span><a href="/acao/index.html?codigo=TBOF11.SA">FII TBOFFICE CI </a></span>
+	<span><a href="/acao/index.html?codigo=ONEF11.SA">FII THE ONE CI  </a></span>
+	<span><a href="/acao/index.html?codigo=TRXL15.SA">FII TRX LOG CI  </a></span>
+	<span><a href="/acao/index.html?codigo=TRXL12.SA">FII TRX LOG DIR </a></span>
+	<span><a href="/acao/index.html?codigo=XTED11.SA">FII TRXE COR CI </a></span>
+	<span><a href="/acao/index.html?codigo=URBN11.SA">FII URBANIZACAO </a></span>
+	<span><a href="/acao/index.html?codigo=FVPQ12.SA">FII V PARQUE CI </a></span>
+	<span><a href="/acao/index.html?codigo=FVPQ11.SA">FII V PARQUE CI </a></span>
+	<span><a href="/acao/index.html?codigo=VERE11.SA">FII VEREDA CI   </a></span>
+	<span><a href="/acao/index.html?codigo=FIVN11.SA">FII VIDANOVA    </a></span>
+	<span><a href="/acao/index.html?codigo=VLJS11.SA">FII VQ LAJES CI </a></span>
+	<span><a href="/acao/index.html?codigo=XPGA11.SA">FII XP GAIA CI  </a></span>
+	<span><a href="/acao/index.html?codigo=XPCM11.SA">FII XP MACAE CI </a></span>
+	<span><a href="/acao/index.html?codigo=FNAM11.SA">FINAM CI        </a></span>
+	<span><a href="/acao/index.html?codigo=FNCN3.SA">FINANSINOS ON   </a></span>
+	<span><a href="/acao/index.html?codigo=FNOR11.SA">FINOR CI        </a></span>
+	<span><a href="/acao/index.html?codigo=BRCP11.SA">FIP BRASCAN CI  </a></span>
+	<span><a href="/acao/index.html?codigo=FCCQ11.SA">FIP CONQUEST CI </a></span>
+	<span><a href="/acao/index.html?codigo=ESUU11.SA">FIP IE I CI     </a></span>
+	<span><a href="/acao/index.html?codigo=ESUU12.SA">FIP IE I CI     </a></span>
+	<span><a href="/acao/index.html?codigo=ESUD12.SA">FIP IE II CI    </a></span>
+	<span><a href="/acao/index.html?codigo=ESUD11.SA">FIP IE II CI    </a></span>
+	<span><a href="/acao/index.html?codigo=ESUT11.SA">FIP IE III CI   </a></span>
+	<span><a href="/acao/index.html?codigo=ESUT12.SA">FIP IE III CI   </a></span>
+	<span><a href="/acao/index.html?codigo=XPOM11.SA">FIP XP OMEGA CI </a></span>
+	<span><a href="/acao/index.html?codigo=FSRF11.SA">FISET FL REF CI </a></span>
+	<span><a href="/acao/index.html?codigo=FSPE11.SA">FISET PESCA CI  </a></span>
+	<span><a href="/acao/index.html?codigo=FSTU11.SA">FISET TUR CI    </a></span>
+	<span><a href="/acao/index.html?codigo=FLRY3.SA">FLEURY ON       </a></span>
+	<span><a href="/acao/index.html?codigo=FLYN3B.SO">FLYNET</a></span>
+	<span><a href="/acao/index.html?codigo=FDMO34.SA">FORD MOTORS     </a></span>
+	<span><a href="/acao/index.html?codigo=FJTA9.SA">FORJA TAURUS    </a></span>
+	<span><a href="/acao/index.html?codigo=FJTA10.SA">FORJA TAURUS    </a></span>
+	<span><a href="/acao/index.html?codigo=FJTA3.SA">FORJA TAURUS ON </a></span>
+	<span><a href="/acao/index.html?codigo=FJTA4.SA">FORJA TAURUS PN </a></span>
+	<span><a href="/acao/index.html?codigo=FPRT3B.SO">FORPART</a></span>
+	<span><a href="/acao/index.html?codigo=FPRT4B.SO">FORPART</a></span>
+	<span><a href="/acao/index.html?codigo=FFTL3.SA">FOSFERTIL ON    </a></span>
+	<span><a href="/acao/index.html?codigo=FFTL4.SA">FOSFERTIL PN    </a></span>
+	<span><a href="/acao/index.html?codigo=FRAS3.SA">FRAS-LE ON      </a></span>
+	<span><a href="/acao/index.html?codigo=FRAS4.SA">FRAS-LE PN      </a></span>
+	<span><a href="/acao/index.html?codigo=FCXO34.SA">FREEPORT        </a></span>
+	<span><a href="/acao/index.html?codigo=FRES11.SA">FUNRES CI       </a></span>
+	<span><a href="/acao/index.html?codigo=FTRT3B.SO">FUTURETEL</a></span>
+	<span><a href="/acao/index.html?codigo=GFSA3.SA">GAFISA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=GRDA3B.SO">GARUDA</a></span>
+	<span><a href="/acao/index.html?codigo=GRDA4B.SO">GARUDA</a></span>
+	<span><a href="/acao/index.html?codigo=GAZO3.SA">GAZOLA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=GAZO4.SA">GAZOLA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=GEOO34.SA">GE              </a></span>
+	<span><a href="/acao/index.html?codigo=GSHP3.SA">GENERALSHOPP ON </a></span>
+	<span><a href="/acao/index.html?codigo=GEPA3.SA">GER PARANAP ON  </a></span>
+	<span><a href="/acao/index.html?codigo=GEPA4.SA">GER PARANAP PN  </a></span>
+	<span><a href="/acao/index.html?codigo=GOAU3.SA">GERDAU MET ON   </a></span>
+	<span><a href="/acao/index.html?codigo=GOAU4.SA">GERDAU MET PN   </a></span>
+	<span><a href="/acao/index.html?codigo=GGBR3.SA">GERDAU ON       </a></span>
+	<span><a href="/acao/index.html?codigo=GGBR4.SA">GERDAU PN       </a></span>
+	<span><a href="/acao/index.html?codigo=BDRX11.SA">GLOBAL BDRX     </a></span>
+	<span><a href="/acao/index.html?codigo=GLOB1.SA">GLOBEX DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=GLOB3.SA">GLOBEX ON       </a></span>
+	<span><a href="/acao/index.html?codigo=GPAR3.SA">GOIASPAR ON     </a></span>
+	<span><a href="/acao/index.html?codigo=GOLL2.SA">GOL DIR         </a></span>
+	<span><a href="/acao/index.html?codigo=GOLL1.SA">GOL DIR         </a></span>
+	<span><a href="/acao/index.html?codigo=GOLL3.SA">GOL ON          </a></span>
+	<span><a href="/acao/index.html?codigo=GOLL9.SA">GOL ON REC      </a></span>
+	<span><a href="/acao/index.html?codigo=GOLL4.SA">GOL PN          </a></span>
+	<span><a href="/acao/index.html?codigo=GOLL10.SA">GOL PN REC      </a></span>
+	<span><a href="/acao/index.html?codigo=GSGI34.SA">GOLDMANSACHS    </a></span>
+	<span><a href="/acao/index.html?codigo=GOOG34.SA">GOOGLE          </a></span>
+	<span><a href="/acao/index.html?codigo=GPIV33.SA">GP INVEST BDR   </a></span>
+	<span><a href="/acao/index.html?codigo=GPIV11.SA">GP INVEST BDR   </a></span>
+	<span><a href="/acao/index.html?codigo=GPCP1.SA">GPC PART DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=GPCP3.SA">GPC PART ON     </a></span>
+	<span><a href="/acao/index.html?codigo=GPCP9.SA">GPC PART ON     </a></span>
+	<span><a href="/acao/index.html?codigo=IGBR3.SA">GRADIENTE ON    </a></span>
+	<span><a href="/acao/index.html?codigo=CGRA3.SA">GRAZZIOTIN ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CGRA4.SA">GRAZZIOTIN PN   </a></span>
+	<span><a href="/acao/index.html?codigo=GRND11.SA">GRENDENE ON</a></span>
+	<span><a href="/acao/index.html?codigo=GRND3.SA">GRENDENE ON     </a></span>
+	<span><a href="/acao/index.html?codigo=GRUC9.SA">GRUCAI ON</a></span>
+	<span><a href="/acao/index.html?codigo=GRUC3.SA">GRUCAI ON       </a></span>
+	<span><a href="/acao/index.html?codigo=GRUC13.SA">GRUCAI PNB</a></span>
+	<span><a href="/acao/index.html?codigo=GRUC6.SA">GRUCAI PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=GTDP4B.SO">GTD PART</a></span>
+	<span><a href="/acao/index.html?codigo=GTDP3B.SO">GTD PART</a></span>
+	<span><a href="/acao/index.html?codigo=GUAR3.SA">GUARARAPES ON   </a></span>
+	<span><a href="/acao/index.html?codigo=GUAR4.SA">GUARARAPES PN   </a></span>
+	<span><a href="/acao/index.html?codigo=GVTT3.SA">GVT HOLDING ON</a></span>
+	<span><a href="/acao/index.html?codigo=HBTS3.SA">HABITASUL ON    </a></span>
+	<span><a href="/acao/index.html?codigo=HBTS5.SA">HABITASUL PNA   </a></span>
+	<span><a href="/acao/index.html?codigo=HBTS6.SA">HABITASUL PNB   </a></span>
+	<span><a href="/acao/index.html?codigo=HAGA3.SA">HAGA S/A ON     </a></span>
+	<span><a href="/acao/index.html?codigo=HAGA4.SA">HAGA S/A PN     </a></span>
+	<span><a href="/acao/index.html?codigo=HALI34.SA">HALLIBURTON     </a></span>
+	<span><a href="/acao/index.html?codigo=HPIA3.SA">HARPIA PART ON  </a></span>
+	<span><a href="/acao/index.html?codigo=HBOR1.SA">HELBOR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=HBOR9.SA">HELBOR ON</a></span>
+	<span><a href="/acao/index.html?codigo=HBOR3.SA">HELBOR ON       </a></span>
+	<span><a href="/acao/index.html?codigo=HETA3.SA">HERCULES ON     </a></span>
+	<span><a href="/acao/index.html?codigo=HETA4.SA">HERCULES PN     </a></span>
+	<span><a href="/acao/index.html?codigo=HOME34.SA">HOME DEPOT      </a></span>
+	<span><a href="/acao/index.html?codigo=HONB34.SA">HONEYWELL       </a></span>
+	<span><a href="/acao/index.html?codigo=HOOT3.SA">HOTEIS OTHON ON </a></span>
+	<span><a href="/acao/index.html?codigo=HOOT4.SA">HOTEIS OTHON PN </a></span>
+	<span><a href="/acao/index.html?codigo=HPQB34.SA">HP COMPANY      </a></span>
+	<span><a href="/acao/index.html?codigo=HRTP1.SA">HRT PETROLEO DIR</a></span>
+	<span><a href="/acao/index.html?codigo=HRTP11.SA">HRT PETROLEO DIR</a></span>
+	<span><a href="/acao/index.html?codigo=HRTP3.SA">HRT PETROLEO O/d</a></span>
+	<span><a href="/acao/index.html?codigo=HRTP9.SA">HRT PETROLEO ON </a></span>
+	<span><a href="/acao/index.html?codigo=HYPE12.SA">HYPERMARCAS DI/d</a></span>
+	<span><a href="/acao/index.html?codigo=HYPE3.SA">HYPERMARCAS ON  </a></span>
+	<span><a href="/acao/index.html?codigo=IBMB34.SA">IBM             </a></span>
+	<span><a href="/acao/index.html?codigo=IBRA11.SA">IBRASIL INDEX   </a></span>
+	<span><a href="/acao/index.html?codigo=IDNT1.SA">IDEIASNET DIR   </a></span>
+	<span><a href="/acao/index.html?codigo=IDNT9.SA">IDEIASNET ON    </a></span>
+	<span><a href="/acao/index.html?codigo=IDNT3.SA">IDEIASNET ON    </a></span>
+	<span><a href="/acao/index.html?codigo=IENG3.SA">IENERGIA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=IENG5.SA">IENERGIA PNA    </a></span>
+	<span><a href="/acao/index.html?codigo=IENG6.SA">IENERGIA PNB    </a></span>
+	<span><a href="/acao/index.html?codigo=IGNM11.SA">IGC N M         </a></span>
+	<span><a href="/acao/index.html?codigo=IGCT11.SA">IGC TRADE       </a></span>
+	<span><a href="/acao/index.html?codigo=IGUA3.SA">IGUACU CAFE ON  </a></span>
+	<span><a href="/acao/index.html?codigo=IGUA5.SA">IGUACU CAFE PNA </a></span>
+	<span><a href="/acao/index.html?codigo=IGUA6.SA">IGUACU CAFE PNB </a></span>
+	<span><a href="/acao/index.html?codigo=IGTA3.SA">IGUATEMI ON     </a></span>
+	<span><a href="/acao/index.html?codigo=IMAT11.SA">IMAT BASICOS IND</a></span>
+	<span><a href="/acao/index.html?codigo=IMCH3.SA">IMC HOLDINGS O/d</a></span>
+	<span><a href="/acao/index.html?codigo=IBOV11.SA">IND BOVESPA CI  </a></span>
+	<span><a href="/acao/index.html?codigo=CATA3.SA">IND CATAGUAS ON </a></span>
+	<span><a href="/acao/index.html?codigo=CATA4.SA">IND CATAGUAS PN </a></span>
+	<span><a href="/acao/index.html?codigo=ROMI3.SA">INDS ROMI ON    </a></span>
+	<span><a href="/acao/index.html?codigo=IDVC9.SA">INDUSVAL CTV ON</a></span>
+	<span><a href="/acao/index.html?codigo=IDVL2.SA">INDUSVAL DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=IDVL1.SA">INDUSVAL DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=IDVL11.SA">INDUSVAL DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=IDVL9.SA">INDUSVAL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=IDVL12.SA">INDUSVAL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=IDVL10.SA">INDUSVAL PN     </a></span>
+	<span><a href="/acao/index.html?codigo=INEP2.SA">INEPAR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=INEP1.SA">INEPAR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=INEP11.SA">INEPAR ON</a></span>
+	<span><a href="/acao/index.html?codigo=INEP3.SA">INEPAR ON       </a></span>
+	<span><a href="/acao/index.html?codigo=INEP9.SA">INEPAR ON REC</a></span>
+	<span><a href="/acao/index.html?codigo=INEP4.SA">INEPAR PN       </a></span>
+	<span><a href="/acao/index.html?codigo=INEP10.SA">INEPAR PN REC</a></span>
+	<span><a href="/acao/index.html?codigo=INET1.SA">INEPAR TEL DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=INET3.SA">INEPAR TEL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=INPR3.SA">INPAR ON        </a></span>
+	<span><a href="/acao/index.html?codigo=ITLC34.SA">INTEL           </a></span>
+	<span><a href="/acao/index.html?codigo=IVPR4B.SO">INVEPAR</a></span>
+	<span><a href="/acao/index.html?codigo=IVPR3B.SO">INVEPAR</a></span>
+	<span><a href="/acao/index.html?codigo=FIGE3.SA">INVEST BEMGE ON </a></span>
+	<span><a href="/acao/index.html?codigo=FIGE4.SA">INVEST BEMGE PN </a></span>
+	<span><a href="/acao/index.html?codigo=IVTT3.SA">INVEST TUR ON</a></span>
+	<span><a href="/acao/index.html?codigo=IVTL3B.SO">INVITEL</a></span>
+	<span><a href="/acao/index.html?codigo=MYPK11.SA">IOCHP-MAXION    </a></span>
+	<span><a href="/acao/index.html?codigo=MYPK3.SA">IOCHP-MAXION ON </a></span>
+	<span><a href="/acao/index.html?codigo=IRON3.SA">IRONX MINER ON</a></span>
+	<span><a href="/acao/index.html?codigo=BOVA11.SA">ISHARES BOVA CI </a></span>
+	<span><a href="/acao/index.html?codigo=BRAX11.SA">ISHARES BRAX CI </a></span>
+	<span><a href="/acao/index.html?codigo=CSMO11.SA">ISHARES CSMO CI </a></span>
+	<span><a href="/acao/index.html?codigo=ECOO11.SA">ISHARES ECOO CI </a></span>
+	<span><a href="/acao/index.html?codigo=MILA11.SA">ISHARES MILA CI </a></span>
+	<span><a href="/acao/index.html?codigo=MOBI11.SA">ISHARES MOBI CI </a></span>
+	<span><a href="/acao/index.html?codigo=SMAL11.SA">ISHARES SMAL CI </a></span>
+	<span><a href="/acao/index.html?codigo=UTIP11.SA">ISHARES UTIP CI </a></span>
+	<span><a href="/acao/index.html?codigo=DIVO11.SA">IT NOW IDIV CI  </a></span>
+	<span><a href="/acao/index.html?codigo=FIND11.SA">IT NOW IFNC CI/d</a></span>
+	<span><a href="/acao/index.html?codigo=GOVE11.SA">IT NOW IGCT CI  </a></span>
+	<span><a href="/acao/index.html?codigo=MATB11.SA">IT NOW IMAT CI  </a></span>
+	<span><a href="/acao/index.html?codigo=ISUS11.SA">IT NOW ISE CI   </a></span>
+	<span><a href="/acao/index.html?codigo=SQRM3.SA">ITAITINGA ON    </a></span>
+	<span><a href="/acao/index.html?codigo=SQRM11.SA">ITAITINGA PRB   </a></span>
+	<span><a href="/acao/index.html?codigo=ITAU3.SA">ITAUBANCO ON</a></span>
+	<span><a href="/acao/index.html?codigo=ITAU4.SA">ITAUBANCO PN</a></span>
+	<span><a href="/acao/index.html?codigo=ITSA1.SA">ITAUSA DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=ITSA2.SA">ITAUSA DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=ITSA9.SA">ITAUSA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=ITSA3.SA">ITAUSA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=ITSA4.SA">ITAUSA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=ITSA10.SA">ITAUSA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=ITEC11.SA">ITAUTEC DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=ITEC3.SA">ITAUTEC ON      </a></span>
+	<span><a href="/acao/index.html?codigo=ITUB3.SA">ITAUUNIBANCO ON </a></span>
+	<span><a href="/acao/index.html?codigo=ITUB4.SA">ITAUUNIBANCO PN </a></span>
+	<span><a href="/acao/index.html?codigo=JBDU2.SA">J B DUARTE DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=JBDU1.SA">J B DUARTE DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=JBDU3.SA">J B DUARTE ON   </a></span>
+	<span><a href="/acao/index.html?codigo=JBDU9.SA">J B DUARTE ON   </a></span>
+	<span><a href="/acao/index.html?codigo=JBDU10.SA">J B DUARTE PN   </a></span>
+	<span><a href="/acao/index.html?codigo=JBDU4.SA">J B DUARTE PN   </a></span>
+	<span><a href="/acao/index.html?codigo=JBSS11.SA">JBS DIR</a></span>
+	<span><a href="/acao/index.html?codigo=JBSS1.SA">JBS DIR         </a></span>
+	<span><a href="/acao/index.html?codigo=JBSS3.SA">JBS ON          </a></span>
+	<span><a href="/acao/index.html?codigo=JBSS9.SA">JBS ON          </a></span>
+	<span><a href="/acao/index.html?codigo=MLFT3.SA">JEREISSATI ON   </a></span>
+	<span><a href="/acao/index.html?codigo=MLFT4.SA">JEREISSATI PN   </a></span>
+	<span><a href="/acao/index.html?codigo=JHSF3.SA">JHSF PART ON    </a></span>
+	<span><a href="/acao/index.html?codigo=JFEN1.SA">JOAO FORTES DIR </a></span>
+	<span><a href="/acao/index.html?codigo=JFEN9.SA">JOAO FORTES ON  </a></span>
+	<span><a href="/acao/index.html?codigo=JFEN3.SA">JOAO FORTES ON  </a></span>
+	<span><a href="/acao/index.html?codigo=JNJB34.SA">JOHNSON         </a></span>
+	<span><a href="/acao/index.html?codigo=JOPA3.SA">JOSAPAR ON      </a></span>
+	<span><a href="/acao/index.html?codigo=JOPA4.SA">JOSAPAR PN      </a></span>
+	<span><a href="/acao/index.html?codigo=JPMC34.SA">JPMORGAN        </a></span>
+	<span><a href="/acao/index.html?codigo=JSLG3.SA">JULIO SIMOES ON </a></span>
+	<span><a href="/acao/index.html?codigo=CTKA9.SA">KARSTEN         </a></span>
+	<span><a href="/acao/index.html?codigo=CTKA10.SA">KARSTEN         </a></span>
+	<span><a href="/acao/index.html?codigo=CTKA2.SA">KARSTEN         </a></span>
+	<span><a href="/acao/index.html?codigo=CTKA1.SA">KARSTEN         </a></span>
+	<span><a href="/acao/index.html?codigo=CTKA3.SA">KARSTEN ON      </a></span>
+	<span><a href="/acao/index.html?codigo=CTKA4.SA">KARSTEN PN      </a></span>
+	<span><a href="/acao/index.html?codigo=KEPL11.SA">KEPLER WEBER ETF</a></span>
+	<span><a href="/acao/index.html?codigo=KEPL3.SA">KEPLER WEBER ON </a></span>
+	<span><a href="/acao/index.html?codigo=KLBN13.SA">KLABIN          </a></span>
+	<span><a href="/acao/index.html?codigo=KLBN11.SA">KLABIN DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=KLBN3.SA">KLABIN S/A ON   </a></span>
+	<span><a href="/acao/index.html?codigo=KLBN4.SA">KLABIN S/A PN   </a></span>
+	<span><a href="/acao/index.html?codigo=KSSA3.SA">KLABINSEGALL ON</a></span>
+	<span><a href="/acao/index.html?codigo=KFGI34.SA">KRAFT GROUP     </a></span>
+	<span><a href="/acao/index.html?codigo=KROT12.SA">KROTON DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=KROT2.SA">KROTON DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=KROT1.SA">KROTON DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=KROT3.SA">KROTON ON       </a></span>
+	<span><a href="/acao/index.html?codigo=KROT9.SA">KROTON ON REC   </a></span>
+	<span><a href="/acao/index.html?codigo=KROT4.SA">KROTON PN       </a></span>
+	<span><a href="/acao/index.html?codigo=KROT10.SA">KROTON PN REC   </a></span>
+	<span><a href="/acao/index.html?codigo=KROT13.SA">KROTON UNIT REC </a></span>
+	<span><a href="/acao/index.html?codigo=KROT11.SA">KROTON UNT      </a></span>
+	<span><a href="/acao/index.html?codigo=LFFE3.SA">LA FONTE TEL ON </a></span>
+	<span><a href="/acao/index.html?codigo=LFFE4.SA">LA FONTE TEL PN </a></span>
+	<span><a href="/acao/index.html?codigo=MILK11.SA">LAEP INVEST BDR </a></span>
+	<span><a href="/acao/index.html?codigo=MILK33.SA">LAEP INVEST BDR </a></span>
+	<span><a href="/acao/index.html?codigo=MEOP3B.SO">LAHOTELS ON</a></span>
+	<span><a href="/acao/index.html?codigo=LATM11.SA">LAN AIRLINES UNT</a></span>
+	<span><a href="/acao/index.html?codigo=LARK3.SA">LARK MAQS ON    </a></span>
+	<span><a href="/acao/index.html?codigo=LARK4.SA">LARK MAQS PN    </a></span>
+	<span><a href="/acao/index.html?codigo=LATM33.SA">LATAM AIRLN BDR </a></span>
+	<span><a href="/acao/index.html?codigo=LATM12.SA">LATAM AIRLN DIR </a></span>
+	<span><a href="/acao/index.html?codigo=LLIS3.SA">LE LIS BLANC ON </a></span>
+	<span><a href="/acao/index.html?codigo=LECO3.SA">LECO ON</a></span>
+	<span><a href="/acao/index.html?codigo=LECO4.SA">LECO PN</a></span>
+	<span><a href="/acao/index.html?codigo=PITI3.SA">LF TEL ON       </a></span>
+	<span><a href="/acao/index.html?codigo=PITI4.SA">LF TEL PN       </a></span>
+	<span><a href="/acao/index.html?codigo=MLPP3M.SA">LFPARTICIP ON   </a></span>
+	<span><a href="/acao/index.html?codigo=MLPP3.SA">LFPARTICIP ON   </a></span>
+	<span><a href="/acao/index.html?codigo=BITY3B.SO">LIGAFUTEBOL</a></span>
+	<span><a href="/acao/index.html?codigo=LIGT3.SA">LIGHT S/A ON    </a></span>
+	<span><a href="/acao/index.html?codigo=LILY34.SA">LILLY           </a></span>
+	<span><a href="/acao/index.html?codigo=LNKD34.SA">LINKEDIN        </a></span>
+	<span><a href="/acao/index.html?codigo=LINX3.SA">LINX ON         </a></span>
+	<span><a href="/acao/index.html?codigo=LTEL5B.SO">LITEL</a></span>
+	<span><a href="/acao/index.html?codigo=LTEL3B.SO">LITEL</a></span>
+	<span><a href="/acao/index.html?codigo=LTEL11B.SO">LITEL</a></span>
+	<span><a href="/acao/index.html?codigo=LGLO3.SA">LIVR GLOBO ON</a></span>
+	<span><a href="/acao/index.html?codigo=LGLO4.SA">LIVR GLOBO PN</a></span>
+	<span><a href="/acao/index.html?codigo=LIXC3.SA">LIX DA CUNHA ON </a></span>
+	<span><a href="/acao/index.html?codigo=LIXC4.SA">LIX DA CUNHA PN </a></span>
+	<span><a href="/acao/index.html?codigo=LLXL1.SA">LLX LOG DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=LLXL3.SA">LLX LOG ON      </a></span>
+	<span><a href="/acao/index.html?codigo=LLXL9.SA">LLX LOG ON REC  </a></span>
+	<span><a href="/acao/index.html?codigo=RENT3.SA">LOCALIZA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=LCAM3.SA">LOCAMERICA ON   </a></span>
+	<span><a href="/acao/index.html?codigo=LMTB34.SA">LOCKHEED        </a></span>
+	<span><a href="/acao/index.html?codigo=LOGN3.SA">LOG-IN ON       </a></span>
+	<span><a href="/acao/index.html?codigo=LAME15.SA">LOJAS AMERIC DIR</a></span>
+	<span><a href="/acao/index.html?codigo=LAME3.SA">LOJAS AMERIC ON </a></span>
+	<span><a href="/acao/index.html?codigo=LAME11.SA">LOJAS AMERIC PN </a></span>
+	<span><a href="/acao/index.html?codigo=LAME4.SA">LOJAS AMERIC PN </a></span>
+	<span><a href="/acao/index.html?codigo=LHER3.SA">LOJAS HERING ON </a></span>
+	<span><a href="/acao/index.html?codigo=LHER4.SA">LOJAS HERING PN </a></span>
+	<span><a href="/acao/index.html?codigo=AMAR3.SA">LOJAS MARISA ON </a></span>
+	<span><a href="/acao/index.html?codigo=LREN3.SA">LOJAS RENNER ON </a></span>
+	<span><a href="/acao/index.html?codigo=LREN11.SA">LOJAS RENNER ON </a></span>
+	<span><a href="/acao/index.html?codigo=SPRT3B.SO">LONGDIS</a></span>
+	<span><a href="/acao/index.html?codigo=LPSB1.SA">LOPES BRASIL DIR</a></span>
+	<span><a href="/acao/index.html?codigo=LPSB9.SA">LOPES BRASIL ON </a></span>
+	<span><a href="/acao/index.html?codigo=LPSB3.SA">LPS BRASIL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=LUPA11.SA">LUPATECH DIR</a></span>
+	<span><a href="/acao/index.html?codigo=LUPA1.SA">LUPATECH DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=LUPA3.SA">LUPATECH ON     </a></span>
+	<span><a href="/acao/index.html?codigo=LUPA9.SA">LUPATECH ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=RHDS3.SA">M&G POLIEST ON  </a></span>
+	<span><a href="/acao/index.html?codigo=MDIA3.SA">M.DIASBRANCO ON </a></span>
+	<span><a href="/acao/index.html?codigo=MGLU3.SA">MAG LUIZA ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MAGG1.SA">MAGNESITA SA DIR</a></span>
+	<span><a href="/acao/index.html?codigo=MAGG9.SA">MAGNESITA SA ON</a></span>
+	<span><a href="/acao/index.html?codigo=MAGG3.SA">MAGNESITA SA ON </a></span>
+	<span><a href="/acao/index.html?codigo=MGEL3.SA">MANGELS INDL ON </a></span>
+	<span><a href="/acao/index.html?codigo=MGEL4.SA">MANGELS INDL PN </a></span>
+	<span><a href="/acao/index.html?codigo=MAOR3B.SO">MAORI</a></span>
+	<span><a href="/acao/index.html?codigo=MAOR4B.SO">MAORI</a></span>
+	<span><a href="/acao/index.html?codigo=CTPC3.SA">MARAMBAIA ON    </a></span>
+	<span><a href="/acao/index.html?codigo=POMO3.SA">MARCOPOLO ON    </a></span>
+	<span><a href="/acao/index.html?codigo=POMO4.SA">MARCOPOLO PN    </a></span>
+	<span><a href="/acao/index.html?codigo=MRFG11.SA">MARFRIG DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=MRFG3.SA">MARFRIG ON      </a></span>
+	<span><a href="/acao/index.html?codigo=MARI3.SA">MARISA ON</a></span>
+	<span><a href="/acao/index.html?codigo=MRSL3.SA">MARISOL ON      </a></span>
+	<span><a href="/acao/index.html?codigo=MRSL4.SA">MARISOL PN      </a></span>
+	<span><a href="/acao/index.html?codigo=MARL3B.SO">MARLIM PART</a></span>
+	<span><a href="/acao/index.html?codigo=MARL4B.SO">MARLIM PART</a></span>
+	<span><a href="/acao/index.html?codigo=MRLM4B.SO">MARLIM PETR</a></span>
+	<span><a href="/acao/index.html?codigo=MRLM3B.SO">MARLIM PETR</a></span>
+	<span><a href="/acao/index.html?codigo=MSCD34.SA">MASTERCARD      </a></span>
+	<span><a href="/acao/index.html?codigo=MCDC34.SA">MCDONALDS       </a></span>
+	<span><a href="/acao/index.html?codigo=MEDI3.SA">MEDIAL ON</a></span>
+	<span><a href="/acao/index.html?codigo=MSPA3.SA">MELHOR SP ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MSPA4.SA">MELHOR SP PN    </a></span>
+	<span><a href="/acao/index.html?codigo=MLPA3.SA">MELPAPER ON</a></span>
+	<span><a href="/acao/index.html?codigo=MLPA11.SA">MELPAPER ON</a></span>
+	<span><a href="/acao/index.html?codigo=MLPA12.SA">MELPAPER PN</a></span>
+	<span><a href="/acao/index.html?codigo=MLPA4.SA">MELPAPER PN</a></span>
+	<span><a href="/acao/index.html?codigo=MEND3.SA">MENDES JR ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MEND5.SA">MENDES JR PNA   </a></span>
+	<span><a href="/acao/index.html?codigo=MEND6.SA">MENDES JR PNB   </a></span>
+	<span><a href="/acao/index.html?codigo=MNZC3B.SO">MENEZES CORT</a></span>
+	<span><a href="/acao/index.html?codigo=BMEB10.SA">MERC BRASIL     </a></span>
+	<span><a href="/acao/index.html?codigo=BMEB1.SA">MERC BRASIL DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BMEB2.SA">MERC BRASIL DIR </a></span>
+	<span><a href="/acao/index.html?codigo=BMEB9.SA">MERC BRASIL ON</a></span>
+	<span><a href="/acao/index.html?codigo=BMEB3.SA">MERC BRASIL ON  </a></span>
+	<span><a href="/acao/index.html?codigo=BMEB4.SA">MERC BRASIL PN  </a></span>
+	<span><a href="/acao/index.html?codigo=BMEB11.SA">MERC BRASIL PN  </a></span>
+	<span><a href="/acao/index.html?codigo=MERC9.SA">MERC FINA ON REC</a></span>
+	<span><a href="/acao/index.html?codigo=MERC10.SA">MERC FINA PN REC</a></span>
+	<span><a href="/acao/index.html?codigo=MERC2.SA">MERC FINANC DIR </a></span>
+	<span><a href="/acao/index.html?codigo=MERC1.SA">MERC FINANC DIR </a></span>
+	<span><a href="/acao/index.html?codigo=MERC3.SA">MERC FINANC ON  </a></span>
+	<span><a href="/acao/index.html?codigo=MERC4.SA">MERC FINANC PN  </a></span>
+	<span><a href="/acao/index.html?codigo=BMIN3.SA">MERC INVEST ON  </a></span>
+	<span><a href="/acao/index.html?codigo=BMIN4.SA">MERC INVEST PN  </a></span>
+	<span><a href="/acao/index.html?codigo=MRCK34.SA">MERCK           </a></span>
+	<span><a href="/acao/index.html?codigo=DUQE3.SA">MET DUQUE ON    </a></span>
+	<span><a href="/acao/index.html?codigo=DUQE4.SA">MET DUQUE PN    </a></span>
+	<span><a href="/acao/index.html?codigo=MTIG2.SA">METAL IGUACU D/d</a></span>
+	<span><a href="/acao/index.html?codigo=MTIG1.SA">METAL IGUACU D/d</a></span>
+	<span><a href="/acao/index.html?codigo=MTIG9.SA">METAL IGUACU O/d</a></span>
+	<span><a href="/acao/index.html?codigo=MTIG3.SA">METAL IGUACU ON </a></span>
+	<span><a href="/acao/index.html?codigo=MTIG10.SA">METAL IGUACU P/d</a></span>
+	<span><a href="/acao/index.html?codigo=MTIG4.SA">METAL IGUACU PN </a></span>
+	<span><a href="/acao/index.html?codigo=LEVE1.SA">METAL LEVE DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=LEVE3.SA">METAL LEVE ON   </a></span>
+	<span><a href="/acao/index.html?codigo=LEVE4.SA">METAL LEVE PN</a></span>
+	<span><a href="/acao/index.html?codigo=FRIO3.SA">METALFRIO ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MTSA3.SA">METISA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=MTSA4.SA">METISA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=OPRT3B.SO">METRO RIO</a></span>
+	<span><a href="/acao/index.html?codigo=MSFT34.SA">MICROSOFT       </a></span>
+	<span><a href="/acao/index.html?codigo=TIBR3.SA">MILLENNIUM ON   </a></span>
+	<span><a href="/acao/index.html?codigo=TIBR5.SA">MILLENNIUM PNA  </a></span>
+	<span><a href="/acao/index.html?codigo=TIBR6.SA">MILLENNIUM PNB  </a></span>
+	<span><a href="/acao/index.html?codigo=MILS3.SA">MILLS ON        </a></span>
+	<span><a href="/acao/index.html?codigo=MMAQ3.SA">MINASMAQUINA ON </a></span>
+	<span><a href="/acao/index.html?codigo=MMAQ4.SA">MINASMAQUINA PN </a></span>
+	<span><a href="/acao/index.html?codigo=BEEF11.SA">MINERVA BNS     </a></span>
+	<span><a href="/acao/index.html?codigo=BEEF1.SA">MINERVA DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BEEF9.SA">MINERVA ON</a></span>
+	<span><a href="/acao/index.html?codigo=BEEF3.SA">MINERVA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=MIBV11.SA">MINI BOV        </a></span>
+	<span><a href="/acao/index.html?codigo=MNPR1.SA">MINUPAR DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=MNPR9.SA">MINUPAR ON      </a></span>
+	<span><a href="/acao/index.html?codigo=MNPR3.SA">MINUPAR ON      </a></span>
+	<span><a href="/acao/index.html?codigo=MMXM11.SA">MMX MINER       </a></span>
+	<span><a href="/acao/index.html?codigo=MMXM1.SA">MMX MINER DIR   </a></span>
+	<span><a href="/acao/index.html?codigo=MMXM3.SA">MMX MINER ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MMXM9.SA">MMX MINER ON REC</a></span>
+	<span><a href="/acao/index.html?codigo=MOEP3B.SO">MOENA PART ON</a></span>
+	<span><a href="/acao/index.html?codigo=MSTO34.SA">MONSANTO        </a></span>
+	<span><a href="/acao/index.html?codigo=MOAR1.SA">MONT ARANHA DIR </a></span>
+	<span><a href="/acao/index.html?codigo=MOAR3.SA">MONT ARANHA ON  </a></span>
+	<span><a href="/acao/index.html?codigo=MOAR9.SA">MONT ARANHA ON  </a></span>
+	<span><a href="/acao/index.html?codigo=MONP3B.SO">MONTICIANO ON</a></span>
+	<span><a href="/acao/index.html?codigo=MSBR34.SA">MORGAN STAN     </a></span>
+	<span><a href="/acao/index.html?codigo=MPXE11.SA">MPX ENERGIA DIR </a></span>
+	<span><a href="/acao/index.html?codigo=MPEX1.SA">MPX ENERGIA DIR </a></span>
+	<span><a href="/acao/index.html?codigo=MPXE1.SA">MPX ENERGIA DIR </a></span>
+	<span><a href="/acao/index.html?codigo=MPXE9.SA">MPX ENERGIA ON R</a></span>
+	<span><a href="/acao/index.html?codigo=MPXE99T.SA">MPX ENERGIA UNT </a></span>
+	<span><a href="/acao/index.html?codigo=MPXE99.SA">MPX ENERGIA UNT </a></span>
+	<span><a href="/acao/index.html?codigo=MPXE99D.SA">MPX ENERGIA UNT </a></span>
+	<span><a href="/acao/index.html?codigo=MPXE99S.SA">MPX ENERGIA UNT </a></span>
+	<span><a href="/acao/index.html?codigo=MRSA6B.SO">MRS LOGIST</a></span>
+	<span><a href="/acao/index.html?codigo=MRSA3B.SO">MRS LOGIST</a></span>
+	<span><a href="/acao/index.html?codigo=MRSA5B.SO">MRS LOGIST</a></span>
+	<span><a href="/acao/index.html?codigo=MRVE3.SA">MRV ON          </a></span>
+	<span><a href="/acao/index.html?codigo=MULT3.SA">MULTIPLAN ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MPLU3.SA">MULTIPLUS ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MPLU11.SA">MULTIPLUS ON    </a></span>
+	<span><a href="/acao/index.html?codigo=MNDL1.SA">MUNDIAL DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=MNDL3.SA">MUNDIAL ON      </a></span>
+	<span><a href="/acao/index.html?codigo=MNDL9.SA">MUNDIAL ON REC  </a></span>
+	<span><a href="/acao/index.html?codigo=MNDL4.SA">MUNDIAL PN      </a></span>
+	<span><a href="/acao/index.html?codigo=NAFG3.SA">NADIR FIGUEI ON </a></span>
+	<span><a href="/acao/index.html?codigo=NAFG4.SA">NADIR FIGUEI PN </a></span>
+	<span><a href="/acao/index.html?codigo=NATU3.SA">NATURA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=GNAN3B.SO">NEOENERGIA</a></span>
+	<span><a href="/acao/index.html?codigo=NETC3.SA">NET ON          </a></span>
+	<span><a href="/acao/index.html?codigo=NETC1.SA">NET ON DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=NETC9.SA">NET ON REC      </a></span>
+	<span><a href="/acao/index.html?codigo=NETC4.SA">NET PN          </a></span>
+	<span><a href="/acao/index.html?codigo=NETC10.SA">NET PN REC      </a></span>
+	<span><a href="/acao/index.html?codigo=NETC2.SA">NET PRE DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=NFLX34.SA">NETFLIX         </a></span>
+	<span><a href="/acao/index.html?codigo=NEWT3B.SO">NEWTEL PART</a></span>
+	<span><a href="/acao/index.html?codigo=NIKE34.SA">NIKE            </a></span>
+	<span><a href="/acao/index.html?codigo=BNBR3.SA">NORD BRASIL ON  </a></span>
+	<span><a href="/acao/index.html?codigo=BNBR4.SA">NORD BRASIL PN  </a></span>
+	<span><a href="/acao/index.html?codigo=NORD3.SA">NORDON MET ON   </a></span>
+	<span><a href="/acao/index.html?codigo=NRTQ3.SA">NORTCQUIMICA ON </a></span>
+	<span><a href="/acao/index.html?codigo=NRTQ3M.SA">NORTCQUIMICA ON </a></span>
+	<span><a href="/acao/index.html?codigo=BNCA3.SA">NOSSA CAIXA ON</a></span>
+	<span><a href="/acao/index.html?codigo=NOVA3B.SO">NOVA AMERICA</a></span>
+	<span><a href="/acao/index.html?codigo=NOVA4B.SO">NOVA AMERICA</a></span>
+	<span><a href="/acao/index.html?codigo=NVML3B.SO">NOVAMARL PET</a></span>
+	<span><a href="/acao/index.html?codigo=NVMP3B.SO">NOVAMARLIM</a></span>
+	<span><a href="/acao/index.html?codigo=NUTR3.SA">NUTRIPLANT ON/d</a></span>
+	<span><a href="/acao/index.html?codigo=ODER3.SA">ODERICH ON      </a></span>
+	<span><a href="/acao/index.html?codigo=ODER4.SA">ODERICH PN      </a></span>
+	<span><a href="/acao/index.html?codigo=ODPV3.SA">ODONTOPREV ON   </a></span>
+	<span><a href="/acao/index.html?codigo=OPOE3B.SO">OESTE PART</a></span>
+	<span><a href="/acao/index.html?codigo=OGXP3.SA">OGX PETROLEO ON </a></span>
+	<span><a href="/acao/index.html?codigo=OHLB3.SA">OHL BRASIL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=OIBR3.SA">OI ON           </a></span>
+	<span><a href="/acao/index.html?codigo=OIBR4.SA">OI PN           </a></span>
+	<span><a href="/acao/index.html?codigo=OIBR99.SA">OI UNT          </a></span>
+	<span><a href="/acao/index.html?codigo=ALEF3B.SO">OPPORT ALEF</a></span>
+	<span><a href="/acao/index.html?codigo=OPGM3B.SO">OPPORT GAMA</a></span>
+	<span><a href="/acao/index.html?codigo=OPHE3B.SO">OPPORT HE</a></span>
+	<span><a href="/acao/index.html?codigo=OPSE3B.SO">OPPORT SUDES</a></span>
+	<span><a href="/acao/index.html?codigo=ORCL34.SA">ORACLE          </a></span>
+	<span><a href="/acao/index.html?codigo=OSXB1.SA">OSX BRASIL DIR  </a></span>
+	<span><a href="/acao/index.html?codigo=OSXB3.SA">OSX BRASIL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=OSXB9.SA">OSX BRASIL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=OFSA3.SA">OURO FINO       </a></span>
+	<span><a href="/acao/index.html?codigo=PCAR2.SA">P.ACUCAR CBD DIR</a></span>
+	<span><a href="/acao/index.html?codigo=PCAR11.SA">P.ACUCAR-CBD DIR</a></span>
+	<span><a href="/acao/index.html?codigo=PCAR3.SA">P.ACUCAR-CBD ON </a></span>
+	<span><a href="/acao/index.html?codigo=PCAR4.SA">P.ACUCAR-CBD PN </a></span>
+	<span><a href="/acao/index.html?codigo=PCAR12.SA">P.ACUCAR-CBD PNA</a></span>
+	<span><a href="/acao/index.html?codigo=PCAR13.SA">P.ACUCAR-CBD PNA</a></span>
+	<span><a href="/acao/index.html?codigo=PCAR5.SA">P.ACUCAR-CBD PNA</a></span>
+	<span><a href="/acao/index.html?codigo=PREB32.SA">PACIFIC RUB     </a></span>
+	<span><a href="/acao/index.html?codigo=PREB11.SA">PACIFIC RUB     </a></span>
+	<span><a href="/acao/index.html?codigo=BPNM9.SA">PANAMERIC ON REC</a></span>
+	<span><a href="/acao/index.html?codigo=BPNM10.SA">PANAMERIC PN REC</a></span>
+	<span><a href="/acao/index.html?codigo=BPNM1.SA">PANAMERICANO DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BPNM2.SA">PANAMERICANO DIR</a></span>
+	<span><a href="/acao/index.html?codigo=BPNM3.SA">PANAMERICANO ON </a></span>
+	<span><a href="/acao/index.html?codigo=BPNM4.SA">PANAMERICANO PR </a></span>
+	<span><a href="/acao/index.html?codigo=PATI2.SA">PANATLANTICA DIR</a></span>
+	<span><a href="/acao/index.html?codigo=PATI1.SA">PANATLANTICA DIR</a></span>
+	<span><a href="/acao/index.html?codigo=PATI9.SA">PANATLANTICA ON </a></span>
+	<span><a href="/acao/index.html?codigo=PATI3.SA">PANATLANTICA ON </a></span>
+	<span><a href="/acao/index.html?codigo=PATI4.SA">PANATLANTICA PN </a></span>
+	<span><a href="/acao/index.html?codigo=PATI10.SA">PANATLANTICA PN </a></span>
+	<span><a href="/acao/index.html?codigo=PEAB3.SA">PAR AL BAHIA ON </a></span>
+	<span><a href="/acao/index.html?codigo=PEAB4.SA">PAR AL BAHIA PN </a></span>
+	<span><a href="/acao/index.html?codigo=PRBC2.SA">PARANA          </a></span>
+	<span><a href="/acao/index.html?codigo=PRBC10.SA">PARANA BCO      </a></span>
+	<span><a href="/acao/index.html?codigo=PRBC3.SA">PARANA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=PRBC4.SA">PARANA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=PMAM3.SA">PARANAPANEMA ON </a></span>
+	<span><a href="/acao/index.html?codigo=PMAM4.SA">PARANAPANEMA PN</a></span>
+	<span><a href="/acao/index.html?codigo=PCPA3B.SO">PARCOM PART</a></span>
+	<span><a href="/acao/index.html?codigo=PCPA4B.SO">PARCOM PART</a></span>
+	<span><a href="/acao/index.html?codigo=LCSA3.SA">PARMALAT ON</a></span>
+	<span><a href="/acao/index.html?codigo=LCSA4.SA">PARMALAT PN</a></span>
+	<span><a href="/acao/index.html?codigo=BPAT11.SA">PATAGONIA BDR   </a></span>
+	<span><a href="/acao/index.html?codigo=BPAT33.SA">PATAGONIA BDR   </a></span>
+	<span><a href="/acao/index.html?codigo=PDGR12.SA">PDG REALT       </a></span>
+	<span><a href="/acao/index.html?codigo=PDGR11.SA">PDG REALT DIR   </a></span>
+	<span><a href="/acao/index.html?codigo=PDGR3.SA">PDG REALT ON    </a></span>
+	<span><a href="/acao/index.html?codigo=PEPB34.SA">PEPSICO INC     </a></span>
+	<span><a href="/acao/index.html?codigo=PRGA3.SA">PERDIGAO S/A ON</a></span>
+	<span><a href="/acao/index.html?codigo=RPMG1.SA">PET MANGUINH DIR</a></span>
+	<span><a href="/acao/index.html?codigo=RPMG2.SA">PET MANGUINH DIR</a></span>
+	<span><a href="/acao/index.html?codigo=RPMG3.SA">PET MANGUINH ON </a></span>
+	<span><a href="/acao/index.html?codigo=RPMG4.SA">PET MANGUINH PN </a></span>
+	<span><a href="/acao/index.html?codigo=PETR3.SA">PETROBRAS ON    </a></span>
+	<span><a href="/acao/index.html?codigo=PETR4.SA">PETROBRAS PN    </a></span>
+	<span><a href="/acao/index.html?codigo=PTPA1.SA">PETROPAR DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=PTPA2.SA">PETROPAR DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=PTPA3.SA">PETROPAR ON     </a></span>
+	<span><a href="/acao/index.html?codigo=PTPA9.SA">PETROPAR ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=PTPA4.SA">PETROPAR PN     </a></span>
+	<span><a href="/acao/index.html?codigo=PTPA10.SA">PETROPAR PN REC </a></span>
+	<span><a href="/acao/index.html?codigo=PQUN3.SA">PETROQ UNIAO ON</a></span>
+	<span><a href="/acao/index.html?codigo=PQUN4.SA">PETROQ UNIAO PN</a></span>
+	<span><a href="/acao/index.html?codigo=PTNT3.SA">PETTENATI ON    </a></span>
+	<span><a href="/acao/index.html?codigo=PTNT4.SA">PETTENATI PN    </a></span>
+	<span><a href="/acao/index.html?codigo=PFIZ34.SA">PFIZER          </a></span>
+	<span><a href="/acao/index.html?codigo=PGCO34.SA">PG              </a></span>
+	<span><a href="/acao/index.html?codigo=PHMO34.SA">PHILIPMORRIS    </a></span>
+	<span><a href="/acao/index.html?codigo=PIBB11.SA">PIBB CI         </a></span>
+	<span><a href="/acao/index.html?codigo=PINE1.SA">PINE DIR        </a></span>
+	<span><a href="/acao/index.html?codigo=PINE2.SA">PINE DIR        </a></span>
+	<span><a href="/acao/index.html?codigo=PINE3.SA">PINE ON         </a></span>
+	<span><a href="/acao/index.html?codigo=PINE10.SA">PINE PN         </a></span>
+	<span><a href="/acao/index.html?codigo=PINE4.SA">PINE PN         </a></span>
+	<span><a href="/acao/index.html?codigo=PLAS11.SA">PLASCAR PART DIR</a></span>
+	<span><a href="/acao/index.html?codigo=PLAS3.SA">PLASCAR PART ON </a></span>
+	<span><a href="/acao/index.html?codigo=PPAR3.SA">POLPAR ON       </a></span>
+	<span><a href="/acao/index.html?codigo=PSSA11.SA">PORTO SEGURO ON</a></span>
+	<span><a href="/acao/index.html?codigo=PSSA3.SA">PORTO SEGURO ON </a></span>
+	<span><a href="/acao/index.html?codigo=PTBL3.SA">PORTOBELLO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=PRTX3.SA">PORTX ON        </a></span>
+	<span><a href="/acao/index.html?codigo=POSI3.SA">POSITIVO INF ON </a></span>
+	<span><a href="/acao/index.html?codigo=PQTM1.SA">PQ HOPI HARI DIR</a></span>
+	<span><a href="/acao/index.html?codigo=PQTM9.SA">PQ HOPI HARI ON</a></span>
+	<span><a href="/acao/index.html?codigo=PQTM3.SA">PQ HOPI HARI ON </a></span>
+	<span><a href="/acao/index.html?codigo=PQTM4.SA">PQ HOPI HARI PN </a></span>
+	<span><a href="/acao/index.html?codigo=PRVT3B.SO">PRIVATINVEST</a></span>
+	<span><a href="/acao/index.html?codigo=PMET3.SA">PRO METALURG ON </a></span>
+	<span><a href="/acao/index.html?codigo=PMET5.SA">PRO METALURG PNA</a></span>
+	<span><a href="/acao/index.html?codigo=PMET6.SA">PRO METALURG PNB</a></span>
+	<span><a href="/acao/index.html?codigo=PFRM1.SA">PROFARMA        </a></span>
+	<span><a href="/acao/index.html?codigo=PFRM9.SA">PROFARMA        </a></span>
+	<span><a href="/acao/index.html?codigo=PFRM3.SA">PROFARMA ON     </a></span>
+	<span><a href="/acao/index.html?codigo=PRMN3B.SO">PROMAN</a></span>
+	<span><a href="/acao/index.html?codigo=PRPT3B.SO">PROMPT PART</a></span>
+	<span><a href="/acao/index.html?codigo=PNOR3.SA">PRONOR ON       </a></span>
+	<span><a href="/acao/index.html?codigo=PNOR5.SA">PRONOR PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=PNOR6.SA">PRONOR PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=PRVI3.SA">PROVIDENCIA ON  </a></span>
+	<span><a href="/acao/index.html?codigo=PRML1.SA">PRUMO DIR ORD   </a></span>
+	<span><a href="/acao/index.html?codigo=PRML3.SA">PRUMO ON        </a></span>
+	<span><a href="/acao/index.html?codigo=QGEP3.SA">QGEP PART ON    </a></span>
+	<span><a href="/acao/index.html?codigo=QGNP3B.SO">QGN PARTIC</a></span>
+	<span><a href="/acao/index.html?codigo=QGNP4B.SO">QGN PARTIC</a></span>
+	<span><a href="/acao/index.html?codigo=QCOM34.SA">QUALCOMM        </a></span>
+	<span><a href="/acao/index.html?codigo=QUAL3.SA">QUALICORP ON    </a></span>
+	<span><a href="/acao/index.html?codigo=QUSW3.SA">QUALITY SOFT ON </a></span>
+	<span><a href="/acao/index.html?codigo=RAIA3.SA">RAIA ON         </a></span>
+	<span><a href="/acao/index.html?codigo=RADL3.SA">RAIADROGASIL ON </a></span>
+	<span><a href="/acao/index.html?codigo=RAPT3.SA">RANDON PART ON  </a></span>
+	<span><a href="/acao/index.html?codigo=RAPT4.SA">RANDON PART PN  </a></span>
+	<span><a href="/acao/index.html?codigo=RSIP3.SA">RASIP AGRO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=RSIP4.SA">RASIP AGRO PN   </a></span>
+	<span><a href="/acao/index.html?codigo=RBCS3B.SO">RB CREDITO</a></span>
+	<span><a href="/acao/index.html?codigo=RCSL2.SA">RECRUSUL DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=RCSL1.SA">RECRUSUL DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=RCSL3.SA">RECRUSUL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=RCSL9.SA">RECRUSUL ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=RCSL4.SA">RECRUSUL PN     </a></span>
+	<span><a href="/acao/index.html?codigo=RCSL10.SA">RECRUSUL PN  REC</a></span>
+	<span><a href="/acao/index.html?codigo=REDE1.SA">REDE ENERGIA D/d</a></span>
+	<span><a href="/acao/index.html?codigo=REDE2.SA">REDE ENERGIA D/d</a></span>
+	<span><a href="/acao/index.html?codigo=REDE9.SA">REDE ENERGIA ON </a></span>
+	<span><a href="/acao/index.html?codigo=REDE3.SA">REDE ENERGIA ON </a></span>
+	<span><a href="/acao/index.html?codigo=REDE4.SA">REDE ENERGIA PN </a></span>
+	<span><a href="/acao/index.html?codigo=REDE10.SA">REDE ENERGIA PN </a></span>
+	<span><a href="/acao/index.html?codigo=RDCD3.SA">REDECARD ON     </a></span>
+	<span><a href="/acao/index.html?codigo=RDTR3.SA">REDENTOR ON     </a></span>
+	<span><a href="/acao/index.html?codigo=RNAR1.SA">RENAR DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=RNAR3.SA">RENAR ON        </a></span>
+	<span><a href="/acao/index.html?codigo=RNAR9.SA">RENAR ON        </a></span>
+	<span><a href="/acao/index.html?codigo=RNPT3.SA">RENNER PART ON</a></span>
+	<span><a href="/acao/index.html?codigo=RNPT4.SA">RENNER PART PN</a></span>
+	<span><a href="/acao/index.html?codigo=RNEW13.SA">RENOVA  UNT REC </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW1.SA">RENOVA DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW2.SA">RENOVA DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW12.SA">RENOVA DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW3.SA">RENOVA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW9.SA">RENOVA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW4.SA">RENOVA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW10.SA">RENOVA PN REC   </a></span>
+	<span><a href="/acao/index.html?codigo=RNEW11.SA">RENOVA UNT      </a></span>
+	<span><a href="/acao/index.html?codigo=OPRE3B.SO">RET PART</a></span>
+	<span><a href="/acao/index.html?codigo=REEM3.SA">RIMET ON        </a></span>
+	<span><a href="/acao/index.html?codigo=REEM4.SA">RIMET PN        </a></span>
+	<span><a href="/acao/index.html?codigo=RBRA3B.SO">RIO BRAVO</a></span>
+	<span><a href="/acao/index.html?codigo=RSUL3.SA">RIOSULENSE ON   </a></span>
+	<span><a href="/acao/index.html?codigo=RSUL4.SA">RIOSULENSE PN   </a></span>
+	<span><a href="/acao/index.html?codigo=RJCP1.SA">RJCP EQUITY DIR </a></span>
+	<span><a href="/acao/index.html?codigo=RJCP3.SA">RJCP EQUITY ON  </a></span>
+	<span><a href="/acao/index.html?codigo=RJCP11.SA">RJCP EQUITY ON  </a></span>
+	<span><a href="/acao/index.html?codigo=RDNI3.SA">RODOBENS ON     </a></span>
+	<span><a href="/acao/index.html?codigo=RSID1.SA">ROSSI RESID DIR </a></span>
+	<span><a href="/acao/index.html?codigo=RSID9.SA">ROSSI RESID ON  </a></span>
+	<span><a href="/acao/index.html?codigo=RSID3.SA">ROSSI RESID ON  </a></span>
+	<span><a href="/acao/index.html?codigo=RSID11.SA">ROSSI RESID ON  </a></span>
+	<span><a href="/acao/index.html?codigo=SBSP3.SA">SABESP ON       </a></span>
+	<span><a href="/acao/index.html?codigo=SDIA3.SA">SADIA S/A ON</a></span>
+	<span><a href="/acao/index.html?codigo=SDIA4.SA">SADIA S/A PN</a></span>
+	<span><a href="/acao/index.html?codigo=SAGP3B.SO">SAGI PART ON</a></span>
+	<span><a href="/acao/index.html?codigo=FCAP3.SA">SAM INDUSTR ON  </a></span>
+	<span><a href="/acao/index.html?codigo=FCAP4.SA">SAM INDUSTR PN  </a></span>
+	<span><a href="/acao/index.html?codigo=SAPR3.SA">SANEPAR ON      </a></span>
+	<span><a href="/acao/index.html?codigo=SAPR4.SA">SANEPAR PN      </a></span>
+	<span><a href="/acao/index.html?codigo=SAPR2.SA">SANEPAR RTS     </a></span>
+	<span><a href="/acao/index.html?codigo=SNSY3.SA">SANSUY ON       </a></span>
+	<span><a href="/acao/index.html?codigo=SNSY5.SA">SANSUY PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=SNSY6.SA">SANSUY PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=SANB12.SA">SANTANDER BR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=SANB3.SA">SANTANDER BR ON </a></span>
+	<span><a href="/acao/index.html?codigo=SANB10.SA">SANTANDER BR PN</a></span>
+	<span><a href="/acao/index.html?codigo=SANB4.SA">SANTANDER BR PN </a></span>
+	<span><a href="/acao/index.html?codigo=SANB11.SA">SANTANDER BR UNT</a></span>
+	<span><a href="/acao/index.html?codigo=CTSA3.SA">SANTANENSE ON   </a></span>
+	<span><a href="/acao/index.html?codigo=CTSA4.SA">SANTANENSE PN   </a></span>
+	<span><a href="/acao/index.html?codigo=CTSA8.SA">SANTANENSE PND  </a></span>
+	<span><a href="/acao/index.html?codigo=STBP3.SA">SANTOS BRP ON   </a></span>
+	<span><a href="/acao/index.html?codigo=STBP4.SA">SANTOS BRP PN   </a></span>
+	<span><a href="/acao/index.html?codigo=STBP11.SA">SANTOS BRP UN   </a></span>
+	<span><a href="/acao/index.html?codigo=SCAR3.SA">SAO CARLOS ON   </a></span>
+	<span><a href="/acao/index.html?codigo=SMTO11.SA">SAO MARTINHO D/d</a></span>
+	<span><a href="/acao/index.html?codigo=SMTO3.SA">SAO MARTINHO ON </a></span>
+	<span><a href="/acao/index.html?codigo=SLED3.SA">SARAIVA LIVR ON </a></span>
+	<span><a href="/acao/index.html?codigo=SLED4.SA">SARAIVA LIVR PN </a></span>
+	<span><a href="/acao/index.html?codigo=PSEG9.SA">SAUIPE ON       </a></span>
+	<span><a href="/acao/index.html?codigo=PSEG3.SA">SAUIPE ON       </a></span>
+	<span><a href="/acao/index.html?codigo=PSEG10.SA">SAUIPE PN</a></span>
+	<span><a href="/acao/index.html?codigo=PSEG4.SA">SAUIPE PN       </a></span>
+	<span><a href="/acao/index.html?codigo=SCLO3.SA">SCHLOSSER ON    </a></span>
+	<span><a href="/acao/index.html?codigo=SCLO4.SA">SCHLOSSER PN    </a></span>
+	<span><a href="/acao/index.html?codigo=SLBG34.SA">SCHLUMBERGER    </a></span>
+	<span><a href="/acao/index.html?codigo=SHUL3.SA">SCHULZ ON       </a></span>
+	<span><a href="/acao/index.html?codigo=SHUL4.SA">SCHULZ PN       </a></span>
+	<span><a href="/acao/index.html?codigo=SEBB3.SA">SEB ON</a></span>
+	<span><a href="/acao/index.html?codigo=SEBP3.SA">SEB PAR ON/d</a></span>
+	<span><a href="/acao/index.html?codigo=SEBB4.SA">SEB PN</a></span>
+	<span><a href="/acao/index.html?codigo=SEBB11.SA">SEB UNT</a></span>
+	<span><a href="/acao/index.html?codigo=DURA4.SA">SEE DTEX3.SA</a></span>
+	<span><a href="/acao/index.html?codigo=SATI3.SA">SEE DTEX3.SA</a></span>
+	<span><a href="/acao/index.html?codigo=DURA3.SA">SEE DTEX3.SA</a></span>
+	<span><a href="/acao/index.html?codigo=CSAB3.SA">SEG AL BAHIA ON </a></span>
+	<span><a href="/acao/index.html?codigo=CSAB4.SA">SEG AL BAHIA PN </a></span>
+	<span><a href="/acao/index.html?codigo=CSMB3.SA">SEG MIN BRAS ON</a></span>
+	<span><a href="/acao/index.html?codigo=SLCT3B.SO">SELECTPART</a></span>
+	<span><a href="/acao/index.html?codigo=SEMP3.SA">SEMP ON</a></span>
+	<span><a href="/acao/index.html?codigo=SNSL3.SA">SENIOR SOL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=SNSL3M.SA">SENIOR SOL ON   </a></span>
+	<span><a href="/acao/index.html?codigo=SEER3.SA">SER EDUCA ON    </a></span>
+	<span><a href="/acao/index.html?codigo=SGEN3.SA">SERGEN ON       </a></span>
+	<span><a href="/acao/index.html?codigo=SGEN4.SA">SERGEN PN       </a></span>
+	<span><a href="/acao/index.html?codigo=SETI3B.SO">SETIBA PART ON</a></span>
+	<span><a href="/acao/index.html?codigo=SHOW3.SA">SHOW ON         </a></span>
+	<span><a href="/acao/index.html?codigo=CSNA3.SA">SID NACIONAL ON </a></span>
+	<span><a href="/acao/index.html?codigo=SSBR3.SA">SIERRABRASIL O/d</a></span>
+	<span><a href="/acao/index.html?codigo=SLCE3.SA">SLC AGRICOLA ON </a></span>
+	<span><a href="/acao/index.html?codigo=SMLE3.SA">SMILES ON       </a></span>
+	<span><a href="/acao/index.html?codigo=SFSA2.SA">SOFISA DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=SFSA3.SA">SOFISA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=SFSA4.SA">SOFISA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=SFSA10.SA">SOFISA PN/d</a></span>
+	<span><a href="/acao/index.html?codigo=SOND3.SA">SONDOTECNICA ON </a></span>
+	<span><a href="/acao/index.html?codigo=SOND5.SA">SONDOTECNICA PNA</a></span>
+	<span><a href="/acao/index.html?codigo=SOND6.SA">SONDOTECNICA PNB</a></span>
+	<span><a href="/acao/index.html?codigo=CRUZ3.SA">SOUZA CRUZ ON   </a></span>
+	<span><a href="/acao/index.html?codigo=SPRI3.SA">SPRINGER ON     </a></span>
+	<span><a href="/acao/index.html?codigo=SPRI5.SA">SPRINGER PNA    </a></span>
+	<span><a href="/acao/index.html?codigo=SPRI6.SA">SPRINGER PNB    </a></span>
+	<span><a href="/acao/index.html?codigo=SGPS1.SA">SPRINGS DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=SGPS3.SA">SPRINGS GLOB ON </a></span>
+	<span><a href="/acao/index.html?codigo=SGPS9.SA">SPRINGS ON REC  </a></span>
+	<span><a href="/acao/index.html?codigo=AHEB1.SA">SPTURIS DIR     </a></span>
+	<span><a href="/acao/index.html?codigo=AHEB3.SA">SPTURIS ON      </a></span>
+	<span><a href="/acao/index.html?codigo=AHEB5.SA">SPTURIS PNA     </a></span>
+	<span><a href="/acao/index.html?codigo=AHEB6.SA">SPTURIS PNB     </a></span>
+	<span><a href="/acao/index.html?codigo=SBUB34.SA">STARBUCKS       </a></span>
+	<span><a href="/acao/index.html?codigo=STRP3.SA">STAROUP ON      </a></span>
+	<span><a href="/acao/index.html?codigo=STRP4.SA">STAROUP PN      </a></span>
+	<span><a href="/acao/index.html?codigo=STLB1.SA">STEEL BRASIL DIR</a></span>
+	<span><a href="/acao/index.html?codigo=STLB3.SA">STEEL BRASIL ON </a></span>
+	<span><a href="/acao/index.html?codigo=OPTS3B.SO">SUL 116 PART</a></span>
+	<span><a href="/acao/index.html?codigo=SULA3.SA">SULAMERICA ON   </a></span>
+	<span><a href="/acao/index.html?codigo=SULA4.SA">SULAMERICA PN   </a></span>
+	<span><a href="/acao/index.html?codigo=SULA11.SA">SULAMERICA UNT  </a></span>
+	<span><a href="/acao/index.html?codigo=SULT3.SA">SULTEPA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=SULT4.SA">SULTEPA PN      </a></span>
+	<span><a href="/acao/index.html?codigo=NEMO11.SA">SUZANO HOLD DIR </a></span>
+	<span><a href="/acao/index.html?codigo=NEMO13.SA">SUZANO HOLD DIR </a></span>
+	<span><a href="/acao/index.html?codigo=NEMO1.SA">SUZANO HOLD DIR </a></span>
+	<span><a href="/acao/index.html?codigo=NEMO3.SA">SUZANO HOLD ON  </a></span>
+	<span><a href="/acao/index.html?codigo=NEMO4.SA">SUZANO HOLD PN</a></span>
+	<span><a href="/acao/index.html?codigo=NEMO5.SA">SUZANO HOLD PNA </a></span>
+	<span><a href="/acao/index.html?codigo=NEMO6.SA">SUZANO HOLD PNB </a></span>
+	<span><a href="/acao/index.html?codigo=SUZB3.SA">SUZANO PAPEL ON </a></span>
+	<span><a href="/acao/index.html?codigo=SUZB11.SA">SUZANO PAPEL ON </a></span>
+	<span><a href="/acao/index.html?codigo=SUZB5.SA">SUZANO PAPEL PNA</a></span>
+	<span><a href="/acao/index.html?codigo=SUZB12.SA">SUZANO PAPEL PNA</a></span>
+	<span><a href="/acao/index.html?codigo=SUZB6.SA">SUZANO PAPEL PNB</a></span>
+	<span><a href="/acao/index.html?codigo=SZPQ3.SA">SUZANO PETR ON</a></span>
+	<span><a href="/acao/index.html?codigo=SZPQ4.SA">SUZANO PETR PN</a></span>
+	<span><a href="/acao/index.html?codigo=TAMM1.SA">TAM S/A DIR/d</a></span>
+	<span><a href="/acao/index.html?codigo=TAMM9.SA">TAM S/A ON/d</a></span>
+	<span><a href="/acao/index.html?codigo=TAMM3.SA">TAM SA ON       </a></span>
+	<span><a href="/acao/index.html?codigo=TAMM4.SA">TAM SA PN       </a></span>
+	<span><a href="/acao/index.html?codigo=TARP11.SA">TARPON BDR</a></span>
+	<span><a href="/acao/index.html?codigo=TRPN3.SA">TARPON INV ON   </a></span>
+	<span><a href="/acao/index.html?codigo=FJTA1.SA">TAURUS          </a></span>
+	<span><a href="/acao/index.html?codigo=FJTA2.SA">TAURUS          </a></span>
+	<span><a href="/acao/index.html?codigo=TENE3.SA">TEC BLUMENAU ON </a></span>
+	<span><a href="/acao/index.html?codigo=TENE5.SA">TEC BLUMENAU PNA</a></span>
+	<span><a href="/acao/index.html?codigo=TENE6.SA">TEC BLUMENAU PNB</a></span>
+	<span><a href="/acao/index.html?codigo=TENE7.SA">TEC BLUMENAU PNC</a></span>
+	<span><a href="/acao/index.html?codigo=SJOS3.SA">TECEL S JOSE ON </a></span>
+	<span><a href="/acao/index.html?codigo=SJOS4.SA">TECEL S JOSE PN </a></span>
+	<span><a href="/acao/index.html?codigo=TECN3.SA">TECHNOS ON      </a></span>
+	<span><a href="/acao/index.html?codigo=TCSA3.SA">TECNISA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=TCNO1.SA">TECNOSOLO DIR   </a></span>
+	<span><a href="/acao/index.html?codigo=TCNO3.SA">TECNOSOLO ON    </a></span>
+	<span><a href="/acao/index.html?codigo=TCNO9.SA">TECNOSOLO ON REC</a></span>
+	<span><a href="/acao/index.html?codigo=TCNO4.SA">TECNOSOLO PN    </a></span>
+	<span><a href="/acao/index.html?codigo=TOYB13.SA">TECTOY BNS      </a></span>
+	<span><a href="/acao/index.html?codigo=TOYB2.SA">TECTOY DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TOYB1.SA">TECTOY DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TOYB3.SA">TECTOY ON       </a></span>
+	<span><a href="/acao/index.html?codigo=TOYB9.SA">TECTOY ON       </a></span>
+	<span><a href="/acao/index.html?codigo=TOYB10.SA">TECTOY PN       </a></span>
+	<span><a href="/acao/index.html?codigo=TOYB4.SA">TECTOY PN       </a></span>
+	<span><a href="/acao/index.html?codigo=TGMA3.SA">TEGMA ON        </a></span>
+	<span><a href="/acao/index.html?codigo=TEKA2.SA">TEKA DIR        </a></span>
+	<span><a href="/acao/index.html?codigo=TEKA1.SA">TEKA DIR        </a></span>
+	<span><a href="/acao/index.html?codigo=TEKA3.SA">TEKA ON         </a></span>
+	<span><a href="/acao/index.html?codigo=TEKA9.SA">TEKA ON REC     </a></span>
+	<span><a href="/acao/index.html?codigo=TEKA4.SA">TEKA PN         </a></span>
+	<span><a href="/acao/index.html?codigo=TEKA10.SA">TEKA PN REC     </a></span>
+	<span><a href="/acao/index.html?codigo=TKNO3.SA">TEKNO ON        </a></span>
+	<span><a href="/acao/index.html?codigo=TKNO4.SA">TEKNO PN        </a></span>
+	<span><a href="/acao/index.html?codigo=TNCP2.SA">TELE NORT CL DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TNCP1.SA">TELE NORT CL DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TNCP3.SA">TELE NORT CL ON </a></span>
+	<span><a href="/acao/index.html?codigo=TNCP4.SA">TELE NORT CL PN </a></span>
+	<span><a href="/acao/index.html?codigo=TELB1.SA">TELEBRAS DIR    </a></span>
+	<span><a href="/acao/index.html?codigo=TELB3.SA">TELEBRAS ON     </a></span>
+	<span><a href="/acao/index.html?codigo=TELB9.SA">TELEBRAS ON REC </a></span>
+	<span><a href="/acao/index.html?codigo=TELB4.SA">TELEBRAS PN     </a></span>
+	<span><a href="/acao/index.html?codigo=VIVT3.SA">TELEF BRASIL ON </a></span>
+	<span><a href="/acao/index.html?codigo=VIVT4.SA">TELEF BRASIL PN </a></span>
+	<span><a href="/acao/index.html?codigo=TEFC11.SA">TELEFONICA BDR  </a></span>
+	<span><a href="/acao/index.html?codigo=TNLP1.SA">TELEMAR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TNLP2.SA">TELEMAR DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TMAR12.SA">TELEMAR N L DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TMAR11.SA">TELEMAR N L DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TMAR1.SA">TELEMAR N L DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TMAR3.SA">TELEMAR N L ON  </a></span>
+	<span><a href="/acao/index.html?codigo=TMAR9.SA">TELEMAR N L ON/d</a></span>
+	<span><a href="/acao/index.html?codigo=TMAR13.SA">TELEMAR N L PN/d</a></span>
+	<span><a href="/acao/index.html?codigo=TMAR5.SA">TELEMAR N L PNA </a></span>
+	<span><a href="/acao/index.html?codigo=TMAR6.SA">TELEMAR N L PNB </a></span>
+	<span><a href="/acao/index.html?codigo=TNLP9.SA">TELEMAR ON      </a></span>
+	<span><a href="/acao/index.html?codigo=TNLP3.SA">TELEMAR ON      </a></span>
+	<span><a href="/acao/index.html?codigo=TLMP3.SA">TELEMAR PART ON</a></span>
+	<span><a href="/acao/index.html?codigo=TNLP4.SA">TELEMAR PN      </a></span>
+	<span><a href="/acao/index.html?codigo=TNLP10.SA">TELEMAR PN      </a></span>
+	<span><a href="/acao/index.html?codigo=TMGC3.SA">TELEMIG CL ON</a></span>
+	<span><a href="/acao/index.html?codigo=TMGC6.SA">TELEMIG CL PNB</a></span>
+	<span><a href="/acao/index.html?codigo=TMGC7.SA">TELEMIG CL PNC</a></span>
+	<span><a href="/acao/index.html?codigo=TMGC8.SA">TELEMIG CL PND</a></span>
+	<span><a href="/acao/index.html?codigo=TMGC11.SA">TELEMIG CL PNE</a></span>
+	<span><a href="/acao/index.html?codigo=TMGC12.SA">TELEMIG CL PNF</a></span>
+	<span><a href="/acao/index.html?codigo=TMGC13.SA">TELEMIG CL PNG</a></span>
+	<span><a href="/acao/index.html?codigo=TMCP3.SA">TELEMIG PART ON</a></span>
+	<span><a href="/acao/index.html?codigo=TMCP4.SA">TELEMIG PART PN</a></span>
+	<span><a href="/acao/index.html?codigo=TLPP3.SA">TELESP ON       </a></span>
+	<span><a href="/acao/index.html?codigo=TLPP4.SA">TELESP PN       </a></span>
+	<span><a href="/acao/index.html?codigo=TLVT3B.SO">TELINVEST</a></span>
+	<span><a href="/acao/index.html?codigo=TEMP3.SA">TEMPO PART ON   </a></span>
+	<span><a href="/acao/index.html?codigo=TEND3.SA">TENDA ON</a></span>
+	<span><a href="/acao/index.html?codigo=TERI1.SA">TEREOS DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=TERI3.SA">TEREOS ON       </a></span>
+	<span><a href="/acao/index.html?codigo=TERI9.SA">TEREOS ON REC   </a></span>
+	<span><a href="/acao/index.html?codigo=TRNA3.SA">TERNA PART ON   </a></span>
+	<span><a href="/acao/index.html?codigo=TRNA4.SA">TERNA PART PN   </a></span>
+	<span><a href="/acao/index.html?codigo=TRNA11.SA">TERNA PART UNT  </a></span>
+	<span><a href="/acao/index.html?codigo=TXRX3.SA">TEX RENAUX ON   </a></span>
+	<span><a href="/acao/index.html?codigo=TXRX4.SA">TEX RENAUX PN   </a></span>
+	<span><a href="/acao/index.html?codigo=TGLT11.SA">TGLT            </a></span>
+	<span><a href="/acao/index.html?codigo=TGLT32.SA">TGLT            </a></span>
+	<span><a href="/acao/index.html?codigo=TCSL2.SA">TIM PART S/A DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TCSL1.SA">TIM PART S/A DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TIMP3.SA">TIM PART S/A ON </a></span>
+	<span><a href="/acao/index.html?codigo=TCSL3.SA">TIM PART S/A ON </a></span>
+	<span><a href="/acao/index.html?codigo=TIMP4.SA">TIM PART S/A PN </a></span>
+	<span><a href="/acao/index.html?codigo=TCSL4.SA">TIM PART S/A PN </a></span>
+	<span><a href="/acao/index.html?codigo=TWXB34.SA">TIME WARNER     </a></span>
+	<span><a href="/acao/index.html?codigo=TVIT3.SA">TIVIT ON</a></span>
+	<span><a href="/acao/index.html?codigo=TOTS3.SA">TOTVS ON        </a></span>
+	<span><a href="/acao/index.html?codigo=TBLE3.SA">TRACTEBEL ON    </a></span>
+	<span><a href="/acao/index.html?codigo=TRFO3.SA">TRAFO ON</a></span>
+	<span><a href="/acao/index.html?codigo=TRFO4.SA">TRAFO PN</a></span>
+	<span><a href="/acao/index.html?codigo=TRPL1.SA">TRAN PAULIST DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TRPL2.SA">TRAN PAULIST DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TRPL9.SA">TRAN PAULIST ON </a></span>
+	<span><a href="/acao/index.html?codigo=TRPL3.SA">TRAN PAULIST ON </a></span>
+	<span><a href="/acao/index.html?codigo=TRPL10.SA">TRAN PAULIST PN </a></span>
+	<span><a href="/acao/index.html?codigo=TRPL4.SA">TRAN PAULIST PN </a></span>
+	<span><a href="/acao/index.html?codigo=TAEE3.SA">TRANS ALIANCA ON</a></span>
+	<span><a href="/acao/index.html?codigo=TAEE4.SA">TRANS ALIANCA PN</a></span>
+	<span><a href="/acao/index.html?codigo=TAEE11.SA">TRANS ALIANCA UN</a></span>
+	<span><a href="/acao/index.html?codigo=LUXM3.SA">TREVISA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=LUXM4.SA">TREVISA PN      </a></span>
+	<span><a href="/acao/index.html?codigo=TRIS3.SA">TRISUL ON       </a></span>
+	<span><a href="/acao/index.html?codigo=TPIS9.SA">TRIUNFO P ON REC</a></span>
+	<span><a href="/acao/index.html?codigo=TPIS1.SA">TRIUNFO PART DIR</a></span>
+	<span><a href="/acao/index.html?codigo=TPIS3.SA">TRIUNFO PART ON </a></span>
+	<span><a href="/acao/index.html?codigo=TROR3.SA">TRORION ON</a></span>
+	<span><a href="/acao/index.html?codigo=TROR4.SA">TRORION PN</a></span>
+	<span><a href="/acao/index.html?codigo=TRXL11.SA">TRX REALTY FII/d</a></span>
+	<span><a href="/acao/index.html?codigo=TUPY3.SA">TUPY ON         </a></span>
+	<span><a href="/acao/index.html?codigo=TUPY4.SA">TUPY PN         </a></span>
+	<span><a href="/acao/index.html?codigo=TWTR34.SA">TWITTER         </a></span>
+	<span><a href="/acao/index.html?codigo=UGPA3.SA">ULTRAPAR ON     </a></span>
+	<span><a href="/acao/index.html?codigo=UGPA4.SA">ULTRAPAR PN     </a></span>
+	<span><a href="/acao/index.html?codigo=UBHD3.SA">UNIBANCO HLD ON</a></span>
+	<span><a href="/acao/index.html?codigo=UBHD6.SA">UNIBANCO HLD PNB</a></span>
+	<span><a href="/acao/index.html?codigo=UBBR3.SA">UNIBANCO ON</a></span>
+	<span><a href="/acao/index.html?codigo=UBBR4.SA">UNIBANCO PN</a></span>
+	<span><a href="/acao/index.html?codigo=UBBR11.SA">UNIBANCO UNT</a></span>
+	<span><a href="/acao/index.html?codigo=UCAS3.SA">UNICASA ON      </a></span>
+	<span><a href="/acao/index.html?codigo=UNIP3.SA">UNIPAR ON       </a></span>
+	<span><a href="/acao/index.html?codigo=UNIP5.SA">UNIPAR PNA      </a></span>
+	<span><a href="/acao/index.html?codigo=UNIP6.SA">UNIPAR PNB      </a></span>
+	<span><a href="/acao/index.html?codigo=UOLL3.SA">UOL ON          </a></span>
+	<span><a href="/acao/index.html?codigo=UOLL4.SA">UOL PN          </a></span>
+	<span><a href="/acao/index.html?codigo=UPSS34.SA">UPS             </a></span>
+	<span><a href="/acao/index.html?codigo=UPKP3B.SO">UPTICK</a></span>
+	<span><a href="/acao/index.html?codigo=USSX34.SA">US STEEL        </a></span>
+	<span><a href="/acao/index.html?codigo=USIM3.SA">USIMINAS ON     </a></span>
+	<span><a href="/acao/index.html?codigo=USIM5.SA">USIMINAS PNA    </a></span>
+	<span><a href="/acao/index.html?codigo=USIM6.SA">USIMINAS PNB    </a></span>
+	<span><a href="/acao/index.html?codigo=UCOP3.SA">USIN C PINTO ON </a></span>
+	<span><a href="/acao/index.html?codigo=UCOP4.SA">USIN C PINTO PN </a></span>
+	<span><a href="/acao/index.html?codigo=UTIL11.SA">UTILITIES INDEX </a></span>
+	<span><a href="/acao/index.html?codigo=VCPA3.SA">V C P ON</a></span>
+	<span><a href="/acao/index.html?codigo=VCPA4.SA">V C P PN</a></span>
+	<span><a href="/acao/index.html?codigo=VAGR1.SA">V-AGRO DIR      </a></span>
+	<span><a href="/acao/index.html?codigo=VAGR3.SA">V-AGRO ON       </a></span>
+	<span><a href="/acao/index.html?codigo=VAGR9.SA">V-AGRO ON REC   </a></span>
+	<span><a href="/acao/index.html?codigo=VALE3.SA">VALE ON         </a></span>
+	<span><a href="/acao/index.html?codigo=VALE5.SA">VALE PNA        </a></span>
+	<span><a href="/acao/index.html?codigo=VLTR3B.SO">VALETRON</a></span>
+	<span><a href="/acao/index.html?codigo=VLID3.SA">VALID ON        </a></span>
+	<span><a href="/acao/index.html?codigo=VAGV3.SA">VARIG ON</a></span>
+	<span><a href="/acao/index.html?codigo=VAGV4.SA">VARIG PN</a></span>
+	<span><a href="/acao/index.html?codigo=VPSC3.SA">VARIG SERV ON</a></span>
+	<span><a href="/acao/index.html?codigo=VPSC4.SA">VARIG SERV PN</a></span>
+	<span><a href="/acao/index.html?codigo=VPTA3.SA">VARIG TRANSP ON</a></span>
+	<span><a href="/acao/index.html?codigo=VPTA4.SA">VARIG TRANSP PN</a></span>
+	<span><a href="/acao/index.html?codigo=NCNE3.SA">VBC ENERGIA ON  </a></span>
+	<span><a href="/acao/index.html?codigo=NCNE5.SA">VBC ENERGIA PNA </a></span>
+	<span><a href="/acao/index.html?codigo=VERZ34.SA">VERIZON         </a></span>
+	<span><a href="/acao/index.html?codigo=VVAR3.SA">VIA VAREJO ON   </a></span>
+	<span><a href="/acao/index.html?codigo=VVAR4.SA">VIAVAREJO PN    </a></span>
+	<span><a href="/acao/index.html?codigo=VVAR11.SA">VIAVAREJO UNT   </a></span>
+	<span><a href="/acao/index.html?codigo=VINE1.SA">VICUNHA TEXT DIR</a></span>
+	<span><a href="/acao/index.html?codigo=VINE11.SA">VICUNHA TEXT DIR</a></span>
+	<span><a href="/acao/index.html?codigo=VINE9.SA">VICUNHA TEXT ON </a></span>
+	<span><a href="/acao/index.html?codigo=VINE3.SA">VICUNHA TEXT ON </a></span>
+	<span><a href="/acao/index.html?codigo=VINE5.SA">VICUNHA TEXT PNA</a></span>
+	<span><a href="/acao/index.html?codigo=VINE12.SA">VICUNHA TEXT PNB</a></span>
+	<span><a href="/acao/index.html?codigo=VINE6.SA">VICUNHA TEXT PNB</a></span>
+	<span><a href="/acao/index.html?codigo=VIGR3.SA">VIGOR FOOD ON   </a></span>
+	<span><a href="/acao/index.html?codigo=VGOR3.SA">VIGOR ON</a></span>
+	<span><a href="/acao/index.html?codigo=VGOR4.SA">VIGOR PN</a></span>
+	<span><a href="/acao/index.html?codigo=VLOL11.SA">VILA OLIMPIA CI </a></span>
+	<span><a href="/acao/index.html?codigo=VISA34.SA">VISA INC        </a></span>
+	<span><a href="/acao/index.html?codigo=VNET3.SA">VISANET ON</a></span>
+	<span><a href="/acao/index.html?codigo=VIVR1.SA">VIVER DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=VIVR11.SA">VIVER DIR       </a></span>
+	<span><a href="/acao/index.html?codigo=VIVR3.SA">VIVER ON        </a></span>
+	<span><a href="/acao/index.html?codigo=VIVR9.SA">VIVER ON REC    </a></span>
+	<span><a href="/acao/index.html?codigo=VIVO3.SA">VIVO ON         </a></span>
+	<span><a href="/acao/index.html?codigo=VIVO4.SA">VIVO PN         </a></span>
+	<span><a href="/acao/index.html?codigo=VULC1.SA">VULCABRAS DIR   </a></span>
+	<span><a href="/acao/index.html?codigo=VULC3.SA">VULCABRAS ON    </a></span>
+	<span><a href="/acao/index.html?codigo=WALM34.SA">WAL MART        </a></span>
+	<span><a href="/acao/index.html?codigo=DISB34.SA">WALT DISNEY     </a></span>
+	<span><a href="/acao/index.html?codigo=WEGE3.SA">WEG ON          </a></span>
+	<span><a href="/acao/index.html?codigo=WFCO34.SA">WELLS FARGO     </a></span>
+	<span><a href="/acao/index.html?codigo=WMBY3.SA">WEMBLEY ON      </a></span>
+	<span><a href="/acao/index.html?codigo=MWET3.SA">WETZEL S/A ON   </a></span>
+	<span><a href="/acao/index.html?codigo=MWET4.SA">WETZEL S/A PN   </a></span>
+	<span><a href="/acao/index.html?codigo=WHRL3.SA">WHIRPOOL ON     </a></span>
+	<span><a href="/acao/index.html?codigo=WHRL4.SA">WHIRPOOL PN     </a></span>
+	<span><a href="/acao/index.html?codigo=WISA3.SA">WIEST ON        </a></span>
+	<span><a href="/acao/index.html?codigo=WISA4.SA">WIEST PN        </a></span>
+	<span><a href="/acao/index.html?codigo=WSON11.SA">WILSON SONS BDR </a></span>
+	<span><a href="/acao/index.html?codigo=WSON33.SA">WILSON SONS BDR </a></span>
+	<span><a href="/acao/index.html?codigo=SGAS3.SA">WLM IND COM ON  </a></span>
+	<span><a href="/acao/index.html?codigo=SGAS4.SA">WLM IND COM PN  </a></span>
+	<span><a href="/acao/index.html?codigo=XRXB34.SA">XEROX CORP      </a></span>
+	<span><a href="/acao/index.html?codigo=XPTD11.SA">XP FIA TOP DIV  </a></span>
+	<span><a href="/acao/index.html?codigo=YPFL3.SA">Y P F CDA       </a></span>
+	<span><a href="/acao/index.html?codigo=ILMD9.SA">YARA BRASIL ON</a></span>
+	<span><a href="/acao/index.html?codigo=ILMD3.SA">YARA BRASIL ON  </a></span>
+	<span><a href="/acao/index.html?codigo=ILMD10.SA">YARA BRASIL PN</a></span>
+	<span><a href="/acao/index.html?codigo=ILMD4.SA">YARA BRASIL PN  </a></span>
+	<span><a href="/acao/index.html?codigo=ILMD1.SA">YARA DIR</a></span>
+	<span><a href="/acao/index.html?codigo=ILMD2.SA">YARA DIR</a></span>
+	<span><a href="/acao/index.html?codigo=OPZI3B.SO">ZAIN PART</a></span>
+	<span><a href="/acao/index.html?codigo=ZURI9.SA">ZURICH SANT ON  </a></span>
+	<span><a href="/acao/index.html?codigo=MMMC34.SA">3M              </a></span>
+	<span><a href="/acao/index.html?codigo=QVUM3B.SO">521 PARTICIP ON</a></span>
+	<span><a href="/acao/index.html?codigo=QVQP3B.SO">524 PARTICIP</a></span>

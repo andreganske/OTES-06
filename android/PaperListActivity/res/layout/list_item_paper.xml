@@ -33,7 +33,6 @@
          android:layout_height="wrap_content"
          android:layout_alignBottom="@+id/paper_codigo"
          android:layout_marginLeft="110dp"
-         android:textAppearance="?android:attr/textAppearanceMedium"
          android:textColor="#545454" />
 
 </RelativeLayout>

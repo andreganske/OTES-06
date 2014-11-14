@@ -1,38 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical" >
+    android:layout_height="match_parent" >
 
     <TextView
-		android:id="@+id/paper_codigo"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:layout_margin="20dp"
-		android:textAppearance="?android:attr/textAppearanceLarge"/>
+        android:id="@+id/paper_codigo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:textSize="18sp" />
 
-     <TextView
-         android:id="@+id/paper_ultimo"
-         android:layout_width="wrap_content"
-         android:layout_height="wrap_content"
-         android:layout_alignLeft="@+id/paper_codigo"
-         android:layout_alignTop="@+id/paper_codigo"
-         android:layout_marginTop="30dp"/>
+    <TextView
+        android:id="@+id/paper_ultimo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="15dp"
+        android:textSize="18sp" />
 
-     <TextView
-         android:id="@+id/paper_oscilacao"
-         android:layout_width="wrap_content"
-         android:layout_height="wrap_content"
-         android:layout_alignBaseline="@+id/paper_ultimo"
-         android:layout_alignBottom="@+id/paper_ultimo"
-         android:layout_marginLeft="110dp"/>
+    <TextView
+        android:id="@+id/paper_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/paper_codigo"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#545454" />
 
-     <TextView
-         android:id="@+id/paper_name"
-         android:layout_width="wrap_content"
-         android:layout_height="wrap_content"
-         android:layout_alignBottom="@+id/paper_codigo"
-         android:layout_marginLeft="110dp"
-         android:textColor="#545454" />
+    <TextView
+        android:id="@+id/paper_oscilacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/paper_name"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp" />
 
 </RelativeLayout>

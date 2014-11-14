@@ -107,10 +107,9 @@
         android:id="@+id/paperErrorCode"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/saveButton"
+        android:layout_below="@+id/paper_text"
         android:layout_centerHorizontal="true"
         android:text="@string/error_paper_code"
-        android:visibility="invisible"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:visibility="invisible" />
 
 </RelativeLayout>

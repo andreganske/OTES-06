@@ -47,6 +47,8 @@
     
     <string name="selection_no_items">Não foi possível encontrar nenhum item. Tente novamente mais tarde.</string>
     
+    <string name="paper_new_error">Não foi possível encontrar os dados</string>
+    
     
 
 </resources>

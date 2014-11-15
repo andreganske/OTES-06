@@ -9,11 +9,13 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.andreganske.paperinvest.bovespa.BovespaPapers;
 import com.andreganske.paperinvest.bovespa.BovespaService;
+import com.andreganske.paperinvest.bovespa.PaperVO;
 import com.parse.GetCallback;
 import com.parse.ParseException;
 import com.parse.ParseQuery;
@@ -26,8 +28,13 @@ public class PaperNewActivity extends PaperActivity {
 
     private Button deleteButton;
     private Button searchButton;
-    private AutoCompleteTextView paperText;
     private Button saveButton;
+
+    private AutoCompleteTextView paperText;
+
+    private RelativeLayout loader;
+
+    private PaperVO paperVO;
 
     private String paperId = null;
 
@@ -44,6 +51,9 @@ public class PaperNewActivity extends PaperActivity {
         saveButton = (Button) findViewById(R.id.saveButton);
         deleteButton = (Button) findViewById(R.id.deleteButton);
         searchButton = (Button) findViewById(R.id.searchButton);
+        loader = (RelativeLayout) findViewById(R.id.paperLoader);
+
+        saveButton.setEnabled(false);
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line,
                 BovespaPapers.INDICES);
@@ -130,40 +140,57 @@ public class PaperNewActivity extends PaperActivity {
         @Override
         protected String doInBackground(BovespaService... params) {
             params[0].callService();
+
             paper.setCode(params[0].getPaperVo().getCodigo());
+            paperVO = params[0].getPaperVo();
 
-            if (params[0].getPaperVo().getUltimo() != null) {
+            if (validadeResult()) {
                 paper.setUltimo(params[0].getPaperVo().getUltimo());
-            } else {
-                paper.setUltimo("cannot find");
-            }
-
-            if (params[0].getPaperVo().getOscilacao() != null) {
                 paper.setOscilacao(params[0].getPaperVo().getOscilacao());
+                return "ok";
             } else {
-                paper.setUltimo("cannot find");
+                return "nok";
             }
 
-            return "ok";
         }
 
         @Override
         protected void onPostExecute(String result) {
+            loader.setVisibility(View.INVISIBLE);
+
             if (result.compareTo("ok") == 0) {
-                ((TextView) findViewById(R.id.paperCode)).setText(paper.getCode());
-                ((TextView) findViewById(R.id.paperlast)).setText(paper.getUltimo());
-                ((TextView) findViewById(R.id.paperOscilation)).setText(paper.getOscilacao());
+                ((TextView) findViewById(R.id.paperCode)).setText(paperVO.getNome());
+                ((TextView) findViewById(R.id.paperlast)).setText(paperVO.getUltimo());
+                ((TextView) findViewById(R.id.paperOscilation)).setText(paperVO.getOscilacao());
+                saveButton.setEnabled(true);
+            } else {
+                ((TextView) findViewById(R.id.paperNewError)).setVisibility(View.VISIBLE);
+                saveButton.setEnabled(false);
             }
         }
 
         @Override
         protected void onPreExecute() {
-
+            loader.setVisibility(View.VISIBLE);
         }
 
         @Override
         protected void onProgressUpdate(Void... values) {
 
+        }
+
+        private boolean validadeResult() {
+            if (paperVO.getCodigo() != null && paperVO.getCodigo().length() == 0) {
+                return false;
+            } else if (paperVO.getNome() != null && paperVO.getNome().length() == 0) {
+                return false;
+            } else if (paperVO.getUltimo() != null && paperVO.getUltimo().length() == 0) {
+                return false;
+            } else if (paperVO.getOscilacao() != null && paperVO.getOscilacao().length() == 0) {
+                return false;
+            }
+
+            return true;
         }
     }
 

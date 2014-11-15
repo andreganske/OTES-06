@@ -2,9 +2,9 @@ package com.andreganske.paperinvest.bovespa;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.List;
 
 import org.apache.http.HttpEntity;
+import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
@@ -19,46 +19,29 @@ public class BovespaService extends DataService {
 
     private PaperVO paperVo;
 
-    private List<PaperVO> paperVos;
-
     public BovespaService(String codigo) {
         super();
         paperVo = new PaperVO(codigo);
-    }
-
-    public BovespaService(List<String> codigos) {
-        super();
-        for (String codigo : codigos) {
-            PaperVO paper = new PaperVO(codigo);
-            paperVos.add(paper);
-        }
     }
 
     public PaperVO getPaperVo() {
         return paperVo;
     }
 
-    public void setPaperVo(PaperVO paperVo) {
-        this.paperVo = paperVo;
-    }
-
     @Override
-    public void callService() throws XmlPullParserException, IOException {
-        HttpClient client = new DefaultHttpClient();
-        HttpGet httpGet = null;
-
-        if (paperVo != null) {
-            httpGet = new HttpGet(bovespaUrl + paperVo.getCodigo());
-        } else if (!paperVos.isEmpty()) {
-            String url = bovespaUrl;
-            for (PaperVO paper : paperVos) {
-                url.concat(paper.getCodigo() + "|");
-            }
-            httpGet = new HttpGet(url);
+    public void callService() {
+        try {
+            HttpClient client = new DefaultHttpClient();
+            HttpGet httpGet = new HttpGet(bovespaUrl + paperVo.getCodigo());
+            httpResponse = client.execute(httpGet);
+            readResponse();
+        } catch (ClientProtocolException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (XmlPullParserException e) {
+            e.printStackTrace();
         }
-
-        httpResponse = client.execute(httpGet);
-        readResponse();
     }
 
     @Override

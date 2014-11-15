@@ -1,5 +1,8 @@
 package com.andreganske.paperinvest.bovespa;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public enum BovespaPapers {
 
     ABTT34("ABTT34", "ABBOTT"),
@@ -1738,4 +1741,11 @@ public enum BovespaPapers {
         return null;
     }
 
+    public static List<String> getAll() {
+        List<String> result = new ArrayList<String>();
+        for (BovespaPapers ticket : BovespaPapers.values()) {
+            result.add(ticket.getCode());
+        }
+        return result;
+    }
 }

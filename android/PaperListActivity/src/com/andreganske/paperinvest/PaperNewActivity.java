@@ -1,7 +1,6 @@
 package com.andreganske.paperinvest;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -21,7 +20,7 @@ import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
-public class PaperNewActivity extends Activity {
+public class PaperNewActivity extends PaperActivity {
 
     private BovespaService bovespa;
 
@@ -29,10 +28,6 @@ public class PaperNewActivity extends Activity {
     private Button searchButton;
     private AutoCompleteTextView paperText;
     private Button saveButton;
-
-    private String codigo;
-
-    protected Paper paper;
 
     private String paperId = null;
 
@@ -123,28 +118,18 @@ public class PaperNewActivity extends Activity {
                 if (code.getText().toString().equalsIgnoreCase("")) {
                     findViewById(R.id.paperErrorCode).setVisibility(View.VISIBLE);
                 } else {
-                    codigo = code.getText().toString();
-                    bovespa = new BovespaService(codigo);
+                    bovespa = new BovespaService(code.getText().toString());
                     new ContactWebservice().execute(bovespa);
                 }
             }
         });
     }
 
-    private void openMainView() {
-        startActivityForResult(new Intent(this, PaperListActivity.class), 0);
-    }
-
-    private class ContactWebservice extends AsyncTask<BovespaService, Void, String> {
+    protected class ContactWebservice extends AsyncTask<BovespaService, Void, String> {
 
         @Override
         protected String doInBackground(BovespaService... params) {
-            try {
-                params[0].callService();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-
+            params[0].callService();
             paper.setCode(params[0].getPaperVo().getCodigo());
 
             if (params[0].getPaperVo().getUltimo() != null) {
@@ -172,9 +157,14 @@ public class PaperNewActivity extends Activity {
         }
 
         @Override
-        protected void onPreExecute() {}
+        protected void onPreExecute() {
+
+        }
 
         @Override
-        protected void onProgressUpdate(Void... values) {}
+        protected void onProgressUpdate(Void... values) {
+
+        }
     }
+
 }

@@ -145,8 +145,8 @@ public class PaperNewActivity extends PaperActivity {
             paperVO = params[0].getPaperVo();
 
             if (validadeResult()) {
-                paper.setUltimo(params[0].getPaperVo().getUltimo());
-                paper.setOscilacao(params[0].getPaperVo().getOscilacao());
+                paper.setUltimo(paperVO.getUltimo());
+                paper.setOscilacao(paperVO.getOscilacao());
                 return "ok";
             } else {
                 return "nok";
@@ -164,7 +164,7 @@ public class PaperNewActivity extends PaperActivity {
                 ((TextView) findViewById(R.id.paperOscilation)).setText(paperVO.getOscilacao());
                 saveButton.setEnabled(true);
             } else {
-                ((TextView) findViewById(R.id.paperNewError)).setVisibility(View.VISIBLE);
+                findViewById(R.id.paperNewError).setVisibility(View.VISIBLE);
                 saveButton.setEnabled(false);
             }
         }
@@ -180,13 +180,13 @@ public class PaperNewActivity extends PaperActivity {
         }
 
         private boolean validadeResult() {
-            if (paperVO.getCodigo() != null && paperVO.getCodigo().length() == 0) {
+            if (paperVO.getCodigo() == null || paperVO.getCodigo().length() == 0) {
                 return false;
-            } else if (paperVO.getNome() != null && paperVO.getNome().length() == 0) {
+            } else if (paperVO.getNome() == null || paperVO.getNome().length() == 0) {
                 return false;
-            } else if (paperVO.getUltimo() != null && paperVO.getUltimo().length() == 0) {
+            } else if (paperVO.getUltimo() == null || paperVO.getUltimo().length() == 0) {
                 return false;
-            } else if (paperVO.getOscilacao() != null && paperVO.getOscilacao().length() == 0) {
+            } else if (paperVO.getOscilacao() == null || paperVO.getOscilacao().length() == 0) {
                 return false;
             }
 

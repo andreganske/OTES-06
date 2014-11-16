@@ -14,6 +14,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.andreganske.paperinvest.bovespa.BovespaPapers;
+import com.parse.ParseAnalytics;
 import com.parse.ParseAnonymousUtils;
 import com.parse.ParseQuery;
 import com.parse.ParseQueryAdapter;
@@ -29,6 +30,8 @@ public class PaperListActivity extends PaperActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_paper_list);
+
+        ParseAnalytics.trackAppOpened(getIntent());
 
         paperListView = (ListView) findViewById(R.id.paper_list_view);
         noPapersView = (LinearLayout) findViewById(R.id.no_papers_view);

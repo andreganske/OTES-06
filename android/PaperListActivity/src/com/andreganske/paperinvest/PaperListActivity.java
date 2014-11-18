@@ -1,7 +1,6 @@
 package com.andreganske.paperinvest;
 
 import android.content.Context;
-import android.graphics.Color;
 import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -100,11 +99,11 @@ public class PaperListActivity extends PaperActivity {
             holder.oscilacao.setText(paper.getOscilacao() + "%");
 
             if (paper.getOscilacao().contains("-")) {
-                holder.oscilacao.setTextColor(Color.RED);
+                holder.oscilacao.setTextColor(getResources().getColor(R.color.paperinvest_orange));
             } else if (paper.getOscilacao().compareToIgnoreCase("0,00") == 0) {
-                holder.oscilacao.setTextColor(Color.LTGRAY);
+                holder.oscilacao.setTextColor(getResources().getColor(R.color.paperinvest_gray_light));
             } else {
-                holder.oscilacao.setTextColor(Color.GREEN);
+                holder.oscilacao.setTextColor(getResources().getColor(R.color.paperinvest_green));
             }
 
             if (paper.isDraft()) {

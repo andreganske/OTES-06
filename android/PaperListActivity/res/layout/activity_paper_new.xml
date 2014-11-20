@@ -130,15 +130,15 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true" />
-
-        <TextView
-            android:id="@+id/paperNewError"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-            android:text="@string/paper_new_error"
-            android:visibility="invisible" />
     </RelativeLayout>
+
+    <TextView
+        android:id="@+id/paperNewError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/paper_new_error"
+        android:visibility="invisible" />
 
 </RelativeLayout>

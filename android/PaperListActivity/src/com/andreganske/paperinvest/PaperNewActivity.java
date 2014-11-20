@@ -164,13 +164,14 @@ public class PaperNewActivity extends PaperActivity {
                 ((TextView) findViewById(R.id.paperOscilation)).setText(paperVO.getOscilacao());
                 saveButton.setEnabled(true);
             } else {
-                findViewById(R.id.paperNewError).setVisibility(View.VISIBLE);
+                ((TextView) findViewById(R.id.paperNewError)).setVisibility(View.VISIBLE);
                 saveButton.setEnabled(false);
             }
         }
 
         @Override
         protected void onPreExecute() {
+            ((TextView) findViewById(R.id.paperNewError)).setVisibility(View.INVISIBLE);
             loader.setVisibility(View.VISIBLE);
         }
 

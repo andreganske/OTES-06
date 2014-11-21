@@ -18,7 +18,7 @@ public abstract class DataService {
 
     protected static final String bovespaUrl = "http://www.bmfbovespa.com.br/Pregao-Online/ExecutaAcaoAjax.asp?CodigoPapel=";
 
-    public void callService(String url) {
+    protected void callService(String url) {
         try {
             HttpClient client = new DefaultHttpClient();
             HttpGet httpGet = new HttpGet(url);

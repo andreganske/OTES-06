@@ -13,9 +13,9 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.andreganske.paperinvest.bovespa.BovespaPaperService;
 import com.andreganske.paperinvest.bovespa.BovespaPapers;
-import com.andreganske.paperinvest.bovespa.BovespaService;
-import com.andreganske.paperinvest.bovespa.PaperVO;
+import com.andreganske.paperinvest.bovespa.vo.PaperVO;
 import com.parse.GetCallback;
 import com.parse.ParseException;
 import com.parse.ParseQuery;
@@ -24,7 +24,7 @@ import com.parse.SaveCallback;
 
 public class PaperNewActivity extends PaperActivity {
 
-    private BovespaService bovespa;
+    private BovespaPaperService bovespaPaper;
 
     private Button deleteButton;
     private Button searchButton;
@@ -76,8 +76,8 @@ public class PaperNewActivity extends PaperActivity {
                         paperText.setText(paper.getCode());
                         deleteButton.setVisibility(View.VISIBLE);
 
-                        bovespa = new BovespaService(paper.getCode());
-                        new ContactWebservice().execute(bovespa);
+                        bovespaPaper = new BovespaPaperService(paper.getCode());
+                        new ContactWebservice().execute(bovespaPaper);
                     }
                 }
             });
@@ -128,17 +128,17 @@ public class PaperNewActivity extends PaperActivity {
                 if (code.getText().toString().equalsIgnoreCase("")) {
                     findViewById(R.id.paperErrorCode).setVisibility(View.VISIBLE);
                 } else {
-                    bovespa = new BovespaService(code.getText().toString());
-                    new ContactWebservice().execute(bovespa);
+                    bovespaPaper = new BovespaPaperService(code.getText().toString());
+                    new ContactWebservice().execute(bovespaPaper);
                 }
             }
         });
     }
 
-    protected class ContactWebservice extends AsyncTask<BovespaService, Void, String> {
+    protected class ContactWebservice extends AsyncTask<BovespaPaperService, Void, String> {
 
         @Override
-        protected String doInBackground(BovespaService... params) {
+        protected String doInBackground(BovespaPaperService... params) {
             params[0].callService();
 
             paper.setCode(params[0].getPaperVo().getCodigo());

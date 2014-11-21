@@ -4,22 +4,19 @@ import java.io.IOException;
 import java.io.InputStream;
 
 import org.apache.http.HttpEntity;
-import org.apache.http.client.ClientProtocolException;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.DefaultHttpClient;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
 import android.util.Xml;
 
+import com.andreganske.paperinvest.bovespa.vo.PaperVO;
 import com.andreganske.paperinvest.utils.DataService;
 
-public class BovespaService extends DataService {
+public class BovespaPaperService extends DataService {
 
     private PaperVO paperVo;
 
-    public BovespaService(String codigo) {
+    public BovespaPaperService(String codigo) {
         super();
         paperVo = new PaperVO(codigo);
     }
@@ -28,20 +25,8 @@ public class BovespaService extends DataService {
         return paperVo;
     }
 
-    @Override
     public void callService() {
-        try {
-            HttpClient client = new DefaultHttpClient();
-            HttpGet httpGet = new HttpGet(bovespaUrl + paperVo.getCodigo());
-            httpResponse = client.execute(httpGet);
-            readResponse();
-        } catch (ClientProtocolException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (XmlPullParserException e) {
-            e.printStackTrace();
-        }
+        super.callService(bovespaUrl + paperVo.getCodigo());
     }
 
     @Override

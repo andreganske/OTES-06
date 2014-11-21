@@ -3,6 +3,10 @@ package com.andreganske.paperinvest.utils;
 import java.io.IOException;
 
 import org.apache.http.HttpResponse;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.DefaultHttpClient;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
@@ -14,7 +18,20 @@ public abstract class DataService {
 
     protected static final String bovespaUrl = "http://www.bmfbovespa.com.br/Pregao-Online/ExecutaAcaoAjax.asp?CodigoPapel=";
 
-    public abstract void callService() throws XmlPullParserException, IOException;
+    public void callService(String url) {
+        try {
+            HttpClient client = new DefaultHttpClient();
+            HttpGet httpGet = new HttpGet(url);
+            httpResponse = client.execute(httpGet);
+            readResponse();
+        } catch (ClientProtocolException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (XmlPullParserException e) {
+            e.printStackTrace();
+        }
+    }
 
     protected abstract void readResponse() throws XmlPullParserException, IOException;
 

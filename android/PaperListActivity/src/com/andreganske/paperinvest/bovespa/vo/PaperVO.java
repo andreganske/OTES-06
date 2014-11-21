@@ -1,4 +1,4 @@
-package com.andreganske.paperinvest.bovespa;
+package com.andreganske.paperinvest.bovespa.vo;
 
 public class PaperVO {
 
